@@ -1,0 +1,9 @@
+# Site settings
+title: roclar's Site
+description: > # this means to ignore newlines until "baseurl:"
+  roclar's random notes.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://roclar.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
