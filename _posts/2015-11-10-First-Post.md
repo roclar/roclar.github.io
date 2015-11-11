@@ -11,3 +11,5 @@ In order to get jekyll serving locally, I needed to execute it with the followin
 As simply using *jekyll serve* results in a "Missing dependency: kramdown" error despite this library being present.
 
 Both the [GitHub Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/) and [Stack Overflow](http://stackoverflow.com/questions/31417469/jekyll-ruby-kramdown-missing-dependency) recommend using *bundle exec*.
+
+I also got the favicon set thanks to [Stack Overflow](http://stackoverflow.com/questions/30551501/unable-to-set-favicon-using-jekyll-and-github-pages)
