@@ -126,3 +126,122 @@ Now with nginScript.  Teaching our web server to speak browser.  Addressing the 
 NGINX now supports HTTP2.  You have to enable http2 and its still considered HTTP2.  It can affect optimizations so you will need to check application after enabling HTTP2
 
 Be careful with gzip_proxied see Breach Attacks
+
+Getting Started with Puppet
+2:00 pm-3:30 pm
+Mini Tutorial
+Thomas Uphill, Wells Fargo
+@uphillian
+
+Slides (watch in presentation mode for sweet animations) - https://docs.google.com/presentation/d/11t7XGsx9fDuhZ858PmZSJ8pFEyB61n2ea33SyCRM3O4/edit?usp=sharing
+
+https://github.com/uphillian/lisa2015
+
+/r/Puppet not /r/Puppetry
+
+Alternatives - Ansible, CFEngine, Chef, DSC, Salt
+
+Describe the state of the system not steps.  Idepotent.
+
+RAL - Resource Abstraction Layer - abstract as a type (package) and have concrete resolution as providers (RPM, YUM, APT, Zypper)
+
+Types - core types: file, packages, services, exec, mount, user, group...
+
+Providers - Weight system for packages based on system type
+
+Facter/Facts - Facter is a separate utility from Puppet such as ip address, architeture, fqwn, VM?, memory, selinux, etc.  Each of these facts can be used as variables in your puppet code.  Every time you run puppet, Facter runs first.  You can write your own facts in Ruby, Shell, Text, YAML.  In Puppet in 4.2.2, Facter is written in C++ as Ruby is really slow.  Presidence is done via a weighting system.  Custom facts usually weight higher though you can specify weight using Ruby facts.
+
+Language - Based loosely on Ruby. A type with its attributes instantiated is a resource.  Those get stuffed into classes which define nodes.  You can have multiple classes in a module.  Any kind of Puppet code file is called a manifest and genarlly have the .pp file extension.  The catalog is the runbook/playbook, the compiled version of whats going on.
+
+Classes create scope.  If you define a variable in a class, you can access it such as $class::variable.
+
+Title of resources must be unique.  But the name vars can be the same. For name vars, the path is the name.
+
+Only the unquoted true is true!  Only unquotes false is false!
+
+Some discussion on using case vs the ternary operator selector and how you can use strings or regular expressions
+
+Functions - include; altert,crit,debut,info,warning; each,map (Puppet); hiera; template; fail; define
+
+docs.puppetlabs.com/puppet_core_types_cheatsheet.pdf
+
+Files - 4 Ways to Create a Files
+
+1. content
+1. source
+1. template ERB (Embed Ruby)
+1. template EPP (Embedded Puppet in 3.8+)
+
+What is configuring a system? Add packages, apply configuration files, start services which are covered by package, files, service
+
+The compiled catalog is a JSON object
+
+Metaparameters - ordering - before, require, notify, subscribe.  Other metas for apps - noop, stage (usually there is just the main stage but you can create other stages to run before or after main), schedule
+
+Refer to an existing reource by capitalizing it.
+
+DAG - directed acyclic graph - There are no loops as you need a place to start.
+
+TURBOSPEED ENGAGE!
+
+Automated Security Compliance Evaluation of Your Infrastructure with SCAP
+4:00 pm-5:30 pm
+Mini Tutorial
+Martin Preisler, Red Hat, Inc.
+
+Slides - http://martin.preisler.me/wp-content/uploads/2015/11/USENIX-LISA15-Automated-Sec-Compliance-With-SCAP.pdf
+
+SCAP Introduction
+
+Security Content Automation Protocol - a NIST standard for expressing security policies with machine readable code.
+
+https://nvd.nist.gov/scapproducts.cfm
+
+11 certified vendors and several more support it but aren't certified yet
+
+Two type of SCAP security policies: vulnerability assessment and security compliance.  How are my machines vulnerable? vs complying to specific rules.
+
+Without SCAP you have manual compliance, BASH scripts or proprietary tools which have vendor lock-in
+
+OpenSCAP is an open source implementation of SCAP 1.2
+
+Goal 1: vulnerability assessment
+
+Goal 2: Security compliance
+
+BAIL!
+
+Working with Law Enforcement v3.0—Fifteen Years of Cooperation and Conflict
+4:45 pm-5:30 pm
+Invited Talk
+Tom Perrine, Enterprise Architect - PlayStation, Sony Computer Entertainment
+
+The rules:
+
+1. Never talk about active cases
+1. Always protect sources and methods
+1. Always get competent legal guidance (probably not your legal department as they likely not trained in criminal law
+
+Relationships matter
+  - Know who to trust (people, not organizations)
+  - Know who you may need and who may need you
+  - You want to call Tier-3, not Tier 1
+  - Play the long game
+
+Have a plan
+
+  - Know you goals - they may not be the same as law enforcement or the other related victims
+
+Know your Criteria for Success
+
+Remain Independent
+
+Be Patient - investigations take months, cases take years, you are only seeing the tip of the iceberg
+
+Be Kind
+
+More then just hacking
+
+Evidence - log like you mean it
+
+Truth
