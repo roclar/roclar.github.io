@@ -8,4 +8,121 @@ title: USENIX Lisa 2015 - Washington, DC
 ### [Washington Marriott Wardman Park](http://www.marriott.com/hotels/travel/wasdt-washington-marriott-wardman-park/) ###
 *2660 Woodley Road NW, Washington, DC 20008*
 
+## One Year after the Launch of the U.S. Digital Service: What’s Changed?
+9:00 am-10:30 am
+Keynote Address
+Mikey Dickerson, U.S. Digital Service
 
+55 different comapnies involve with healthcare.gov from different states with poor communication.
+
+Created a war room and setup monitoring which prior to that was not present. We learned that CNN has a 20-30 minute tape delay which they could determine by outages and when they showed up on CNN with them trying to log in.
+
+Service hierarchy of needs: monitoring => incident response => post mortem/root cause analysis (RCA) => testing + release process => development => product
+
+Averaged 17.5 hours a day for 9 weeks 7 days a week by December 12th and hired a bunch of folks and moved to the final war room #3.
+
+Time Magazine article - Code Red (February 2014?)
+
+Code for America - non-profit.
+
+August 2011 - US Digital Service created.
+
+Meet the Dishelved White House Staffer Who's Cleaning Up Government IT - ABC News
+
+226 year long open source project with 535 commitors where flame wars frequently break out.  Not even Debian is this disfunctional though they are getting close with systemd
+
+Lesson 1: The system does not care about your feelings.
+
+You know you have a functioning buearcrary if it can create a response that no individual would want.
+
+Lesson 2: Cruft you don't use can still hurt you. Take heartbleed the bug with its own logo!
+
+Lesson 3: The older a system is, the harder it is to change.
+
+The system for processing Medicaid claims is over 20 years old and written in Cobol that would take over 6 months to map out.  Its mostly maintained by a handful of employees who are mostly past retirement age.  It would still likely be easier to maintain rather then rewrite.  A rewrite even if perfectly execute would create hundred of changes.  Past a certain point, a rewrite isn't an option.  A rewrite of the United States is a revolution and I am not supposed to advocate that.
+
+Lesson 4: Have to get past "root cause analysis."  Past a certain level of complexity, there is almost never just one cause of a problem.  Look up Nancy Leveson, MIT - http://sunnyday.mit.edu The discipline of "System Safety" or Fly-Fix-Fly
+
+Healthcare.gov 2 - Electric Boogaloo - Was not news and often times that's the primary goal. After the second open enrolement, it cost $70 million just for the ID management piece with up to 25% error rate for it with a 5-8 seconds of max response time.  With a median number of 30 pages to click through but a max of 70.  SLS (back renamed as simple login system) now ID management costs $4 million, 0% error rate (4 errors in 100s of 1000s of logins) and .02 seconds of max response time.
+
+Goal - Engage and educate potential college students of any age or background and those that support and advise them, to find schools best sutied to them.  College Score Card.  This isn't to rank Harvard and Yale #1 this year.  We are trying to get at the tremendous population of 1st generation college students looking at spending over $100k when there are so many schools that are not created equal.
+
+The College Scorecard was built with human-centered design.  Every decision was informed by research and testing with students, parents and advisors.
+
+College Scorecard - collegescorecard.ed.gov - Launched by the president on September 12, 2015..  Over 1 million users and 5 million page views.  At least 7 tools launched using Data API, including one in Spanish.
+
+We are producing disabled veterans at a faster pace then we can process their claims.  There is a backlog of 7-8,000 applications waiting to be adjudicated of folks with serious injuries and likely with mental issues.  So Digital Service has been working on this quite a bit in the year.
+
+Fast Company - Inside Obama's Stealth Startup (from last summer)
+
+Web design standards - agencies are geting better about hiring compentent design firms but presently there are no standards.  Came up with the US Web Design Standards - playbook.cio.gov
+
+Wired.com - New Standards Coule Make Government Sites Less Worthless
+
+How dow we make sure nobody goes bankrupt (any more) under student loand debt?
+
+How do we make srue we admit as many Syrian refugees as the law allows?
+
+How do we make online identity secure enough for serious transactions?
+
+How do we make criminal background checks faster and more reliable?
+
+The Digital Services super family is around 180 or so folks.
+
+Lookup  Admiral Grace Hooper's originial nanosecond. (in custody of US Naval History and Heritage Command)
+
+www.whitehouse.gov/usds
+
+How Can You Scale It If You Don't Trust It?
+11:00 am-11:45 am
+Invited Talk
+David N. Blank Edelman, Technical Evangilist Apcera
+
+Production environments are all about trust.  What does the workload contain? where does it run? Are the right resources in play for the right workload for the right people? Can the information flow only in a secure manner?  The bigger the dploy, the harder it is to maintain the trust.  Super hard with multi-clouds.
+
+policy - in general is a lot sexier! If you can do policy, you can let the machines do what they do best and people can do what people do best.  If your environment is setup such that you have to do things that can be automated you should be upset.
+
+Where's your policy now?  You either have "the customs desk" where their job is usually to just say no as they vet requests causing delarys.  The other choice is "the wild, wild west" where anybody with a credit card can get whatever they want and things are spread out everywhere and eventually catches a stray bullet or a collapsed mine shaft.
+
+What would be better? Make policy pervasive, explicit, and automatically enforced.
+
+Pervasive means: resource limits (CPU, memory, etc), workload-to-workload connections (per port or protocol...automatic bidirectional trust is less secure), ingres/egress, external connectivity and routing, software commponets version control and deployment, log access, policy editing (who can read and write it), permissible operations between frontend and backend
+
+What did I leave out?
+
+  - Can I constrain affinity
+  - Exception policy
+  - What is the policy for changing policy
+  - Policy compliance state
+  - Cleaning policy?
+
+You need to be able to scale, and you need trust to be able to do it.
+
+www.apcera.com - dnb@apcera.com
+
+One of the hardest parts about designing policy is usability and understandability.  If a developer is trying to get something done and cannot understand the policy it won't work.
+
+5 Things You Might Not Know about NGINX
+11:45 am-12:30 pm
+Invited Talk
+Shannon Burns, Developer Advocate for NGINX
+
+NGINX
+
+1. Compress assets for delivery
+1. Stop form spamming
+1. Load Balance WebSocket connections
+1. NGINX is learning javaScript
+1. NGINX now supports HTTP2
+
+NGINX can Compress your data. you can use the gzip module with the key directives being gzip, gzip_type, and gzip_proxied.  Not to be used with binary content.  There is also the image filter module.
+
+NGINX can stop brute fore retries.  You can use the HTTP limit req module.
+
+NGINX supports WebSockets.
+
+Now with nginScript.  Teaching our web server to speak browser.  Addressing the problem of developers wanting to change their application without changing code.  Custom JavaScript runtime.  Built for the server, not the browser.  Its not a replacement for LUA.  Just a module with the directives js_set and js_run.  Not a full Javascript implementation. Can be used as a bandaid to prevent known issues, control traffic, and extent the fuctionality of the application using microservices.  Still experimental.
+
+NGINX now supports HTTP2.  You have to enable http2 and its still considered HTTP2.  It can affect optimizations so you will need to check application after enabling HTTP2
+
+Be careful with gzip_proxied see Breach Attacks
