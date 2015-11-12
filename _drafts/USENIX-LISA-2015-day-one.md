@@ -5,6 +5,10 @@ title: USENIX Lisa 2015 - Conference Day One - Washington, DC
 
 [![USENIX Lisa 15](/images/lisa15_banner_news.png "USENIX Lisa 15")](https://www.usenix.org/conference/lisa15)
 
+### Opening Remarks
+
+[SysAdmin1138 Expounds](http://sysadmin1138.net/)
+
 ### [Washington Marriott Wardman Park](http://www.marriott.com/hotels/travel/wasdt-washington-marriott-wardman-park/) ###
 *2660 Woodley Road NW, Washington, DC 20008*
 
@@ -73,7 +77,7 @@ Lookup  Admiral Grace Hooper's originial nanosecond. (in custody of US Naval His
 
 www.whitehouse.gov/usds
 
-How Can You Scale It If You Don't Trust It?
+### How Can You Scale It If You Don't Trust It?
 11:00 am-11:45 am
 Invited Talk
 David N. Blank Edelman, Technical Evangilist Apcera
@@ -102,7 +106,7 @@ www.apcera.com - dnb@apcera.com
 
 One of the hardest parts about designing policy is usability and understandability.  If a developer is trying to get something done and cannot understand the policy it won't work.
 
-5 Things You Might Not Know about NGINX
+### 5 Things You Might Not Know about NGINX
 11:45 am-12:30 pm
 Invited Talk
 Shannon Burns, Developer Advocate for NGINX
@@ -127,7 +131,7 @@ NGINX now supports HTTP2.  You have to enable http2 and its still considered HTT
 
 Be careful with gzip_proxied see Breach Attacks
 
-Getting Started with Puppet
+### Getting Started with Puppet
 2:00 pm-3:30 pm
 Mini Tutorial
 Thomas Uphill, Wells Fargo
@@ -184,7 +188,7 @@ DAG - directed acyclic graph - There are no loops as you need a place to start.
 
 TURBOSPEED ENGAGE!
 
-Automated Security Compliance Evaluation of Your Infrastructure with SCAP
+### Automated Security Compliance Evaluation of Your Infrastructure with SCAP
 4:00 pm-5:30 pm
 Mini Tutorial
 Martin Preisler, Red Hat, Inc.
@@ -211,7 +215,7 @@ Goal 2: Security compliance
 
 BAIL!
 
-Working with Law Enforcement v3.0—Fifteen Years of Cooperation and Conflict
+### Working with Law Enforcement v3.0—Fifteen Years of Cooperation and Conflict
 4:45 pm-5:30 pm
 Invited Talk
 Tom Perrine, Enterprise Architect - PlayStation, Sony Computer Entertainment
