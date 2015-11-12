@@ -1,6 +1,6 @@
 ---
 layout: post
-title: USENIX Lisa 2015 - Washington, DC
+title: USENIX Lisa 2015 - Conference Day One - Washington, DC
 ---
 
 [![USENIX Lisa 15](/images/lisa15_banner_news.png "USENIX Lisa 15")](https://www.usenix.org/conference/lisa15)
