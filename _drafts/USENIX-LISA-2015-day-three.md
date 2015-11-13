@@ -182,4 +182,64 @@ Julien Vehent - [sops demo](https://www.youtube.com/watch?v=YTEVyLXFiq0)
 
 Tool at Mozilla for managing secrets. There are project such as hiera, eyaml, etc but you always have to tailor these to your environment.  We needed something for encrypting YAML files.  [sops](https://github.com/mozilla/sops) can do this for us.
 
+## Named Data Networking ##
+2:00 pm-2:45 pm
+Invited Talk
+kc claffy, University of California, San Diego/CAIDA; Van Jacobson, University of California, Los Angeles
 
+[Named Data Networking](http://named-data.net/) (NDN)
+
+The fundemental idea of the telephone network is setup a point to point connection.  Fundementally, this wasn't changed via TCP/IP and RFC791.
+
+NDN focuses on retrieving data from "the cloud".  Don't focus on where to get the data from.  Just focus on what data you want to get
+
+Core protocls of The Net are decades old and were not designed to support the global internet.  Technically IP was an overall on the original phone network.
+
+Stimulate innovation by addressing pain points:
+
+ - Improve trust and security
+ - Reduce complexity (and cost)
+ - Enhance "fit" with applications
+ - (and make it backward-compatible! think IP over leased lines, not 6to4)
+
+First packet was sent over ARPAnet in 1969.
+
+NDN is a new architecture based on lessons learned.  New communication, security and application development model.
+
+NDN [Information Centered Networking](https://en.wikipedia.org/wiki/Information-centric_networking) (ICN) is much bigger then just content distribution.
+
+All content must be signed.  Routers may, clients shall, verify.
+
+Big idea:  Certificates are just named, signed data.
+
+[Let's Encrypt](https://letsencrypt.org/) is a new Certificate Authority: It’s free, automated, and open.  In Limited Beta
+
+Big Idea: Namespace design can convey capabilities, structure trust.
+
+[Open mHealth](http://www.openmhealth.org/)
+
+[NDN Github](https://github.com/named-data)
+
+[NDN Tutorial](https://drive.google.com/folderview?id=0B6csWc5xquq-c3BLYS1YcnFQbGM&usp=sharing)
+
+Tables:
+
+ - PIT (Pending Interests Table)
+ - FIB
+ - CS (Content Store)
+
+[Control Exchange Points: Providing QoS-enabled End-to-End Services via SDN-based Inter-domain Routing Orchestration](https://www.usenix.org/conference/ons2014/technical-sessions/presentation/kotronis)
+[Geographic Routing Using Hyperbolic Space](http://www.cs.cornell.edu/~rdk/papers/pgr.pdf)
+
+## Managing and Tracking Database Deployments ##
+2:45 pm-3:30 pm
+Invited Talk
+CJ Estel, CoverMyMeds
+
+[DBdeployer](https://github.com/covermymeds/dbdeployer)
+[cjestel](https://github.com/cjestel)
+[https://www.scriptscribe.org/](Scripts Scribe)
+
+[CRUD](http://en.wikipedia.org/wiki/Create,_read,_update_and_delete) - Create, Read, Update and Delete
+[DDL](https://en.wikipedia.org/wiki/Data_definition_language) - Data Definition Layer
+[ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) - Extract, Transform, Load
