@@ -25,31 +25,30 @@ Governments with budgets in the billions are willing to compromise individuals w
 
 Things you can do as somebody with access to make yourself a harder target:
 
- - Signal
+ - Signal - Private Messenger [iOS](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8) and [Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en) [How to: Use Signal on iOS](https://ssd.eff.org/en/module/how-use-signal-ios)
  - Encrypt by default
  - Penetration resistent OSes such as [Qubes](https://www.qubes-os.org/)
- - The linux kernel team is focused on performance and reliability not as much on security. [The kernel of the argument](http://www.washingtonpost.com/sf/business/2015/11/05/net-of-insecurity-the-kernel-of-the-argument/) Microsoft took a lot of heat early on for being insecure but they have greatly advanced their security practices.  Linux needs to increase their kernel level security efforts as well.
+ - The linux kernel team is focused on performance and reliability not as much on security. [The kernel of the argument](http://www.washingtonpost.com/sf/business/2015/11/05/net-of-insecurity-the-kernel-of-the-argument/) Washington Post article on the Linux kernel.  Microsoft took a lot of heat early on for being insecure but they have greatly advanced their security practices.  Linux needs to increase their kernel level security efforts as well.
 
 ## Docker Tutorial ##
 11:00 am-12:30 pm
 Mini Tutorial
 John Willis, Docker - @botchagalupe
 
-Dropbox Files - https://www.dropbox.com/s/ofxgoout0287ca8/Docker_Training%20-%20Base%20Copy.pdf?dl=0
-GIST Files (Cheat Sheet) - https://gist.github.com/botchagalupe/53695f50eebbd3eaa9aa
-Docker Book - http://www.dockerbook.com/
-Docker Cookbook - http://shop.oreilly.com/product/0636920036791.do
-The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations Paperback – March 7, 2016
-by Gene Kim (Author), Patrick Debois (Author), John Willis (Author), Jez Humble (Author), John Allspaw (Foreword) - http://www.amazon.com/The-DevOps-Handbook-World-Class-Organizations/dp/1942788002
-Instructors docker.com posts - https://blog.docker.com/author/john-willis/
+ - [Dropbox Files](https://www.dropbox.com/s/ofxgoout0287ca8/Docker_Training%20-%20Base%20Copy.pdf?dl=0)
+ - [GIST Files - Cheat Sheet](https://gist.github.com/botchagalupe/53695f50eebbd3eaa9aa)
+ - [Docker Book](http://www.dockerbook.com/)
+ - [Docker Cookbook](http://shop.oreilly.com/product/0636920036791.do)
+ - [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations Paperback](http://www.amazon.com/The-DevOps-Handbook-World-Class-Organizations/dp/1942788002) – March 7, 2016 by Gene Kim (Author), Patrick Debois (Author), John Willis (Author), Jez Humble (Author), John Allspaw (Foreword)
+ - [Instructors docker.com posts](https://blog.docker.com/author/john-willis/)
 
 This is a one day class thats hard to fit into 3 hours.  The examples in the PDF are easy to do without instructor help.
 
 OS Level Virtualization - Docker's class of virtualization
 
-Realizing Linux Containers (LXC) - http://www.slideshare.net/BodenRussell/realizing-linux-containerslxc - Hypervisors vs containers
+[Realizing Linux Containers (LXC)](http://www.slideshare.net/BodenRussell/realizing-linux-containerslxc) - Hypervisors vs containers
 
-Docker Machine is a client for building Docker hosts.  Doc on installing it at http://docs.docker.com/machine/
+Docker Machine is a client for building Docker hosts.  [Doc on installing it](http://docs.docker.com/machine/)
 
 Why Docker? Isolation, Lightweight, Simplicity, Workflow, and Community
 
@@ -59,11 +58,11 @@ Docker images are read only templates used to create containers which are isolat
 
 Registry (eg. Docker Hub) contain various repositories for images.
 
-Docker installations are supported on my Linux platforms.  Installation script is available on https://get.docker.com  Note that if you use the default OS repositories you will likely get an older version.
+Docker installations are supported on my Linux platforms.  [Installation script](https://get.docker.com)  Note that if you use the default OS repositories you will likely get an older version.
 
 To run docker commands without sudo you just need to add your user to the docker group.
 
-Install Toolbox on Windows and Mac - https://github.com/docker/toolbox/releases
+[Install Toolbox on Windows and Mac](https://github.com/docker/toolbox/releases)
 
 docker run does two things.  Creates the container using the image we specify and runs the container.  Has two important flags: -i to connect STDIN on the terminal and -t specifies to get a pseudo-terminal
 
@@ -76,19 +75,17 @@ docker inspect is how you get all of the metadata information for a container
 Mini Tutorial
 Bill Fraser and Dimitrios Liappis, Pythian @wmjfraser
 
-https://github.com/pythian/lisa15-docker-tutorial
+[LISA 2015 Docker Tutorial](https://github.com/pythian/lisa15-docker-tutorial)
 
 Pythian standard toolbelt in AWS: Auto Scaling Groups, CloudFormation template(s), Configuration Management (Puppet/Chef)
 
-The Wrech was all environments including production must use Docker, Architecture must limit use of Amazone services, Ansible to be used for config management, Ansible Tower to be used for scheduling of tasks.
+The Wrech was all environments including production must use Docker, Architecture must limit use of Amazon services, Ansible to be used for config management, Ansible Tower to be used for scheduling of tasks.
 
 Deployment summary
 
  - Ansible tower and shipyard for orchestration
  - Ansible to deploy Docker images via Shipyard API
  - Consul for 
-
-BAIL
 
 ## The Consilience Of Networking and Computing ##
 4:00 pm-4:45 pm

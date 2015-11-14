@@ -25,13 +25,13 @@ Service hierarchy of needs: monitoring => incident response => post mortem/root 
 
 Averaged 17.5 hours a day for 9 weeks 7 days a week by December 12th and hired a bunch of folks and moved to the final war room #3.
 
-Time Magazine article - Code Red (February 2014?)
+[Code Red_ ](http://content.time.com/time/covers/0,16641,20140310,00.html) - Inside the nightmarish launch of Healthcare.gov and the team that figured out how to fix it, Time Magazine, March 10, 2014
 
-Code for America - non-profit.
+[Code for America](http://www.codeforamerica.org/)
 
 August 2011 - US Digital Service created.
 
-Meet the Dishelved White House Staffer Who's Cleaning Up Government IT - ABC News
+[Meet the Disheveled White House Staffer Who's Cleaning Up Government IT](http://abcnews.go.com/Politics/meet-disheveled-white-house-staffer-whos-cleaning-government/story?id=25248687) - ABC News, Sep 4, 2014
 
 226 year long open source project with 535 commitors where flame wars frequently break out.  Not even Debian is this disfunctional though they are getting close with systemd
 
@@ -45,7 +45,7 @@ Lesson 3: The older a system is, the harder it is to change.
 
 The system for processing Medicaid claims is over 20 years old and written in Cobol that would take over 6 months to map out.  Its mostly maintained by a handful of employees who are mostly past retirement age.  It would still likely be easier to maintain rather then rewrite.  A rewrite even if perfectly execute would create hundred of changes.  Past a certain point, a rewrite isn't an option.  A rewrite of the United States is a revolution and I am not supposed to advocate that.
 
-Lesson 4: Have to get past "root cause analysis."  Past a certain level of complexity, there is almost never just one cause of a problem.  Look up Nancy Leveson, MIT - http://sunnyday.mit.edu The discipline of "System Safety" or Fly-Fix-Fly
+Lesson 4: Have to get past "root cause analysis."  Past a certain level of complexity, there is almost never just one cause of a problem.  Look up Nancy Leveson, MIT - [http://sunnyday.mit.edu](http://sunnyday.mit.edu) The discipline of "System Safety" or Fly-Fix-Fly
 
 Healthcare.gov 2 - Electric Boogaloo - Was not news and often times that's the primary goal. After the second open enrolement, it cost $70 million just for the ID management piece with up to 25% error rate for it with a 5-8 seconds of max response time.  With a median number of 30 pages to click through but a max of 70.  SLS (back renamed as simple login system) now ID management costs $4 million, 0% error rate (4 errors in 100s of 1000s of logins) and .02 seconds of max response time.
 
@@ -53,31 +53,30 @@ Goal - Engage and educate potential college students of any age or background an
 
 The College Scorecard was built with human-centered design.  Every decision was informed by research and testing with students, parents and advisors.
 
-College Scorecard - collegescorecard.ed.gov - Launched by the president on September 12, 2015..  Over 1 million users and 5 million page views.  At least 7 tools launched using Data API, including one in Spanish.
+[College Scorecard](http://collegescorecard.ed.gov) - Launched by the president on September 12, 2015..  Over 1 million users and 5 million page views.  At least 7 tools launched using Data API, including one in Spanish.
 
 We are producing disabled veterans at a faster pace then we can process their claims.  There is a backlog of 7-8,000 applications waiting to be adjudicated of folks with serious injuries and likely with mental issues.  So Digital Service has been working on this quite a bit in the year.
 
-Fast Company - Inside Obama's Stealth Startup (from last summer)
+[Inside Obama's Stealth Startup](http://www.fastcompany.com/3046756/obama-and-his-geeks) Fast Company
 
-Web design standards - agencies are geting better about hiring compentent design firms but presently there are no standards.  Came up with the US Web Design Standards - playbook.cio.gov
+Web design standards - agencies are geting better about hiring compentent design firms but presently there are no standards.  Came up with the US Web Design Standards - playbook.cio.gov [USDS GitHub Playbook](https://github.com/usds/playbook)
 
-Wired.com - New Standards Coule Make Government Sites Less Worthless
+[New Standards Could Make Government Sites Less Worthless](http://www.wired.com/2015/10/new-standards-could-make-government-sites-less-worthless/) Wired.com
 
-How dow we make sure nobody goes bankrupt (any more) under student loand debt?
+Problems That Need to be Solved:
 
-How do we make srue we admit as many Syrian refugees as the law allows?
-
-How do we make online identity secure enough for serious transactions?
-
-How do we make criminal background checks faster and more reliable?
+ - How dow we make sure nobody goes bankrupt (any more) under student loand debt?
+ - How do we make srue we admit as many Syrian refugees as the law allows?
+ - How do we make online identity secure enough for serious transactions?
+ - How do we make criminal background checks faster and more reliable?
 
 The Digital Services super family is around 180 or so folks.
 
 Lookup  Admiral Grace Hooper's originial nanosecond. (in custody of US Naval History and Heritage Command)
 
-www.whitehouse.gov/usds
+[US Digital Services](http://www.whitehouse.gov/usds)
 
-### How Can You Scale It If You Don't Trust It?
+## How Can You Scale It If You Don't Trust It? ##
 11:00 am-11:45 am
 Invited Talk
 David N. Blank Edelman, Technical Evangilist Apcera
@@ -102,11 +101,11 @@ What did I leave out?
 
 You need to be able to scale, and you need trust to be able to do it.
 
-www.apcera.com - dnb@apcera.com
+[Apcera](http://www.apcera.com)
 
 One of the hardest parts about designing policy is usability and understandability.  If a developer is trying to get something done and cannot understand the policy it won't work.
 
-### 5 Things You Might Not Know about NGINX
+## 5 Things You Might Not Know about NGINX ##
 11:45 am-12:30 pm
 Invited Talk
 Shannon Burns, Developer Advocate for NGINX
@@ -131,15 +130,15 @@ NGINX now supports HTTP2.  You have to enable http2 and its still considered HTT
 
 Be careful with gzip_proxied see Breach Attacks
 
-### Getting Started with Puppet
+## Getting Started with Puppet ##
 2:00 pm-3:30 pm
 Mini Tutorial
 Thomas Uphill, Wells Fargo
 @uphillian
 
-Slides (watch in presentation mode for sweet animations) - https://docs.google.com/presentation/d/11t7XGsx9fDuhZ858PmZSJ8pFEyB61n2ea33SyCRM3O4/edit?usp=sharing
+[Slides](https://docs.google.com/presentation/d/11t7XGsx9fDuhZ858PmZSJ8pFEyB61n2ea33SyCRM3O4/edit?usp=sharing) (watch in presentation mode for sweet animations)
 
-https://github.com/uphillian/lisa2015
+[uphillian's LISA 2015 Repo](https://github.com/uphillian/lisa2015)
 
 /r/Puppet not /r/Puppetry
 
@@ -167,7 +166,7 @@ Some discussion on using case vs the ternary operator selector and how you can u
 
 Functions - include; altert,crit,debut,info,warning; each,map (Puppet); hiera; template; fail; define
 
-docs.puppetlabs.com/puppet_core_types_cheatsheet.pdf
+[Puppet Core Types Cheatsheet](http://docs.puppetlabs.com/puppet_core_types_cheatsheet.pdf)
 
 Files - 4 Ways to Create a Files
 
@@ -186,20 +185,18 @@ Refer to an existing reource by capitalizing it.
 
 DAG - directed acyclic graph - There are no loops as you need a place to start.
 
-TURBOSPEED ENGAGE!
-
-### Automated Security Compliance Evaluation of Your Infrastructure with SCAP
+## Automated Security Compliance Evaluation of Your Infrastructure with SCAP ##
 4:00 pm-5:30 pm
 Mini Tutorial
 Martin Preisler, Red Hat, Inc.
 
-Slides - http://martin.preisler.me/wp-content/uploads/2015/11/USENIX-LISA15-Automated-Sec-Compliance-With-SCAP.pdf
+[Slidedeck](http://martin.preisler.me/wp-content/uploads/2015/11/USENIX-LISA15-Automated-Sec-Compliance-With-SCAP.pdf)
 
 SCAP Introduction
 
 Security Content Automation Protocol - a NIST standard for expressing security policies with machine readable code.
 
-https://nvd.nist.gov/scapproducts.cfm
+[NIST SCAP](https://nvd.nist.gov/scapproducts.cfm)
 
 11 certified vendors and several more support it but aren't certified yet
 
@@ -213,9 +210,7 @@ Goal 1: vulnerability assessment
 
 Goal 2: Security compliance
 
-BAIL!
-
-### Working with Law Enforcement v3.0—Fifteen Years of Cooperation and Conflict
+## Working with Law Enforcement v3.0—Fifteen Years of Cooperation and Conflict ##
 4:45 pm-5:30 pm
 Invited Talk
 Tom Perrine, Enterprise Architect - PlayStation, Sony Computer Entertainment

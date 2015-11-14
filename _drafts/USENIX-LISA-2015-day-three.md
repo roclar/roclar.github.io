@@ -20,7 +20,7 @@ Takeaways
  - build quality in at the source.
  - systems engineering are doing product development
 
-water- scrum- fall
+[Analyst Watch: Water-Scrum-fall is the reality of agile](http://sdtimes.com/analyst-watch-water-scrum-fall-is-the-reality-of-agile/)
 
 [2015 State of DevOps Report](https://puppetlabs.com/2015-devops-report)
 
@@ -229,6 +229,7 @@ Tables:
  - CS (Content Store)
 
 [Control Exchange Points: Providing QoS-enabled End-to-End Services via SDN-based Inter-domain Routing Orchestration](https://www.usenix.org/conference/ons2014/technical-sessions/presentation/kotronis)
+
 [Geographic Routing Using Hyperbolic Space](http://www.cs.cornell.edu/~rdk/papers/pgr.pdf)
 
 ## Managing and Tracking Database Deployments ##
@@ -236,10 +237,10 @@ Tables:
 Invited Talk
 CJ Estel, CoverMyMeds
 
-[DBdeployer](https://github.com/covermymeds/dbdeployer)
-[cjestel](https://github.com/cjestel)
-[https://www.scriptscribe.org/](Scripts Scribe)
+ - [DBdeployer](https://github.com/covermymeds/dbdeployer)
+ - [cjestel](https://github.com/cjestel)
+ - [https://www.scriptscribe.org/](Scripts Scribe)
 
-[CRUD](http://en.wikipedia.org/wiki/Create,_read,_update_and_delete) - Create, Read, Update and Delete
-[DDL](https://en.wikipedia.org/wiki/Data_definition_language) - Data Definition Layer
-[ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) - Extract, Transform, Load
+ - [CRUD](http://en.wikipedia.org/wiki/Create,_read,_update_and_delete) - Create, Read, Update and Delete
+ - [DDL](https://en.wikipedia.org/wiki/Data_definition_language) - Data Definition Layer
+ - [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) - Extract, Transform, Load
