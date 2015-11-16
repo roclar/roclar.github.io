@@ -9,9 +9,7 @@ title: USENIX Lisa 2015 - Conference Day Two - Washington, DC
 *2660 Woodley Road NW, Washington, DC 20008*
 
 ## Sysadmins and Their Role in Cyberwar: Why Several Governments Want to Spy on and Hack You, Even If You Have Nothing to Hide ##
-9:00 am-10:30 am
-Keynote Address
-Christopher Soghoian, Principal Technologist, American Civil Liberties Union
+9:00 am-10:30 am, Keynote Address, Christopher Soghoian, Principal Technologist, American Civil Liberties Union
 
 I explain technology and survalience to lawyers.
 
@@ -21,19 +19,17 @@ You are targets, whether you like it or not.
 
 Even if you have nothing to hide, you are still useful.
 
-Governments with budgets in the billions are willing to compromise individuals who themselves have done nothing wrong in order to gain access to information they can get to as a means to an end.
+Governments with budgets in the Billions are willing to compromise individuals who themselves have done nothing wrong in order to gain access to information they can get to as a means to an end.
 
 Things you can do as somebody with access to make yourself a harder target:
 
  - Signal - Private Messenger [iOS](https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8) and [Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en) [How to: Use Signal on iOS](https://ssd.eff.org/en/module/how-use-signal-ios)
  - Encrypt by default
  - Penetration resistent OSes such as [Qubes](https://www.qubes-os.org/)
- - The linux kernel team is focused on performance and reliability not as much on security. [The kernel of the argument](http://www.washingtonpost.com/sf/business/2015/11/05/net-of-insecurity-the-kernel-of-the-argument/) Washington Post article on the Linux kernel.  Microsoft took a lot of heat early on for being insecure but they have greatly advanced their security practices.  Linux needs to increase their kernel level security efforts as well.
+ - The linux kernel team is focused on performance and reliability not as much on security as outlined it [The kernel of the argument](http://www.washingtonpost.com/sf/business/2015/11/05/net-of-insecurity-the-kernel-of-the-argument/) Washington Post article.  Microsoft took a lot of heat early on for being insecure but they have greatly advanced their security practices.  Linux needs to increase their kernel level security efforts as well.
 
 ## Docker Tutorial ##
-11:00 am-12:30 pm
-Mini Tutorial
-John Willis, Docker - @botchagalupe
+11:00 am-12:30 pm, Mini Tutorial, John Willis, Docker - @botchagalupe
 
  - [Dropbox Files](https://www.dropbox.com/s/ofxgoout0287ca8/Docker_Training%20-%20Base%20Copy.pdf?dl=0)
  - [GIST Files - Cheat Sheet](https://gist.github.com/botchagalupe/53695f50eebbd3eaa9aa)
@@ -44,7 +40,7 @@ John Willis, Docker - @botchagalupe
 
 This is a one day class thats hard to fit into 3 hours.  The examples in the PDF are easy to do without instructor help.
 
-OS Level Virtualization - Docker's class of virtualization
+OS Level Virtualization - class of virtualization for Docker
 
 [Realizing Linux Containers (LXC)](http://www.slideshare.net/BodenRussell/realizing-linux-containerslxc) - Hypervisors vs containers
 
@@ -71,9 +67,7 @@ docker exec is a much cleaner way to attach and detach from a docker container
 docker inspect is how you get all of the metadata information for a container
 
 ## Automated Build and Deployment of Docker Hosts and Containers ##
-2:00 pm-3:30 pm
-Mini Tutorial
-Bill Fraser and Dimitrios Liappis, Pythian @wmjfraser
+2:00 pm-3:30 pm, Mini Tutorial, Bill Fraser and Dimitrios Liappis, Pythian @wmjfraser
 
 [LISA 2015 Docker Tutorial](https://github.com/pythian/lisa15-docker-tutorial)
 
@@ -88,9 +82,7 @@ Deployment summary
  - Consul for 
 
 ## The Consilience Of Networking and Computing ##
-4:00 pm-4:45 pm
-Invited Talk
-Dinesh G Dutt, Chief Scientist, Cumulus Networks
+4:00 pm-4:45 pm, Invited Talk, Dinesh G Dutt, Chief Scientist, Cumulus Networks
 @ddcumulus
 
 A while ago, networking and compute diverged causing us to need to solve problems twice.
@@ -101,10 +93,8 @@ Structured I/O vs Myth of the Uniform Data Model
 
 You can use Vagrant, Ansible (or you favorite configuration tool, and [Cumulus VX](https://cumulusnetworks.com/cumulus-vx/) to build a data center on your laptop.
 
-## Vulnerability Scanning's Not Good Enough: Enforcing Security and Compliance at Velocity Using Infrastructure As Code ##
-4:45 pm-5:30 pm
-Invited Talk
-Julian Dunn, Chef Software, Inc.
+## Vulnerability Scanning is Not Good Enough: Enforcing Security and Compliance at Velocity Using Infrastructure As Code ##
+4:45 pm-5:30 pm, Invited Talk, Julian Dunn, Chef Software, Inc.
 
 [Verizon 2015 PCI Compliance report](http://www.verizonenterprise.com/pcireport/2015/) - Key findings are 80% of companies fail at interim assessment right out of the gate.  From poor general hygeine patch management, dev security, log management/configuration,  or firewall configuration
 
@@ -114,4 +104,4 @@ The compliance tower of babel - Compliance speaks Excel, Security speaks in Shel
 
 OpenSCAP is very good if you have a set of benchmarks you can already apply to your system.  InSpec is easier to read and write rules.
 
-InSpec has very little to do with Chef and doesn't require configuration management.  It can be run locally on a machine or remotely.
+InSpec has very little to do with Chef and does not require configuration management.  It can be run locally on a machine or remotely.
