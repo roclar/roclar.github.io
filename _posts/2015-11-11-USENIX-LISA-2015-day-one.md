@@ -13,9 +13,7 @@ title: USENIX Lisa 2015 - Conference Day One - Washington, DC
 *2660 Woodley Road NW, Washington, DC 20008*
 
 ## One Year after the Launch of the U.S. Digital Service: What’s Changed?
-9:00 am-10:30 am
-Keynote Address
-Mikey Dickerson, U.S. Digital Service
+9:00 am-10:30 am, Keynote Address, Mikey Dickerson, U.S. Digital Service
 
 55 different comapnies involve with healthcare.gov from different states with poor communication.
 
@@ -43,13 +41,13 @@ Lesson 2: Cruft you don't use can still hurt you. Take heartbleed the bug with i
 
 Lesson 3: The older a system is, the harder it is to change.
 
-The system for processing Medicaid claims is over 20 years old and written in Cobol that would take over 6 months to map out.  Its mostly maintained by a handful of employees who are mostly past retirement age.  It would still likely be easier to maintain rather then rewrite.  A rewrite even if perfectly execute would create hundred of changes.  Past a certain point, a rewrite isn't an option.  A rewrite of the United States is a revolution and I am not supposed to advocate that.
+The system for processing Medicaid claims is over 20 years old and written in Cobol that would take over 6 months to map out.  Its mostly maintained by a handful of employees who are mostly past retirement age.  It would still likely be easier to maintain rather then rewrite.  A rewrite even if perfectly execute would create hundred of changes.  Past a certain point, a rewrite is not an option.  A rewrite of the United States is a revolution and I am not supposed to advocate that.
 
-Lesson 4: Have to get past "root cause analysis."  Past a certain level of complexity, there is almost never just one cause of a problem.  Look up Nancy Leveson, MIT - [http://sunnyday.mit.edu](http://sunnyday.mit.edu) The discipline of "System Safety" or Fly-Fix-Fly
+Lesson 4: Have to get past "root cause analysis."  Past a certain level of complexity, there is almost never just one cause of a problem.  Look up Nancy Leveson, MIT - [http://sunnyday.mit.edu](http://sunnyday.mit.edu) [System Safety Engineering](http://www.systemsafetyengineering.com/) or Fly-Fix-Fly
 
-Healthcare.gov 2 - Electric Boogaloo - Was not news and often times that's the primary goal. After the second open enrolement, it cost $70 million just for the ID management piece with up to 25% error rate for it with a 5-8 seconds of max response time.  With a median number of 30 pages to click through but a max of 70.  SLS (back renamed as simple login system) now ID management costs $4 million, 0% error rate (4 errors in 100s of 1000s of logins) and .02 seconds of max response time.
+healthcare.gov year 2 - Was not news and often times that is the primary goal. After the second open enrolement, it cost $70 million just for the ID management piece with up to 25% error rate for it with a 5-8 seconds of max response time.  With a median number of 30 pages to click through but a max of 70.  SLS (back renamed as simple login system) now ID management costs $4 million, 0% error rate (4 errors in 100s of 1000s of logins) and .02 seconds of max response time.
 
-Goal - Engage and educate potential college students of any age or background and those that support and advise them, to find schools best sutied to them.  College Score Card.  This isn't to rank Harvard and Yale #1 this year.  We are trying to get at the tremendous population of 1st generation college students looking at spending over $100k when there are so many schools that are not created equal.
+Goal - Engage and educate potential college students of any age or background and those that support and advise them, to find schools best sutied to them.  College Score Card.  This is not to rank Harvard and Yale #1 this year.  We are trying to get at the tremendous population of 1st generation college students looking at spending over $100k when there are so many schools that are not created equal.
 
 The College Scorecard was built with human-centered design.  Every decision was informed by research and testing with students, parents and advisors.
 
@@ -72,14 +70,12 @@ Problems That Need to be Solved:
 
 The Digital Services super family is around 180 or so folks.
 
-Lookup  Admiral Grace Hooper's originial nanosecond. (in custody of US Naval History and Heritage Command)
+Lookup Admiral Grace Hooper's originial nanosecond. (in custody of US Naval History and Heritage Command)
 
 [US Digital Services](http://www.whitehouse.gov/usds)
 
 ## How Can You Scale It If You Don't Trust It? ##
-11:00 am-11:45 am
-Invited Talk
-David N. Blank Edelman, Technical Evangilist Apcera
+11:00 am-11:45 am, Invited Talk, David N. Blank Edelman, Technical Evangilist Apcera
 
 Production environments are all about trust.  What does the workload contain? where does it run? Are the right resources in play for the right workload for the right people? Can the information flow only in a secure manner?  The bigger the dploy, the harder it is to maintain the trust.  Super hard with multi-clouds.
 
@@ -106,9 +102,7 @@ You need to be able to scale, and you need trust to be able to do it.
 One of the hardest parts about designing policy is usability and understandability.  If a developer is trying to get something done and cannot understand the policy it won't work.
 
 ## 5 Things You Might Not Know about NGINX ##
-11:45 am-12:30 pm
-Invited Talk
-Shannon Burns, Developer Advocate for NGINX
+11:45 am-12:30 pm, Invited Talk, Shannon Burns, Developer Advocate for NGINX
 
 NGINX
 
@@ -131,16 +125,13 @@ NGINX now supports HTTP2.  You have to enable http2 and its still considered HTT
 Be careful with gzip_proxied see Breach Attacks
 
 ## Getting Started with Puppet ##
-2:00 pm-3:30 pm
-Mini Tutorial
-Thomas Uphill, Wells Fargo
-@uphillian
+2:00 pm-3:30 pm, Mini Tutorial, Thomas Uphill, Wells Fargo, @uphillian
 
 [Slides](https://docs.google.com/presentation/d/11t7XGsx9fDuhZ858PmZSJ8pFEyB61n2ea33SyCRM3O4/edit?usp=sharing) (watch in presentation mode for sweet animations)
 
-[uphillian's LISA 2015 Repo](https://github.com/uphillian/lisa2015)
+[uphillian LISA 2015 Repo](https://github.com/uphillian/lisa2015)
 
-/r/Puppet not /r/Puppetry
+[/r/Puppet](https://www.reddit.com/r/Puppet/) not [/r/Puppetry](https://www.reddit.com/r/Puppetry/)
 
 Alternatives - Ansible, CFEngine, Chef, DSC, Salt
 
@@ -186,9 +177,7 @@ Refer to an existing reource by capitalizing it.
 DAG - directed acyclic graph - There are no loops as you need a place to start.
 
 ## Automated Security Compliance Evaluation of Your Infrastructure with SCAP ##
-4:00 pm-5:30 pm
-Mini Tutorial
-Martin Preisler, Red Hat, Inc.
+4:00 pm-5:30 pm, Mini Tutorial, Martin Preisler, Red Hat, Inc.
 
 [Slidedeck](http://martin.preisler.me/wp-content/uploads/2015/11/USENIX-LISA15-Automated-Sec-Compliance-With-SCAP.pdf)
 
@@ -211,9 +200,7 @@ Goal 1: vulnerability assessment
 Goal 2: Security compliance
 
 ## Working with Law Enforcement v3.0—Fifteen Years of Cooperation and Conflict ##
-4:45 pm-5:30 pm
-Invited Talk
-Tom Perrine, Enterprise Architect - PlayStation, Sony Computer Entertainment
+4:45 pm-5:30 pm, Invited Talk, Tom Perrine, Enterprise Architect - PlayStation, Sony Computer Entertainment
 
 The rules:
 
