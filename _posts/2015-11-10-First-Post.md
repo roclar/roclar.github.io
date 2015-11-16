@@ -6,7 +6,7 @@ This is my first post!  Yeah!
 
 In order to get jekyll serving locally, I needed to execute it with the following command:
 
-*bundle exec jekyll serve --drafts --watch*
+    bundle exec jekyll serve --drafts --watch
 
 As simply using *jekyll serve* results in a "Missing dependency: kramdown" error despite this library being present.
 
