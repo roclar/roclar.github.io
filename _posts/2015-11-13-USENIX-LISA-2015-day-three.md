@@ -9,13 +9,11 @@ title: USENIX Lisa 2015 - Conference Day Three - Washington, DC
 *2660 Woodley Road NW, Washington, DC 20008*
 
 ## Lean Configuration Management ##
-9:00 am-10:30 am
-Keynote Address
-Jez Humble, VP, Chef @jezhumble
+9:00 am-10:30 am, Keynote Address, Jez Humble, VP, Chef @jezhumble
 
 Takeaways
 
- - Throughput and stability are not a zero-sum game.  Going fast doesn't have to mean breaking things.  
+ - Throughput and stability are not a zero-sum game.  Going fast does not have to mean breaking things.  
  - culture => information flow => high performance
  - build quality in at the source.
  - systems engineering are doing product development
@@ -24,7 +22,7 @@ Takeaways
 
 [2015 State of DevOps Report](https://puppetlabs.com/2015-devops-report)
 
-it performance
+IT Performance
 
  - lead time for changes
  - release frequency
@@ -71,9 +69,9 @@ devops movement - A cross-functional community of practice dedicated to the stud
 
 [Large-Scale Continuous Testing in the Cloud](http://www.infoq.com/presentations/Continuous-Testing-Build-Cloud) - by John Penix on May 24, 2013
 
-Build quality in - "Cease dependence on mass inspection to achieve quality.  Improve the process and *build quality into the product in the first place* -  W. Edwards Deming
+Build quality in - "Cease dependence on mass inspection to achieve quality.  Improve the process and *build quality into the product in the first place*" -  W. Edwards Deming
 
-Continuous testing is much better.  Its better to never check a bug in in the first place.
+Continuous testing is much better.  It is better to never check a bug in in the first place.
 
 [Operations is a competitive advantage… Secret Sauce for Startups!](http://radar.oreilly.com/2007/10/operations-is-a-competitive-ad.html) Jesse Robbins
 
@@ -94,9 +92,7 @@ Everyone must be able to experiment, learn, and iterate. Position, obedience, an
 [Theory X and Theory Y](https://en.wikipedia.org/wiki/Theory_X_and_Theory_Y) - Your attitude towards the people who work for you will affect who works for you.
 
 ## Tools for Distributed (people), Open Source Systems Administration ##
-11:00 am-11:45 am
-Invited Talk
-Elizabeth K. Joseph, HP @pleia2 [home page of Elizabeth Krumbach Joseph](http://princessleia.com/)
+11:00 am-11:45 am, Invited Talk, Elizabeth K. Joseph, HP @pleia2 [home page of Elizabeth Krumbach Joseph](http://princessleia.com/)
 
 1. Out team
 1. The OpenStack CI system
@@ -135,8 +131,7 @@ Time zone issues can pose an issue.  Having folks in different regions increases
 Goal is to expand Zuul to incorporate Jenkins functionality.
 
 ## Lightning Talks ##
-11:45 am-12:30 pm
-Lee Damon, University of Washington
+11:45 am-12:30 pm, Lee Damon, University of Washington
 
 Peter Ericksson - So I Joined a Startup, What Now?
 
@@ -144,11 +139,11 @@ Starups are usually setup by one person with a good idea that made money and thu
 
 You need to know is your mandate from senior management. 
 
-Julie Gunderson - Power of a positive communitee
+Julie Gunderson - Power of a positive community
 
 John Arrasjid - Choices Made Tied to Career Evolution
 
-If you don't ask questions, for help, or for conference approval...When attending a conference, write a trip report.  What you expected to get out of, what you got out of it and how it applied to your job.  This will seed your request for following years.  Even if you feel uncomfortable speaking, make an effort.  Push your boundries.
+If you do not ask questions, for help, or for conference approval...When attending a conference, write a trip report.  What you expected to get out of, what you got out of it and how it applied to your job.  This will seed your request for following years.  Even if you feel uncomfortable speaking, make an effort.  Push your boundries.
 
 Brian Sebby - Improvise a Lightning Talk
 
