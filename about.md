@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About roclar
+weight: 1
 permalink: /about/
 ---
 

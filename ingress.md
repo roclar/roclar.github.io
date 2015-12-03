@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ingress Links
+weight: 5
 ---
 
 - [Niantic Labs - Ingress Help](https://support.ingress.com/hc/en-us)
@@ -9,3 +10,4 @@ title: Ingress Links
 - [decode Ingress](http://decodeingress.me/)
 - [Golro\'s Guide to Glyphing](http://decodeingress.me/2015/05/07/golros-guide-glyphing/)
 - [ingress.tv Glyphs](http://www.ingress.tv/glyphs.html)
+- [Ingress Glyph Flashcards](https://quizlet.com/67225986/flashcards)
