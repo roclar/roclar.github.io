@@ -4,6 +4,7 @@ title: Ingress Links
 weight: 5
 ---
 
+- [Ingress Intel Map](https://www.ingress.com/intel)
 - [Niantic Labs - Ingress Help](https://support.ingress.com/hc/en-us)
 - [ingress.tv - Beginner\'s Guide](http://www.ingress.tv/noob/)
 - [Ingress Field Guide - AP and Leveling](http://ingressfieldguide.com/content/action-points-ap-leveling)
