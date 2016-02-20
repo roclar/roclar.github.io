@@ -13,3 +13,4 @@ weight: 5
 - [ingress.tv Glyphs](http://www.ingress.tv/glyphs.html)
 - [Ingress Glyph Flashcards](https://quizlet.com/67225986/flashcards)
 - [emsy's Ingress Medal Calculator](http://ingress.medals.emsy.name/)
+- [Ingress Mosaics](http://ingress-mosaics.com/)
