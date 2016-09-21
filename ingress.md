@@ -15,6 +15,7 @@ weight: 5
 - [Golro\'s Guide to Glyphing](http://decodeingress.me/2015/05/07/golros-guide-glyphing/)
 - [ingress.tv Glyphs](http://www.ingress.tv/glyphs.html)
 - [Ingress Glyph Flashcards](https://quizlet.com/67225986/flashcards)
+- [Kennyboy's Hack Mod Calculator](http://kennyboy.org/ingress/)
 - [emsy's Ingress Medal Calculator](http://ingress.medals.emsy.name/)
 - [Agent Stats](https://www.agent-stats.com/)
 - [Ingress Mosaics](http://ingress-mosaics.com/)
