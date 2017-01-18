@@ -17,6 +17,7 @@ weight: 5
 - [Ingress Glyph Flashcards](https://quizlet.com/67225986/flashcards)
 - [Kennyboy's Hack Mod Calculator](http://kennyboy.org/ingress/)
 - [emsy's Ingress Medal Calculator](http://ingress.medals.emsy.name/)
+- [Player Card Creator](https://bio.ingress.com/)
 - [Agent Stats](https://www.agent-stats.com/)
 - [Ingress Recharge Radius](http://winonatong.github.io/ingress-recharge-radius/)
 - [Ingress Mosaics](http://ingress-mosaics.com/)
