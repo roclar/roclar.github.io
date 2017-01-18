@@ -18,4 +18,5 @@ weight: 5
 - [Kennyboy's Hack Mod Calculator](http://kennyboy.org/ingress/)
 - [emsy's Ingress Medal Calculator](http://ingress.medals.emsy.name/)
 - [Agent Stats](https://www.agent-stats.com/)
+- [Ingress Recharge Radius](http://winonatong.github.io/ingress-recharge-radius/)
 - [Ingress Mosaics](http://ingress-mosaics.com/)
