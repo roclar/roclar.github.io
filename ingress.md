@@ -9,6 +9,7 @@ weight: 5
 - [Ingress Terms of Service](https://www.ingress.com/terms)
 - [Ingress Community Guidelines](https://support.ingress.com/hc/en-us/articles/206606858-Ingress-Community-Guidelines)
 - [ingress.tv - Beginner\'s Guide](http://www.ingress.tv/noob/)
+- [smurf.help](http://smurf.help/) - Beginner's Guide for the Resistance
 - [Smurfing Lessons by Alexa Mayer](https://plus.google.com/u/0/photos/+AlexaMayer/albums/6069486745282199137)
 - [Ingress Field Guide - AP and Leveling](http://ingressfieldguide.com/content/action-points-ap-leveling)
 - [decode Ingress](http://decodeingress.me/)
