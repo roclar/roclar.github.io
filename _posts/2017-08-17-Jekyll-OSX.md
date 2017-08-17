@@ -48,4 +48,4 @@ Then in the site's project directory:
 
     $ bundle install
 
-
+I also had to modify my $PATH setting so that RVM's bin directory was before where the system version of Jekyll was.
