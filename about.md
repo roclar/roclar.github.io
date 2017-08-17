@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About roclar
+menu: main
 weight: 9
 permalink: /about/
 ---

@@ -16,7 +16,7 @@
       <div class="trigger">
         {% assign pages = site.pages | sort:"weight"  %}
         {% for p in pages %}
-          {% if p.title %}
+          {% if p.menu == 'main' %}
           <a class="page-link" href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
           {% endif %}
         {% endfor %}
