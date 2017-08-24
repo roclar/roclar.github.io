@@ -10,6 +10,8 @@ weight: 5
 - [Virginia Beach Ocean Front](https://www.ingress.com/intel?ll=36.830388,-75.969114&z=17&pll=36.830388,-75.969114)
 - [Downtown Norfolk](https://www.ingress.com/intel?ll=36.847124,-76.293967&z=17&pll=36.847124,-76.293967)
 - [Old Town Portsmouth](https://www.ingress.com/intel?ll=36.835555,-76.298055&z=17&pll=36.835555,-76.298055)
+- [Down Town Hampton](https://www.ingress.com/intel?ll=37.026296,-76.344286&z=17&pll=37.026296,-76.344286)
+- [Fort Monroe](https://www.ingress.com/intel?ll=37.011282,-76.315216&z=17&pll=37.011282,-76.315216) - Open 5am to midnight [Park site](https://www.nps.gov/fomr/index.htm)
 
 ## Medium (20-50)
 
@@ -24,11 +26,15 @@ weight: 5
 - [Downtown Smithfield](https://www.ingress.com/intel?ll=36.980395,-76.634412&z=17&pll=36.980395,-76.634412)
 - [Chippokes Plantation State Park](https://www.ingress.com/intel?ll=37.14025,-76.748619&z=17&pll=37.14025,-76.748619)
 - [Mt Trashmore](https://www.ingress.com/intel?ll=36.832347,-76.1256&z=17&pll=36.832347,-76.1256)
+- [Parklawn Memorial Park](https://www.ingress.com/intel?ll=37.056047,-76.382707&z=17&pll=37.056047,-76.382707)
+- [Historic Pheobus](https://www.ingress.com/intel?ll=37.018642,-76.32247&z=17&pll=37.018642,-76.32247)
+- [Hampton University](https://www.ingress.com/intel?ll=37.024165,-76.331719&z=17&pll=37.024165,-76.331719) - [parking information](http://www.hamptonu.edu/visitor/parking.cfm)
 
 ## Minor (<20)
 
+- [Air Power Park](https://www.ingress.com/intel?ll=37.043566,-76.365861&z=17&pll=37.043566,-76.365861) - outside open dawn until dusk [park site](http://www.hampton.gov/Facilities/Facility/Details/Air-Power-Park-23)
 - [Peninsula Memorial Cemetery](https://www.ingress.com/intel?ll=37.09145,-76.50258&z=17&pll=37.09145,-76.50258)
 - [Mariner's Museum](https://www.ingress.com/intel?ll=37.055288,-76.488417&z=17&pll=37.055288,-76.488417) - [Entry Fee required](http://www.marinersmuseum.org/) also has walking trail with more portals
-- [Causey's Mill Park](https://www.ingress.com/intel?ll=37.059874,-76.483505&z=17&pll=37.059874,-76.483505) - open dawn till dusk
+- [Causey's Mill Park](https://www.ingress.com/intel?ll=37.059874,-76.483505&z=17&pll=37.059874,-76.483505) - open dawn until dusk
 - [Thomas Nelson Community College](https://www.ingress.com/intel?ll=37.063786,-76.421385&z=17&pll=37.063786,-76.421385)
 - [Hunington Park](https://www.ingress.com/intel?ll=37.0158,-76.453777&z=17&pll=37.0158,-76.453777) - open sunrise to sunset [site](http://www.nnparks.com/parks_huntington.php)
