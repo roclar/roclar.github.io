@@ -6,6 +6,7 @@ weight: 5
 
 ## EX Raids
 - [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2017-08-14 -
+    - [How to Throw at Mewtwo - New Distance](https://www.youtube.com/watch?v=hmo9-FMX7CU)
 
 ## Current Legendary
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2018-03-16 - 2018-04-02
