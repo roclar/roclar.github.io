@@ -8,10 +8,8 @@ weight: 5
 - [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2017-08-14 -
     - [How to Throw at Mewtwo - New Distance](https://www.youtube.com/watch?v=hmo9-FMX7CU)
 
-## Current Legendary
+## Current Raids
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2018-03-16 - 2018-04-02
-
-## Current Raid List
 - [Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 
 ### Gen III First Legendary Wave
