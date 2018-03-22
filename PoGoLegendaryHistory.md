@@ -4,11 +4,9 @@ title: Pokemon Go Legendary Raid History
 weight: 5
 ---
 
-## EX Raids
+## Current Raids
 - [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2017-08-14 -
     - [How to Throw at Mewtwo - New Distance](https://www.youtube.com/watch?v=hmo9-FMX7CU)
-
-## Current Raids
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2018-03-16 - 2018-04-02
 - [Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 
