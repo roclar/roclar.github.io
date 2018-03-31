@@ -10,6 +10,9 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2018-03-16 - 2018-04-02
 - [Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 
+## Legendary Quest
+- [Mew Quest Guide - A Mythical Discovery](https://pokemongohub.net/post/guide/a-mythical-discovery-guide/) to catch [Mew](https://db.pokemongohub.net/pokemon/151)
+
 ### Gen III First Legendary Wave
 (Note all 3 were available from 2018-02-23 until 2018-03-05)
 - [Rayquaza](https://db.pokemongohub.net/pokemon/384) - 2018-02-09 - 2018-03-16
