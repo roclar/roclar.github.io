@@ -3,6 +3,7 @@ layout: page
 title: Pokemon Go Legendary Raid History
 weight: 5
 ---
+###### *North America dates
 
 ## Current Raids
 - [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2017-08-14 -
