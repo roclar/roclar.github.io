@@ -10,7 +10,7 @@ weight: 5
     - [How to Throw at Mewtwo - New Distance](https://www.youtube.com/watch?v=hmo9-FMX7CU)
 - [Latias](https://db.pokemongohub.net/pokemon/380) - 2018-05-08 - 2018-06-05
 - [Latios](https://db.pokemongohub.net/pokemon/381) - 2018-04-02 - 2018-05-08
-- [Lugia](https://db.pokemongohub.net/pokemon/249) - 2018-03-16 - 2018-04-02
+- [Lugia](https://db.pokemongohub.net/pokemon/249) - 2018-03-16 - 2018-04-02 (accidentally re-added in the afternoon on 2018-05-14)
 - [Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 
 ## Legendary Quest
