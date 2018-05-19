@@ -8,6 +8,7 @@ weight: 5
 ## Current Raids
 - [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2017-08-14 -
     - [How to Throw at Mewtwo - New Distance](https://www.youtube.com/watch?v=hmo9-FMX7CU)
+- [Ho-Oh](https://db.pokemongohub.net/pokemon/250) - 2018-05-18 - 2018-06-07
 - [Latias](https://db.pokemongohub.net/pokemon/380) - 2018-05-08 - 2018-06-05
 - [Latios](https://db.pokemongohub.net/pokemon/381) - 2018-04-02 - 2018-05-08
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2018-03-16 - 2018-04-02 (accidentally re-added in the afternoon on 2018-05-14)
@@ -35,6 +36,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Ho-Oh’s Legendary Return Heats Up Raid Battles!](https://pokemongolive.com/post/legendary-hooh051818/)
 - [Latias and Latios Fly into Regional Raid Battles!](https://pokemongolive.com/post/legendary-latioslatias/)
 - [Legendary Pokémon Lugia Soars Back into Raid Battles in Pokémon GO](https://pokemongolive.com/en/post/lugia031518/)
 - [Kyogre and Groudon Join Rayquaza for a Legendary Week of Raid Battles!](https://pokemongolive.com/en/post/legendaryweek022318/)
