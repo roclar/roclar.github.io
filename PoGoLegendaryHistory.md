@@ -30,9 +30,9 @@ weight: 5
 - [Raikou](https://db.pokemongohub.net/pokemon/243) - 2017-08-31 - 2017-09-30
 
 ## Gen I/Kanto Legendary Wave - The Birds
-- [Zapdos](https://db.pokemongohub.net/pokemon/145) - 2017-08-07 - 2017-08-14
-- [Moltres](https://db.pokemongohub.net/pokemon/146) - 2017-07-31 - 2017-08-07
-- [Articuno](https://db.pokemongohub.net/pokemon/144) - 2017-07-22 - 2017-07-31
+- [Zapdos](https://db.pokemongohub.net/pokemon/145) - 2017-08-07 - 2017-08-14 (Available as research breakthrough 05/2018)
+- [Moltres](https://db.pokemongohub.net/pokemon/146) - 2017-07-31 - 2017-08-07 (Available as research breakthrough 04/2018)
+- [Articuno](https://db.pokemongohub.net/pokemon/144) - 2017-07-22 - 2017-07-31 (Available as research breakthrough 06/2018)
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
