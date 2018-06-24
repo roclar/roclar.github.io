@@ -6,7 +6,7 @@ weight: 5
 
 ## Major (>50)
 
-- [College of William and Mary](https://www.ingress.com/intel?ll=37.2709,-76.70755&z=17&pll=37.2709,-76.70755) - Parking restrictions apply
+- [College of William and Mary](https://www.ingress.com/intel?ll=37.2709,-76.70755&z=17&pll=37.2709,-76.70755) - Parking restrictions apply [William & Mary Parking site](https://www.wm.edu/offices/auxiliary/parkingandtransportation/)
 - [Busch Gardens](https://www.ingress.com/intel?ll=37.236624,-76.646504&z=17&pll=37.236624,-76.646504) - Park entry fee required [Park Hours](https://seaworldparks.com/en/buschgardens-williamsburg/park-info/park-hours?from=Top_Nav)
 - [Colonial Williamsburg](https://www.ingress.com/intel?ll=37.27156,-76.693314&z=17&pll=37.27156,-76.693314) - A few portals require a ticket
 - [Yorktown Waterfront](https://www.ingress.com/intel?ll=37.236009,-76.50917&z=17&pll=37.236009,-76.50917)
