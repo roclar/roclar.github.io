@@ -8,7 +8,7 @@ weight: 5
 ## Current Raids
 - [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2017-08-14 -
     - [How to Throw at Mewtwo - New Distance](https://www.youtube.com/watch?v=hmo9-FMX7CU)
-- [Regice](https://db.pokemongohub.net/pokemon/378)
+- [Regice](https://db.pokemongohub.net/pokemon/378) - 2018-06-21 - 2018-07-19
 - [Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 
 ## Legendary Quest
