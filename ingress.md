@@ -23,4 +23,4 @@ weight: 5
 - [Player Card Creator](https://bio.ingress.com/)
 - [Agent Stats](https://www.agent-stats.com/)
 - [Ingress Recharge Radius](http://winonatong.github.io/ingress-recharge-radius/)
-- [Ingress Mosaics](http://ingress-mosaics.com/)
+- [Ingress Mosaik](https://ingressmosaik.com/)
