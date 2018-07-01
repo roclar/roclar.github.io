@@ -24,7 +24,8 @@ weight: 5
 
 ## Minor (<20)
 
-- [New Quarter Park](https://www.ingress.com/intel?ll=37.294362,-76.645719&z=17&pll=37.294362,-76.645719)
+- [York River State Park](https://www.ingress.com/intel?ll=37.414438,-76.713439&z=17&pll=37.414438,-76.713439) - [Park Hours](http://www.dcr.virginia.gov/state-parks/york-river)
+- [New Quarter Park](https://www.ingress.com/intel?ll=37.294362,-76.645719&z=17&pll=37.294362,-76.645719) - [Park Hours](https://www.yorkcounty.gov/1816/New-Quarter-Park)
 - [Quarterpath/Redoubt Park](https://www.ingress.com/intel?ll=37.261773,-76.682305&z=17&pll=37.261773,-76.682305)
 - [Bicentennial Park](https://www.ingress.com/intel?ll=37.267359,-76.705748&z=17&pll=37.267359,-76.705748)
 - [Downtown Library](https://www.ingress.com/intel?ll=37.274054,-76.708314&z=17&pll=37.274054,-76.708314)
