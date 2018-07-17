@@ -22,6 +22,11 @@ weight: 5
 | [Articuno](https://db.pokemongohub.net/pokemon/144)  | 1999 | 2095 | 1599 | 1676 | 1199 | 1257 |
 | [Lugia](https://db.pokemongohub.net/pokemon/249)  | 2462 | 2570 | 1969 | 2056 | | |
 
+| Non-Legendary  |  L25 Min  |  L25 Max  |  L20 Min  |  L20 Max  |  L15 Min  |  L15 Max  |
+| [Tyranitar](https://db.pokemongohub.net/pokemon/248)  | 2514 | 2621 | 2011 | 2097 | | |
+| [Snorlax](https://db.pokemongohub.net/pokemon/248)  | 2292 | 2396 | 1833 | 1917 | 1375 | 1438 |
+| [Machamp](https://db.pokemongohub.net/pokemon/68)  | 1967 | 2063 | 1574 | 1650 | | |
+
 ### Sources
 - [GamePress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Pokemon GO Evolution/CP Calculator](https://pokemongo.gamepress.gg/cpcalc#/)
