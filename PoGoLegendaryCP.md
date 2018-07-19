@@ -6,6 +6,7 @@ weight: 5
 
 | Legendary  |  L25 Min  |  L25 Max  |  L20 Min  |  L20 Max  |  L15 Min  |  L15 Max  |
 | [Mewtwo](https://db.pokemongohub.net/pokemon/150)  | 2730 | 2844 | 2184 | 2275 | | |
+| [Regsteel](https://db.pokemongohub.net/pokemon/379)  | 1528 | 1615 | 1222 | 1292 | | |
 | [Regice](https://db.pokemongohub.net/pokemon/378)  | 2103 | 2205 | 1682 | 1764 | | |
 | [Latias](https://db.pokemongohub.net/pokemon/380)  | 2308 | 2412 | 1846 | 1929 | | |
 | [Latios](https://db.pokemongohub.net/pokemon/381)  | 2494 | 2603 | 1995 | 2082 | | |
