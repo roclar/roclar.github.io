@@ -6,15 +6,16 @@ weight: 5
 ###### *North America dates
 
 ## Current Raids
+- [Regirock](https://db.pokemongohub.net/pokemon/380) - 2018-08-16 - 2018-09-20
 - [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2017-08-14 -
     - [How to Throw at Mewtwo - New Distance](https://www.youtube.com/watch?v=hmo9-FMX7CU)
-- [Regsteel](https://db.pokemongohub.net/pokemon/379) - 2018-07-19 - 2018-08-16
 - [Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 
 ## Legendary Quest
 - [Mew Quest Guide - A Mythical Discovery](https://pokemongohub.net/post/guide/a-mythical-discovery-guide/) to catch [Mew](https://db.pokemongohub.net/pokemon/151)
 
 ### Gen III Third Legendary Wave
+- [Regsteel](https://db.pokemongohub.net/pokemon/379) - 2018-07-19 - 2018-08-16
 - [Regice](https://db.pokemongohub.net/pokemon/378) - 2018-06-21 - 2018-07-19
 
 ### Gen III Second Legendary Wave
@@ -43,6 +44,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [The Legendary Pokémon Regirock Rolls into Earth-Rumbling Raid Battles!](https://pokemongolive.com/en/post/legendary-regirock/)
 - [The Legendary Pokémon Registeel Blasts into Pressure-Packed Raid Battles!](https://pokemongolive.com/en/post/legendary-registeel/)
 - [The Legendary Pokémon Regice Is Ready for Bone-Chilling Raid Battles!](https://pokemongolive.com/en/post/legendary-regice/)
 - [Soak Up Special Bonuses during Water Festival 2018!](https://pokemongolive.com/post/waterfestival2018/)
