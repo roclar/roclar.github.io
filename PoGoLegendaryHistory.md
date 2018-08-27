@@ -7,6 +7,7 @@ weight: 5
 
 ## Current Raids
 - [Regirock](https://db.pokemongohub.net/pokemon/380) - 2018-08-16 - 2018-09-20
+- [Ho-Oh](https://db.pokemongohub.net/pokemon/250) - 2018-08-24 - 2018-08-27
 - [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2017-08-14 -
     - [How to Throw at Mewtwo - New Distance](https://www.youtube.com/watch?v=hmo9-FMX7CU)
 - [Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
@@ -44,6 +45,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Ho-oh Returns for Johto Week](https://twitter.com/PokemonGoApp/status/1033081612009984000)
 - [The Legendary Pokémon Regirock Rolls into Earth-Rumbling Raid Battles!](https://pokemongolive.com/en/post/legendary-regirock/)
 - [The Legendary Pokémon Registeel Blasts into Pressure-Packed Raid Battles!](https://pokemongolive.com/en/post/legendary-registeel/)
 - [The Legendary Pokémon Regice Is Ready for Bone-Chilling Raid Battles!](https://pokemongolive.com/en/post/legendary-regice/)
