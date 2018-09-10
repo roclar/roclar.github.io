@@ -6,9 +6,11 @@ weight: 5
 ###### *North America dates
 
 ## Current Raids
-- [Regirock](https://db.pokemongohub.net/pokemon/380) - 2018-08-16 - 2018-09-20
-- [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2017-08-14 -
-    - [How to Throw at Mewtwo - New Distance](https://www.youtube.com/watch?v=hmo9-FMX7CU)
+- [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2018-09-20 - 2018-10-23 (EX 2017-08-14 - ?)
+- [Regirock](https://db.pokemongohub.net/pokemon/380) - 2018-08-13 - 2018-09-20
+- [Zapdos](https://db.pokemongohub.net/pokemon/145) - 2018-09-13 - 2018-09-20
+- [Moltres](https://db.pokemongohub.net/pokemon/146) - 2018-09-13 - 2018-09-20
+- [Articuno](https://db.pokemongohub.net/pokemon/144) - 2018-09-13 - 2018-09-20
 - [Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 
 ## Legendary Quest
@@ -45,6 +47,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Professor Willow’s Global Research Challenge Ends with a Power-Packed Ultra Bonus Event!](https://pokemongolive.com/post/globalchallenge-ultrabonus)
 - [Ho-oh Returns for Johto Week](https://twitter.com/PokemonGoApp/status/1033081612009984000)
 - [The Legendary Pokémon Regirock Rolls into Earth-Rumbling Raid Battles!](https://pokemongolive.com/en/post/legendary-regirock/)
 - [The Legendary Pokémon Registeel Blasts into Pressure-Packed Raid Battles!](https://pokemongolive.com/en/post/legendary-registeel/)
