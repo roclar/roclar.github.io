@@ -6,7 +6,7 @@ weight: 5
 
 | Legendary  |  L25 Min  |  L25 Max  |  L20 Min  |  L20 Max  |  L15 Min  |  L15 Max  |
 | [Deoxys](https://db.pokemongohub.net/pokemon/386)  | 1857 | 1963 | 1485 | 1570 | | |
-| [Giratina Altered form](https://db.pokemongohub.net/pokemon/487?form=Altered)  | 2310 | 2414 | 1848 | 1931 | | |
+| [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered)  | 2310 | 2414 | 1848 | 1931 | | |
 | [Mewtwo](https://db.pokemongohub.net/pokemon/150)  | 2730 | 2844 | 2184 | 2275 | | |
 | [Regirock](https://db.pokemongohub.net/pokemon/380)  | 2103 | 2205 | 1682 | 1764 | | |
 | [Registeel](https://db.pokemongohub.net/pokemon/379)  | 1528 | 1615 | 1222 | 1292 | | |

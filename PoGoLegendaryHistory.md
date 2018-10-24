@@ -6,8 +6,8 @@ weight: 5
 ###### *North America dates
 
 ## Current Raids
-- [Deoxys](https://db.pokemongohub.net/pokemon/386) - EX 2017-09-? - ?
-- [Giratina Altered form](https://db.pokemongohub.net/pokemon/487?form=Altered) - 2018-10-23 - 2018-11-20
+- [Deoxys](https://db.pokemongohub.net/pokemon/386) - EX 2017-10-01 - ?
+- [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered) - 2018-10-23 - 2018-11-20
 - [Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 
 ## Legendary Quest
