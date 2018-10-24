@@ -7,17 +7,18 @@ weight: 5
 
 ## Current Raids
 - [Deoxys](https://db.pokemongohub.net/pokemon/386) - EX 2017-09-? - ?
-- [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2018-09-20 - 2018-10-23 (EX 2017-08-14 - 2018-09-09)
-- [Regirock](https://db.pokemongohub.net/pokemon/380) - 2018-08-13 - 2018-09-20
-- [Zapdos](https://db.pokemongohub.net/pokemon/145) - 2018-09-13 - 2018-09-20
-- [Moltres](https://db.pokemongohub.net/pokemon/146) - 2018-09-13 - 2018-09-20
-- [Articuno](https://db.pokemongohub.net/pokemon/144) - 2018-09-13 - 2018-09-20
+- [Giratina Altered form](https://db.pokemongohub.net/pokemon/487?form=Altered) - 2018-10-23 - 2018-11-20
 - [Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 
 ## Legendary Quest
 - [Mew Quest Guide - A Mythical Discovery](https://pokemongohub.net/post/guide/a-mythical-discovery-guide/) to catch [Mew](https://db.pokemongohub.net/pokemon/151)
 
 ### Gen III Third Legendary Wave
+- [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2018-09-20 - 2018-10-23 (EX 2017-08-14 - 2018-09-09)
+- [Regirock](https://db.pokemongohub.net/pokemon/380) - 2018-08-13 - 2018-09-20
+- [Zapdos](https://db.pokemongohub.net/pokemon/145) - 2018-09-13 - 2018-09-20
+- [Moltres](https://db.pokemongohub.net/pokemon/146) - 2018-09-13 - 2018-09-20
+- [Articuno](https://db.pokemongohub.net/pokemon/144) - 2018-09-13 - 2018-09-20
 - [Ho-Oh](https://db.pokemongohub.net/pokemon/250) - 2018-08-24 - 2018-08-27
 - [Regsteel](https://db.pokemongohub.net/pokemon/379) - 2018-07-19 - 2018-08-16
 - [Regice](https://db.pokemongohub.net/pokemon/378) - 2018-06-21 - 2018-07-19
@@ -48,6 +49,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Have a haunting good time during Pokémon GO Halloween 2018!](https://pokemongolive.com/en/post/halloween2018/)
 - [The Mythical Pokémon Deoxys Transforms EX Raids!](https://pokemongolive.com/post/exraid-deoxys)
 - [Professor Willow’s Global Research Challenge Ends with a Power-Packed Ultra Bonus Event!](https://pokemongolive.com/post/globalchallenge-ultrabonus)
 - [Ho-oh Returns for Johto Week](https://twitter.com/PokemonGoApp/status/1033081612009984000)
