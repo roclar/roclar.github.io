@@ -7,11 +7,16 @@ weight: 5
 
 ## Current Raids
 - [Deoxys](https://db.pokemongohub.net/pokemon/386) - EX 2017-10-01 - ?
-- [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered) - 2018-10-23 - 2018-11-20
+- [Cresselia](https://db.pokemongohub.net/pokemon/488) - 2018-11-20 - 2018-12-18
+- [Ho-Oh](https://db.pokemongohub.net/pokemon/250) - 2018-12-14 - 2018-12-17
+- [Lugia](https://db.pokemongohub.net/pokemon/249) - 2018-12-14 - 2018-12-17
 - [Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 
 ## Legendary Quest
 - [Mew Quest Guide - A Mythical Discovery](https://pokemongohub.net/post/guide/a-mythical-discovery-guide/) to catch [Mew](https://db.pokemongohub.net/pokemon/151)
+
+### Gen IV
+- [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered) - 2018-10-23 - 2018-11-20
 
 ### Gen III Third Legendary Wave
 - [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2018-09-20 - 2018-10-23 (EX 2017-08-14 - 2018-09-09)
@@ -49,6 +54,8 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Challenge Lugia and Ho-Oh during a Special Raid Weekend!](https://pokemongolive.com/en/post/ho-ohlugiaraidweekenddec2018/)
+- [A new phase of Raid Battles begins with Cresselia!](https://pokemongolive.com/en/post/legendary-cresselia/)
 - [Have a haunting good time during Pokémon GO Halloween 2018!](https://pokemongolive.com/en/post/halloween2018/)
 - [The Mythical Pokémon Deoxys Transforms EX Raids!](https://pokemongolive.com/post/exraid-deoxys)
 - [Professor Willow’s Global Research Challenge Ends with a Power-Packed Ultra Bonus Event!](https://pokemongolive.com/post/globalchallenge-ultrabonus)
