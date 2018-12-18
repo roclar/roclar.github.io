@@ -28,9 +28,9 @@ weight: 5
 | [Articuno](https://db.pokemongohub.net/pokemon/144)  | 2082 | 2179 | 1665 | 1743 |  |  |
 
 | Non-Legendary  |  L25 Min  |  L25 Max  |  L20 Min  |  L20 Max  |  L15 Min  |  L15 Max  |
-| [Tyranitar](https://db.pokemongohub.net/pokemon/248)  | 2514 | 2621 | 2011 | 2097 | | |
-| [Snorlax](https://db.pokemongohub.net/pokemon/248)  | 2292 | 2396 | 1833 | 1917 | 1375 | 1438 |
-| [Machamp](https://db.pokemongohub.net/pokemon/68)  | 1967 | 2063 | 1574 | 1650 | | |
+| [Tyranitar](https://db.pokemongohub.net/pokemon/248)  | 2629 | 2739 | 2103 | 2191 | | |
+| [Snorlax](https://db.pokemongohub.net/pokemon/248)  | 2201 | 2304 | 1760 | 1843 |  |  |
+| [Machamp](https://db.pokemongohub.net/pokemon/68)  | 2084 | 2183 | 1667 | 1746 | | |
 
 ### Sources
 - [GamePress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
