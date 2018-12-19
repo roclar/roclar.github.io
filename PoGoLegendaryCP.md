@@ -7,6 +7,7 @@ weight: 5
 | Legendary  |  L25 Min  |  L25 Max  |  L20 Min  |  L20 Max  |  L15 Min  |  L15 Max  |
 | [Deoxys (Normal Forme)](https://db.pokemongohub.net/pokemon/386)  | 1857 | 1963 | 1485 | 1570 | | |
 | [Cresselia](https://db.pokemongohub.net/pokemon/488)  | 1944 | 2041 | 1555 | 1633 | | |
+| [Heatran](https://db.pokemongohub.net/pokemon/485)  | 2573 | 2681 | 2058 | 2145 | | |
 | [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered)  | 2310 | 2414 | 1848 | 1931 | | |
 | [Rayquaza](https://db.pokemongohub.net/pokemon/384)  | 2627 | 2739 | 2102 | 2191 | | |
 | [Groudon](https://db.pokemongohub.net/pokemon/383)  | 2825 | 2939 | 2260 | 2351 | | |
