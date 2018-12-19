@@ -19,18 +19,18 @@ weight: 5
 | [Regirock](https://db.pokemongohub.net/pokemon/377)  | 2129 | 2230 | 1703 | 1784 | | |
 | [Ho-Oh](https://db.pokemongohub.net/pokemon/250)  | 2649 | 2759 | 2119 | 2207 | | |
 | [Lugia](https://db.pokemongohub.net/pokemon/249)  | 2535 | 2645 | 2028 | 2115 | | |
-| [Suicune](https://db.pokemongohub.net/pokemon/245)  | 2033 | 2130 | 1627 | 1704 |  |  |
-| [Entei](https://db.pokemongohub.net/pokemon/244)  | 2375 | 2480 | 1900 | 1984 |  |  |
-| [Raikou](https://db.pokemongohub.net/pokemon/243)  | 2361 | 2466 | 1889 | 1972 |  |  |
-| [Mew](https://db.pokemongohub.net/pokemon/151)  |  |  |  |  |  |  |
+| [Suicune](https://db.pokemongohub.net/pokemon/245)  | 2033 | 2130 | 1627 | 1704 | 1220 | 1278 |
+| [Entei](https://db.pokemongohub.net/pokemon/244)  | 2375 | 2480 | 1900 | 1984 | 1425 | 1488 |
+| [Raikou](https://db.pokemongohub.net/pokemon/243)  | 2361 | 2466 | 1889 | 1972 | 1417 | 1479 |
+| [Mew](https://db.pokemongohub.net/pokemon/151)  |  |  |  |  | 1339 | 1399 |
 | [Mewtwo](https://db.pokemongohub.net/pokemon/150)  | 2868 | 2984 | 2294 | 2387 | | |
-| [Moltres](https://db.pokemongohub.net/pokemon/146)  | 2370 | 2475 | 1788 | 1870 |  |  |
-| [Zapdos](https://db.pokemongohub.net/pokemon/145)  | 2413 | 2519 | 1820 | 1902 |  |  |
-| [Articuno](https://db.pokemongohub.net/pokemon/144)  | 2082 | 2179 | 1665 | 1743 |  |  |
+| [Moltres](https://db.pokemongohub.net/pokemon/146)  | 2370 | 2475 | 1788 | 1870 | 1422 | 1485 |
+| [Zapdos](https://db.pokemongohub.net/pokemon/145)  | 2413 | 2519 | 1820 | 1902 | 1448 | 1511 |
+| [Articuno](https://db.pokemongohub.net/pokemon/144)  | 2082 | 2179 | 1665 | 1743 | 1249 | 1308 |
 
 | Non-Legendary  |  L25 Min  |  L25 Max  |  L20 Min  |  L20 Max  |  L15 Min  |  L15 Max  |
 | [Tyranitar](https://db.pokemongohub.net/pokemon/248)  | 2629 | 2739 | 2103 | 2191 | | |
-| [Snorlax](https://db.pokemongohub.net/pokemon/248)  | 2201 | 2304 | 1760 | 1843 |  |  |
+| [Snorlax](https://db.pokemongohub.net/pokemon/248)  | 2201 | 2304 | 1760 | 1843 | 1320 | 1382 |
 | [Machamp](https://db.pokemongohub.net/pokemon/68)  | 2084 | 2183 | 1667 | 1746 | | |
 
 ### Sources
