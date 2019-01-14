@@ -4,7 +4,7 @@ title: Ingress Doocracy
 weight: 5
 ---
 
-We are a do-ocracy
+**We are a do-ocracy**
 
 I've borrowed this from somewhere else (source at the bottom) but this basically sums it up- 
 
@@ -14,32 +14,33 @@ A new campmate may grumble, “Jeez, why does Mary get to decide what everyone e
 
 Do-ocracy typically evolves spontaneously in groups where:
 
- - Stakes are low Typically, if job X or task Y didn’t get done, or got done poorly, it’s not a life-or-death situation.
- - Authority is non-coercive
- - Work is plentiful There are lots of jobs to do, and lots of people to do them.
- - Effort is rewarded with recognition.
- - Culture of participation Each member of the community feels a right and a duty to take on responsibilities.
+ - **Stakes are low** Typically, if job X or task Y didn’t get done, or got done poorly, it’s not a life-or-death situation.
+ - Authority is **non-coercive**
+ - **Work is plentiful** There are lots of jobs to do, and lots of people to do them.
+ - **Effort is rewarded** with recognition.
+ - **Culture of participation** Each member of the community feels a right and a duty to take on responsibilities.
 
-Dangers in a do-ocracy
+**Dangers in a do-ocracy**
 I believe many here have experienced at least one (sometimes all) of these.
 
- - Burnout. People can get too attached to the do-ocratic system and volunteer for too many jobs, or too much work, and tend to have a low TruckFactor?.
+ - **Burnout**. People can get too attached to the do-ocratic system and volunteer for too many jobs, or too much work, and tend to have a low TruckFactor?.
 
- - Despotism A person who’s doocrat’d themselves into control of a very necessary system (network, food pool, etc.) can get heady with power and demand rewards or tribute for their work.
+ - **Despotism** A person who’s doocrat’d themselves into control of a very necessary system (network, food pool, etc.) can get heady with power and demand rewards or tribute for their work.
 
- - Frustration Some people don’t have the time or means to do something, but they do have (real or imagined) expertise. In a doocracy, they will feel overrun and perceive the situation as slipping out of their hands. This can cause frustration. And remember: “Fear is the path to the dark side…”
+ - **Frustration** Some people don’t have the time or means to do something, but they do have (real or imagined) expertise. In a doocracy, they will feel overrun and perceive the situation as slipping out of their hands. This can cause frustration. And remember: “Fear is the path to the dark side…”
 
- - Fair Process Doocracy is not always explicitly defined, so there are diverging perception dangers about “fairness”.
+ - **Fair Process** Doocracy is not always explicitly defined, so there are diverging perception dangers about “fairness”.
  
- - Resentment. If only a minority of participants in the community do-ocratize themselves into the hard jobs, they can resent others who don’t take on responsibility.
+ - **Resentment**. If only a minority of participants in the community do-ocratize themselves into the hard jobs, they can resent others who don’t take on responsibility.
 
- - The Martyrdom Complex Some people have a psychological need to work strenuously most of the time, perhaps because they are seeking persecution and suffering, motivated by a desire for penance. In do-ocracy, people with these psychological needs tend to take more responsibility and sometimes make strict rules to impose on others.
+ - **The Martyrdom Complex** Some people have a psychological need to work strenuously most of the time, perhaps because they are seeking persecution and suffering, motivated by a desire for penance. In do-ocracy, people with these psychological needs tend to take more responsibility and sometimes make strict rules to impose on others.
 
- - Complacency If a minority of people take on jobs, the others can become complacent and ignore new tasks, since “someone else will do it.”
+ - **Complacency** If a minority of people take on jobs, the others can become complacent and ignore new tasks, since “someone else will do it.”
 
- - Social Exclusion People who can’t do things, or choose not do things, are often marginalized in decision-making, which compounds social divides.
+ - **Social Exclusion** People who can’t do things, or choose not do things, are often marginalized in decision-making, which compounds social divides.
 
- - [The Tyranny Of Structurelessness](https://www.jofreeman.com/joreen/tyranny.htm)
+[The Tyranny Of Structurelessness](https://www.jofreeman.com/joreen/tyranny.htm)
 
-full reference here:
-https://communitywiki.org/wiki/DoOcracy
+[https://communitywiki.org/wiki/DoOcracy](https://communitywiki.org/wiki/DoOcracy)
+
+[original post](https://plus.google.com/+WilliamJohnson/posts/csCw7ViF5vD)
