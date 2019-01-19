@@ -6,12 +6,14 @@ weight: 5
 ###### *North America dates
 
 ## Current Raids
-- [Deoxys (Normal)](https://db.pokemongohub.net/pokemon/386) - EX 2018-10-01 - 2018-12-20
-- [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack) - EX 2018-12-
-- [Heatran](https://db.pokemongohub.net/pokemon/485) - 2018-12-18 - 2019-01-15
+- [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack) - EX 2018-12-28 - 
+- [Kyogre](https://db.pokemongohub.net/pokemon/382) - 2019-01-15 - 2019-01-29
+- [Groudon](https://db.pokemongohub.net/pokemon/383) - 2019-01-15 - 2019-01-29
 - [Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 
 ### Gen IV
+- [Deoxys (Normal)](https://db.pokemongohub.net/pokemon/386) - EX 2018-10-01 - 2018-12-20
+- [Heatran](https://db.pokemongohub.net/pokemon/485) - 2018-12-18 - 2019-01-15
 - [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered) - 2018-10-23 - 2018-11-20
 - [Cresselia](https://db.pokemongohub.net/pokemon/488) - 2018-11-20 - 2018-12-18
 - [Ho-Oh](https://db.pokemongohub.net/pokemon/250) - 2018-12-14 - 2018-12-17
@@ -53,6 +55,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Celebrate the Hoenn region during this new event!](https://pokemongolive.com/en/post/hoenn-jan2019/)
 - [Raid Battles forge into the new year with the Legendary Pokémon Heatran!](https://pokemongolive.com/en/post/legendary-heatran/)
 - [Get ready! Attack Forme Deoxys alters EX Raids!](https://pokemongolive.com/post/exraid-deoxys-attack)
 - [Challenge Lugia and Ho-Oh during a Special Raid Weekend!](https://pokemongolive.com/en/post/ho-ohlugiaraidweekenddec2018/)

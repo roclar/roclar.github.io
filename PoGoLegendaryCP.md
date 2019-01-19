@@ -18,8 +18,8 @@ weight: 5
 | [Registeel](https://db.pokemongohub.net/pokemon/379)  | 1658 | 1748 | 1326 | 1398 | | |
 | [Regice](https://db.pokemongohub.net/pokemon/378)  | 2129 | 2230 | 1704 | 1784 | | |
 | [Regirock](https://db.pokemongohub.net/pokemon/377)  | 2129 | 2230 | 1703 | 1784 | | |
-| [Ho-Oh](https://db.pokemongohub.net/pokemon/250)  | 2649 | 2759 | 2119 | 2207 | | |
-| [Lugia](https://db.pokemongohub.net/pokemon/249)  | 2535 | 2645 | 2028 | 2115 | | |
+| [Ho-Oh](https://db.pokemongohub.net/pokemon/250)  | 2649 | 2759 | 2119 | 2207 | 1589| 1655 |
+| [Lugia](https://db.pokemongohub.net/pokemon/249)  | 2535 | 2645 | 2028 | 2115 | 1521 | 1587 |
 | [Suicune](https://db.pokemongohub.net/pokemon/245)  | 2033 | 2130 | 1627 | 1704 | 1220 | 1278 |
 | [Entei](https://db.pokemongohub.net/pokemon/244)  | 2375 | 2480 | 1900 | 1984 | 1425 | 1488 |
 | [Raikou](https://db.pokemongohub.net/pokemon/243)  | 2361 | 2466 | 1889 | 1972 | 1417 | 1479 |
