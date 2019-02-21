@@ -7,6 +7,7 @@ weight: 5
 
 ## Current Raids
 - [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack) - EX 2018-12-28 - 
+- [Latias](https://db.pokemongohub.net/pokemon/380) - 2019-02-22 - 2019-02-25
 - [Palkia](https://db.pokemongohub.net/pokemon/484) - 2019-01-29 - 2019-02-28
 - [Kyogre](https://db.pokemongohub.net/pokemon/382) - 2019-01-15 - 2019-01-29
 - [Groudon](https://db.pokemongohub.net/pokemon/383) - 2019-01-15 - 2019-01-29
@@ -56,6 +57,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Challenge Latias in this Special Raid Weekend!](https://pokemongolive.com/en/post/weekendraid2019-latias/)
 - [Enter a new dimension of Raid Battles with the Legendary Pokémon Palkia!](https://pokemongolive.com/en/post/legendary-palkia/)
 - [Celebrate the Hoenn region during this new event!](https://pokemongolive.com/en/post/hoenn-jan2019/)
 - [Raid Battles forge into the new year with the Legendary Pokémon Heatran!](https://pokemongolive.com/en/post/legendary-heatran/)
