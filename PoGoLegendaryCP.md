@@ -9,6 +9,7 @@ weight: 5
 | [Deoxys (Normal Forme)](https://db.pokemongohub.net/pokemon/386)  | 1857 | 1963 | 1485 | 1570 | | |
 | [Cresselia](https://db.pokemongohub.net/pokemon/488)  | 1944 | 2041 | 1555 | 1633 | | |
 | [Heatran](https://db.pokemongohub.net/pokemon/485)  | 2573 | 2681 | 2058 | 2145 | | |
+| [Dialga](https://db.pokemongohub.net/pokemon/483)  | 2765 | 2878 | 2211 | 2302 | | |
 | [Palkia](https://db.pokemongohub.net/pokemon/484)  | 2737 | 2850 | 2190 | 2280 | | |
 | [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered)  | 2310 | 2414 | 1848 | 1931 | | |
 | [Rayquaza](https://db.pokemongohub.net/pokemon/384)  | 2627 | 2739 | 2102 | 2191 | | |
