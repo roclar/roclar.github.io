@@ -7,14 +7,15 @@ weight: 5
 
 ## Current Raids
 - [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack) - EX 2018-12-28 - 
+- [Dialga](https://db.pokemongohub.net/pokemon/483) - 2019-03-01 - 2019-03-28
 - [Latias](https://db.pokemongohub.net/pokemon/380) - 2019-02-22 - 2019-03-01
-- [Palkia](https://db.pokemongohub.net/pokemon/484) - 2019-01-29 - 2019-02-28
 - [Kyogre](https://db.pokemongohub.net/pokemon/382) - 2019-01-15 - 2019-01-29
 - [Groudon](https://db.pokemongohub.net/pokemon/383) - 2019-01-15 - 2019-01-29
 - [Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 
 ### Gen IV
 - [Deoxys (Normal)](https://db.pokemongohub.net/pokemon/386) - EX 2018-10-01 - 2018-12-20
+- [Palkia](https://db.pokemongohub.net/pokemon/484) - 2019-01-29 - 2019-02-28
 - [Heatran](https://db.pokemongohub.net/pokemon/485) - 2018-12-18 - 2019-01-15
 - [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered) - 2018-10-23 - 2018-11-20
 - [Cresselia](https://db.pokemongohub.net/pokemon/488) - 2018-11-20 - 2018-12-18
@@ -57,6 +58,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Don’t waste time - challenge Dialga in Raids!](https://pokemongolive.com/en/post/legendary-dialga2019/)
 - [Challenge Latias in this Special Raid Week!](https://pokemongolive.com/en/post/weekendraid2019-latias/)
 - [Enter a new dimension of Raid Battles with the Legendary Pokémon Palkia!](https://pokemongolive.com/en/post/legendary-palkia/)
 - [Celebrate the Hoenn region during this new event!](https://pokemongolive.com/en/post/hoenn-jan2019/)
