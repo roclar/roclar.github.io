@@ -61,6 +61,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Challenge Rayquaza in this Special Raid Weekend!](https://pokemongolive.com/en/post/weekendraid2019-rayquaza/)
 - [Don’t waste time - challenge Dialga in Raids!](https://pokemongolive.com/en/post/legendary-dialga2019/)
 - [Challenge Latias in this Special Raid Week!](https://pokemongolive.com/en/post/weekendraid2019-latias/)
 - [Enter a new dimension of Raid Battles with the Legendary Pokémon Palkia!](https://pokemongolive.com/en/post/legendary-palkia/)
