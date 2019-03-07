@@ -7,15 +7,18 @@ weight: 5
 
 ## Current Raids
 - [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack) - EX 2018-12-28 - 
+- [Rayquaza](https://db.pokemongohub.net/pokemon/384) - 2019-03-15 - 2019-03-18
 - [Dialga](https://db.pokemongohub.net/pokemon/483) - 2019-03-01 - 2019-03-28
-- [Latias](https://db.pokemongohub.net/pokemon/380) - 2019-02-22 - 2019-03-01
-- [Kyogre](https://db.pokemongohub.net/pokemon/382) - 2019-01-15 - 2019-01-29
-- [Groudon](https://db.pokemongohub.net/pokemon/383) - 2019-01-15 - 2019-01-29
 - [Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 
-### Gen IV
-- [Deoxys (Normal)](https://db.pokemongohub.net/pokemon/386) - EX 2018-10-01 - 2018-12-20
+### Gen IV Second Legendary Wave
+- [Latias](https://db.pokemongohub.net/pokemon/380) - 2019-02-22 - 2019-03-01
 - [Palkia](https://db.pokemongohub.net/pokemon/484) - 2019-01-29 - 2019-02-28
+- [Kyogre](https://db.pokemongohub.net/pokemon/382) - 2019-01-15 - 2019-01-29
+- [Groudon](https://db.pokemongohub.net/pokemon/383) - 2019-01-15 - 2019-01-29
+
+### Gen IV First Legendary Wave
+- [Deoxys (Normal)](https://db.pokemongohub.net/pokemon/386) - EX 2018-10-01 - 2018-12-20
 - [Heatran](https://db.pokemongohub.net/pokemon/485) - 2018-12-18 - 2019-01-15
 - [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered) - 2018-10-23 - 2018-11-20
 - [Cresselia](https://db.pokemongohub.net/pokemon/488) - 2018-11-20 - 2018-12-18
