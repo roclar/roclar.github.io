@@ -4,11 +4,21 @@ title: Pokemon Go Spinda History
 weight: 10
 ---
 
-![Forme 8](/images/SpindaForme8.png "Spinda Forme 8") Spinda Forme 8 - August, 2018 - "Land 3 Curveball throws in a row."
+![Forme 8](/images/SpindaForme8.png "Spinda Forme 8") Spinda Forme 8 - August, 2018
 
-![Forme 3](/images/SpindaForme3.png "Spinda Forme 3") Spinda Forme 3 - September, 2018 - "Make a Great Curveball throw."
+![Forme 3](/images/SpindaForme3.png "Spinda Forme 3") Spinda Forme 3 - September, 2018
 
-![Forme 1](/images/SpindaForme1.png "Spinda Forme 1") Spinda Forme 1 - October, 2018 - "Make 2 Nice Curveball Throws."
+![Forme 1](/images/SpindaForme1.png "Spinda Forme 1") Spinda Forme 1 - October, 2018
+
+![Forme 7](/images/SpindaForme1.png "Spinda Forme 7") Spinda Forme 7 - November, 2018
+
+![Forme 6](/images/SpindaForme1.png "Spinda Forme 6") Spinda Forme 6 - December, 2018
+
+![Forme 5](/images/SpindaForme1.png "Spinda Forme 5") Spinda Forme 5 - January/February, 2019
+
+![Forme 9](/images/SpindaForme9.png "Spinda Forme 9") Spinda Forme 9 - February 13-21, 2019
+
+![Forme 2](/images/SpindaForme1.png "Spinda Forme 2") Spinda Forme 2 - March/April, 2019
 
 ### Sources
 
