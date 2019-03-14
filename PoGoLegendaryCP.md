@@ -5,6 +5,7 @@ weight: 5
 ---
 
 | Legendary  |  L25 Min  |  L25 Max  |  L20 Min  |  L20 Max  |  L15 Min  |  L15 Max  |
+| [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense)  | 1535 | 1624 | 1228 | 1299 | | |
 | [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack)  | 1716 | 1842 | 1372 | 1474 | | |
 | [Deoxys (Normal Forme)](https://db.pokemongohub.net/pokemon/386)  | 1857 | 1963 | 1485 | 1570 | | |
 | [Cresselia](https://db.pokemongohub.net/pokemon/488)  | 1944 | 2041 | 1555 | 1633 | | |

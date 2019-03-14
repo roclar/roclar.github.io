@@ -6,7 +6,8 @@ weight: 5
 ###### *North America dates
 
 ## Current Raids
-- [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack) - EX 2018-12-28 - 
+- [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense) - EX 2019-03-25 - 
+- [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack) - EX 2018-12-28 - 2019-03-19
 - [Rayquaza](https://db.pokemongohub.net/pokemon/384) - 2019-03-15 - 2019-03-18
 - [Dialga](https://db.pokemongohub.net/pokemon/483) - 2019-03-01 - 2019-03-28
 - [Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
@@ -61,6 +62,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Get ready! Defense Forme Deoxys alters EX Raids!](https://pokemongolive.com/en/post/exraid-deoxys-defense/)
 - [Challenge Rayquaza in this Special Raid Weekend!](https://pokemongolive.com/en/post/weekendraid2019-rayquaza/)
 - [Don’t waste time - challenge Dialga in Raids!](https://pokemongolive.com/en/post/legendary-dialga2019/)
 - [Challenge Latias in this Special Raid Week!](https://pokemongolive.com/en/post/weekendraid2019-latias/)
