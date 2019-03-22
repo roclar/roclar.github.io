@@ -19,9 +19,9 @@ weight: 5
 | [Kyogre](https://db.pokemongohub.net/pokemon/382)  | 2825 | 2939 | 2260 | 2351 | | |
 | [Latios](https://db.pokemongohub.net/pokemon/381)  | 2613 | 2723 | 2090 | 2178 | | |
 | [Latias](https://db.pokemongohub.net/pokemon/380)  | 2402 | 2507 | 1921 | 2006 | | |
-| [Registeel](https://db.pokemongohub.net/pokemon/379)  | 1658 | 1748 | 1326 | 1398 | | |
-| [Regice](https://db.pokemongohub.net/pokemon/378)  | 2129 | 2230 | 1704 | 1784 | | |
-| [Regirock](https://db.pokemongohub.net/pokemon/377)  | 2129 | 2230 | 1703 | 1784 | | |
+| [Registeel](https://db.pokemongohub.net/pokemon/379)  | 1658 | 1748 | 1326 | 1398 | 994 | 1048 |
+| [Regice](https://db.pokemongohub.net/pokemon/378)  | 2129 | 2230 | 1704 | 1784 | 1277 | 1338 |
+| [Regirock](https://db.pokemongohub.net/pokemon/377)  | 2129 | 2230 | 1703 | 1784 | 1277 | 1338 |
 | [Ho-Oh](https://db.pokemongohub.net/pokemon/250)  | 2649 | 2759 | 2119 | 2207 | 1589| 1655 |
 | [Lugia](https://db.pokemongohub.net/pokemon/249)  | 2535 | 2645 | 2028 | 2115 | 1521 | 1587 |
 | [Suicune](https://db.pokemongohub.net/pokemon/245)  | 2033 | 2130 | 1627 | 1704 | 1220 | 1278 |
