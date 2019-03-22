@@ -8,7 +8,7 @@ weight: 5
 ## Current Raids
 - [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense) - EX 2019-03-25 - 
 - [Giratina (Origin Forme)](https://db.pokemongohub.net/pokemon/487?form=Origin) - 2019-04-02 - 2019-04-29
-- [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered) - 019-03-28 - 2019-04-02
+- [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered) - 2019-03-28 - 2019-04-02
 - [Dialga](https://db.pokemongohub.net/pokemon/483) - 2019-03-01 - 2019-03-28
 - [Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 
