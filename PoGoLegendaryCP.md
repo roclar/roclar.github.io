@@ -13,6 +13,7 @@ weight: 5
 | [Dialga](https://db.pokemongohub.net/pokemon/483)  | 2765 | 2878 | 2211 | 2302 | | |
 | [Palkia](https://db.pokemongohub.net/pokemon/484)  | 2737 | 2850 | 2190 | 2280 | | |
 | [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered)  | 2310 | 2414 | 1848 | 1931 | | |
+| [Giratina (Origin Forme)](https://db.pokemongohub.net/pokemon/487?form=Origin)  | 2523 | 2631 | 2018 | 2105 | | |
 | [Rayquaza](https://db.pokemongohub.net/pokemon/384)  | 2627 | 2739 | 2102 | 2191 | | |
 | [Groudon](https://db.pokemongohub.net/pokemon/383)  | 2825 | 2939 | 2260 | 2351 | | |
 | [Kyogre](https://db.pokemongohub.net/pokemon/382)  | 2825 | 2939 | 2260 | 2351 | | |
