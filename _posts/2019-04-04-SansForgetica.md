@@ -3,7 +3,7 @@ layout: post
 title: Sans Forgetica A Font To Remember
 ---
 
-[![Sans Forgetica](images/SansForgetica.png "Sans Forgetica")](https://sansforgetica.rmit/)
+[![Sans Forgetica](/images/SansForgetica.png "Sans Forgetica")](https://sansforgetica.rmit/)
 
 Sans Forgetica is a font designed using the principles of cognitive psychology to help you to better remember your study notes.
 
