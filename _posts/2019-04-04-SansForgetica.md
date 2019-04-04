@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sans Forgetica: A Font To Remember
+title: Sans Forgetica A Font To Remember
 ---
 
 [![Sans Forgetica](images/SansForgetica.png "Sans Forgetica")](https://sansforgetica.rmit/)
