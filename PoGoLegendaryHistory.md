@@ -29,6 +29,11 @@ weight: 5
 - [Ho-Oh](https://db.pokemongohub.net/pokemon/250) - 2018-12-14 - 2018-12-17
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2018-12-14 - 2018-12-17
 
+### Gen I Special Raid Days
+- [Moltres](https://db.pokemongohub.net/pokemon/146) - 2018-09-10
+- [Zapdos](https://db.pokemongohub.net/pokemon/145) - 2018-07-21
+- [Articuno](https://db.pokemongohub.net/pokemon/144) - 2018-07-07
+
 ### Gen III Third Legendary Wave
 - [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2018-09-20 - 2018-10-23 (EX 2017-08-14 - 2018-09-09)
 - [Regirock](https://db.pokemongohub.net/pokemon/380) - 2018-08-13 - 2018-09-20
@@ -80,8 +85,11 @@ weight: 5
 - [The Mythical Pokémon Deoxys Transforms EX Raids!](https://pokemongolive.com/post/exraid-deoxys)
 - [Professor Willow’s Global Research Challenge Ends with a Power-Packed Ultra Bonus Event!](https://pokemongolive.com/post/globalchallenge-ultrabonus)
 - [Ho-oh Returns for Johto Week](https://twitter.com/PokemonGoApp/status/1033081612009984000)
+- [Unlock Moltres Day during Professor Willow’s Global Challenge!](https://pokemongolive.com/en/post/moltresday2018sep/)
 - [The Legendary Pokémon Regirock Rolls into Earth-Rumbling Raid Battles!](https://pokemongolive.com/en/post/legendary-regirock/)
 - [The Legendary Pokémon Registeel Blasts into Pressure-Packed Raid Battles!](https://pokemongolive.com/en/post/legendary-registeel/)
+- [Unlock Zapdos Day during Professor Willow’s Global Challenge!](https://pokemongolive.com/en/post/zapdosday2018jul/)
+- [Unlock Articuno Day during Professor Willow’s Global Challenge!](https://pokemongolive.com/en/post/articunoday2018jul/)
 - [The Legendary Pokémon Regice Is Ready for Bone-Chilling Raid Battles!](https://pokemongolive.com/en/post/legendary-regice/)
 - [Soak Up Special Bonuses during Water Festival 2018!](https://pokemongolive.com/post/waterfestival2018/)
 - [Ho-Oh’s Legendary Return Heats Up Raid Battles!](https://pokemongolive.com/post/legendary-hooh051818/)
