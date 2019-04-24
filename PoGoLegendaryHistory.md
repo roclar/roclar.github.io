@@ -7,13 +7,13 @@ weight: 5
 
 ## Current Raids
 - [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense) - EX 2019-03-25 - 
-- [Latios](https://db.pokemongohub.net/pokemon/381) - 2019-04-15 - 2018-04-22
 - [Giratina (Origin Forme)](https://db.pokemongohub.net/pokemon/487?form=Origin) - 2019-04-02 - 2019-04-29
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 
 ### Gen IV Second Legendary Wave
 - [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack) - EX 2018-12-28 - 2019-03-19
+- [Latios](https://db.pokemongohub.net/pokemon/381) - 2019-04-15 - 2018-04-22
 - [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered) - 2019-03-28 - 2019-04-02
 - [Dialga](https://db.pokemongohub.net/pokemon/483) - 2019-03-01 - 2019-03-28
 - [Rayquaza](https://db.pokemongohub.net/pokemon/384) - 2019-03-15 - 2019-03-18
