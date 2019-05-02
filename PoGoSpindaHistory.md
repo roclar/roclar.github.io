@@ -20,6 +20,8 @@ weight: 10
 
 ![Forme 2](/images/SpindaForme2.png "Spinda Forme 2") Spinda Forme 2 - March/April, 2019
 
+![Forme 4](/images/SpindaForme4.png "Spinda Forme 4") Spinda Forme 4 - May/June, 2019
+
 ### Sources
 
 - [PoGo Fandom Spinda](https://pokemongo.fandom.com/wiki/Spinda)
