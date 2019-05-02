@@ -7,12 +7,13 @@ weight: 5
 
 ## Current Raids
 - [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense) - EX 2019-03-25 - 
-- [Groudon](https://db.pokemongohub.net/pokemon/383) - 2019-04-29 - 2019-05-02
+- [Azelf](https://db.pokemongohub.net/pokemon/482) - 2019-05-02 - 2019-05-27
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 
 ### Gen IV Second Legendary Wave
 - [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack) - EX 2018-12-28 - 2019-03-19
+- [Groudon](https://db.pokemongohub.net/pokemon/383) - 2019-04-29 - 2019-05-02
 - [Giratina (Origin Forme)](https://db.pokemongohub.net/pokemon/487?form=Origin) - 2019-04-02 - 2019-04-29
 - [Latios](https://db.pokemongohub.net/pokemon/381) - 2019-04-15 - 2018-04-22
 - [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered) - 2019-03-28 - 2019-04-02
@@ -72,6 +73,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Uxie, Mesprit, and Azelf surface in regional raids](https://pokemongolive.com/en/post/regionalraids2019/)
 - [Earth Day Cleanup Rewards](https://twitter.com/PokemonGoApp/status/1122954828483846144)
 - [Challenge Latios during this Special Raid Week!](https://pokemongolive.com/en/post/weekraid2019-lati0s/)
 - [Giratina Returns, Ready to Transform!](https://pokemongolive.com/en/post/giratinareturns2019/)
