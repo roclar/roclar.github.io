@@ -9,11 +9,14 @@ weight: 5
 | [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack)  | 1716 | 1842 | 1372 | 1474 | | |
 | [Deoxys (Normal Forme)](https://db.pokemongohub.net/pokemon/386)  | 1857 | 1963 | 1485 | 1570 | | |
 | [Cresselia](https://db.pokemongohub.net/pokemon/488)  | 1944 | 2041 | 1555 | 1633 | | |
-| [Heatran](https://db.pokemongohub.net/pokemon/485)  | 2573 | 2681 | 2058 | 2145 | | |
-| [Dialga](https://db.pokemongohub.net/pokemon/483)  | 2771 | 2884 | 2217 | 2307 | | |
-| [Palkia](https://db.pokemongohub.net/pokemon/484)  | 2737 | 2850 | 2190 | 2280 | | |
 | [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered)  | 2310 | 2414 | 1848 | 1931 | | |
 | [Giratina (Origin Forme)](https://db.pokemongohub.net/pokemon/487?form=Origin)  | 2523 | 2631 | 2018 | 2105 | | |
+| [Heatran](https://db.pokemongohub.net/pokemon/485)  | 2573 | 2681 | 2058 | 2145 | | |
+| [Palkia](https://db.pokemongohub.net/pokemon/484)  | 2737 | 2850 | 2190 | 2280 | | |
+| [Dialga](https://db.pokemongohub.net/pokemon/483)  | 2771 | 2884 | 2217 | 2307 | | |
+| [Azelf](https://db.pokemongohub.net/pokemon/482)  | 2190 | 2293 | 1752 | 1834 | | |
+| [Mesprit](https://db.pokemongohub.net/pokemon/481)  | 2086 | 2184 | 1669 | 1747 | | |
+| [Uxie](https://db.pokemongohub.net/pokemon/480)  | 1712 | 1803 | 1370 | 1442 | | |
 | [Rayquaza](https://db.pokemongohub.net/pokemon/384)  | 2627 | 2739 | 2102 | 2191 | | |
 | [Groudon](https://db.pokemongohub.net/pokemon/383)  | 2825 | 2939 | 2260 | 2351 | | |
 | [Kyogre](https://db.pokemongohub.net/pokemon/382)  | 2825 | 2939 | 2260 | 2351 | | |
