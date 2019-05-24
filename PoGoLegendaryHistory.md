@@ -8,6 +8,9 @@ weight: 5
 ## Current Raids
 - [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense) - EX 2019-03-25 - 
 - [Azelf](https://db.pokemongohub.net/pokemon/482) - 2019-05-02 - 2019-05-27
+- [Cresselia](https://db.pokemongohub.net/pokemon/488) - 2019-05-27 - 2019-06-18
+- [Kyogre](https://db.pokemongohub.net/pokemon/382) - 2019-06-18 - 2019-06-27
+- [Groudon](https://db.pokemongohub.net/pokemon/383) - 2019-06-27 - 2019-07-10
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 
@@ -73,6 +76,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [A legendary return—Kyogre, Groudon, and Cresselia reawaken in raids!](https://pokemongolive.com/en/post/legendarylineup2019/)
 - [Uxie, Mesprit, and Azelf surface in regional raids](https://pokemongolive.com/en/post/regionalraids2019/)
 - [Earth Day Cleanup Rewards](https://twitter.com/PokemonGoApp/status/1122954828483846144)
 - [Challenge Latios during this Special Raid Week!](https://pokemongolive.com/en/post/weekraid2019-lati0s/)
