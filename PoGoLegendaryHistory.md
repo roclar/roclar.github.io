@@ -13,6 +13,7 @@ weight: 5
 - [Groudon](https://db.pokemongohub.net/pokemon/383) - 2019-06-27 - 2019-07-10
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
+- [Pokebattler Raid Counters](https://www.pokebattler.com/raids)
 
 ### Gen IV Second Legendary Wave
 - [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack) - EX 2018-12-28 - 2019-03-19
