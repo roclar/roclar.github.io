@@ -7,8 +7,6 @@ weight: 5
 
 ## Current Raids
 - [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense) - EX 2019-03-25 - 
-- [Azelf](https://db.pokemongohub.net/pokemon/482) - 2019-05-02 - 2019-05-27
-- [Cresselia](https://db.pokemongohub.net/pokemon/488) - 2019-05-27 - 2019-06-18
 - [Kyogre](https://db.pokemongohub.net/pokemon/382) - 2019-06-18 - 2019-06-27
 - [Groudon](https://db.pokemongohub.net/pokemon/383) - 2019-06-27 - 2019-07-10
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
@@ -17,6 +15,8 @@ weight: 5
 
 ### Gen IV Second Legendary Wave
 - [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack) - EX 2018-12-28 - 2019-03-19
+- [Cresselia](https://db.pokemongohub.net/pokemon/488) - 2019-05-27 - 2019-06-18
+- [Azelf](https://db.pokemongohub.net/pokemon/482) - 2019-05-02 - 2019-05-27
 - [Groudon](https://db.pokemongohub.net/pokemon/383) - 2019-04-29 - 2019-05-02
 - [Giratina (Origin Forme)](https://db.pokemongohub.net/pokemon/487?form=Origin) - 2019-04-02 - 2019-04-29
 - [Latios](https://db.pokemongohub.net/pokemon/381) - 2019-04-15 - 2018-04-22
