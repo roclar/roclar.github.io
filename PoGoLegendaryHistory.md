@@ -7,7 +7,7 @@ weight: 5
 
 ## Current Raids
 - [Deoxys (Speed)](https://db.pokemongohub.net/pokemon/386?form=Speed) - EX 2019-06-23 - 
-- [Armored Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2018-07-10 - 2019-07-31
+- [Armored Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2019-07-10 - 2019-07-31
 - [Groudon](https://db.pokemongohub.net/pokemon/383) - 2019-06-27 - 2019-07-10
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
