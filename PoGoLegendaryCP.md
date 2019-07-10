@@ -8,6 +8,7 @@ weight: 5
 | [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense)  | 1535 | 1624 | 1228 | 1299 | | |
 | [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack)  | 1716 | 1842 | 1372 | 1474 | | |
 | [Deoxys (Normal Forme)](https://db.pokemongohub.net/pokemon/386)  | 1857 | 1963 | 1485 | 1570 | | |
+| [Deoxys (Speed)](https://db.pokemongohub.net/pokemon/386?form=Speed)  | 1960 | 2056 | 1568 | 1645 | | |
 | [Cresselia](https://db.pokemongohub.net/pokemon/488)  | 1944 | 2041 | 1555 | 1633 | | |
 | [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered)  | 2310 | 2414 | 1848 | 1931 | | |
 | [Giratina (Origin Forme)](https://db.pokemongohub.net/pokemon/487?form=Origin)  | 2523 | 2631 | 2018 | 2105 | | |
@@ -32,6 +33,7 @@ weight: 5
 | [Raikou](https://db.pokemongohub.net/pokemon/243)  | 2361 | 2466 | 1889 | 1972 | 1417 | 1479 |
 | [Mew](https://db.pokemongohub.net/pokemon/151)  |  |  |  |  | 1339 | 1399 |
 | [Mewtwo](https://db.pokemongohub.net/pokemon/150)  | 2868 | 2984 | 2294 | 2387 | | |
+| [Armored Mewtwo](https://db.pokemongohub.net/pokemon/150?form=Armored)  | 2376 | 2732 | 1740 | 1821 | | |
 | [Moltres](https://db.pokemongohub.net/pokemon/146)  | 2370 | 2475 | 1788 | 1870 | 1422 | 1485 |
 | [Zapdos](https://db.pokemongohub.net/pokemon/145)  | 2413 | 2519 | 1820 | 1902 | 1448 | 1511 |
 | [Articuno](https://db.pokemongohub.net/pokemon/144)  | 2082 | 2179 | 1665 | 1743 | 1249 | 1308 |
