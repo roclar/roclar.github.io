@@ -7,8 +7,8 @@ weight: 5
 
 ## Current Raids
 - [Deoxys (Speed)](https://db.pokemongohub.net/pokemon/386?form=Speed) - EX 2019-06-23 - 
+- [Rayquaza](https://db.pokemongohub.net/pokemon/384) - 2019-07-31 - 2019-09-02
 - [Armored Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2019-07-10 - 2019-07-31
-- [Groudon](https://db.pokemongohub.net/pokemon/383) - 2019-06-27 - 2019-07-10
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Pokebattler Raid Counters](https://www.pokebattler.com/raids)
@@ -16,6 +16,7 @@ weight: 5
 ### Gen IV Second Legendary Wave
 - [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense) - EX 2019-03-25 - 2019-06-16
 - [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack) - EX 2018-12-28 - 2019-03-19
+- [Groudon](https://db.pokemongohub.net/pokemon/383) - 2019-06-27 - 2019-07-10
 - [Kyogre](https://db.pokemongohub.net/pokemon/382) - 2019-06-18 - 2019-06-27
 - [Cresselia](https://db.pokemongohub.net/pokemon/488) - 2019-05-27 - 2019-06-18
 - [Azelf](https://db.pokemongohub.net/pokemon/482) - 2019-05-02 - 2019-05-27
@@ -79,6 +80,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Rayquaza returns to raids with a radiant reveal!](https://pokemongolive.com/en/post/shinyrayquazaraid/)
 - [Harness the power of Armored Mewtwo!](https://pokemongolive.com/en/post/armoredmewtworaids2019/)
 - [Research Breakthrough, Spinda, and EX Raid updates!](https://pokemongolive.com/en/post/junejulyaugustupdate2019/)
 - [A legendary return—Kyogre, Groudon, and Cresselia reawaken in raids!](https://pokemongolive.com/en/post/legendarylineup2019/)
