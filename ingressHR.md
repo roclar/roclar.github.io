@@ -30,7 +30,7 @@ weight: 5
 - [Forest Lawn Cemetery](https://intel.ingress.com/intel?ll=36.92487,-76.268074&z=15&pll=36.92487,-76.268074)
 - [Parklawn Memorial Park](https://www.ingress.com/intel?ll=37.056047,-76.382707&z=17&pll=37.056047,-76.382707)
 - [Woodlawn Memorial Gardens](https://intel.ingress.com/intel?ll=36.854715,-76.188498&z=15&pll=36.854715,-76.188498)
-- [Cedar Road Assembly of God Garden](https://intel.ingress.com/intel?ll=36.711181,-76.272025&z=15&pll=36.711181,-76.272025)
+- [Girl Scout Camp Outback](https://intel.ingress.com/intel?ll=36.711284,-76.271126&z=18&pll=36.711453,-76.271202) [site](https://www.gsccc.org/en/camp/our-camps/camp-outback.html)
 - [Great Bridge Visitors Center](https://intel.ingress.com/intel?ll=36.719873,-76.239495&z=15&pll=36.719873,-76.239495)
 - [Historic Pheobus](https://www.ingress.com/intel?ll=37.018642,-76.32247&z=17&pll=37.018642,-76.32247)
 - [Hampton University](https://www.ingress.com/intel?ll=37.024165,-76.331719&z=17&pll=37.024165,-76.331719) - [parking information](http://www.hamptonu.edu/visitor/parking.cfm)
