@@ -15,7 +15,8 @@ weight: 5
 
 ## Medium (20-50)
 
-- [Virginia Zoological Park](https://www.ingress.com/intel?ll=36.876615,-76.277265&z=17&pll=36.876615,-76.277265) - Entry fee require [site](http://virginiazoo.org/)
+- [Virginia Zoological Park](https://www.ingress.com/intel?ll=36.876615,-76.277265&z=17&pll=36.876615,-76.277265) - Entry fee required [site](http://virginiazoo.org/)
+- [Virginia Aquarium](https://intel.ingress.com/intel?ll=36.81817,-75.981643&z=16&pll=36.821195,-75.983066) - Entry fee required [site](https://www.virginiaaquarium.com/)
 - [Newport News Park](https://www.ingress.com/intel?ll=37.179789,-76.55129&z=17&pll=37.179789,-76.55129) - [Park Hours](http://www.newport-news.org/visitors/things-to-do/outdoors-and-recreation/6/newport-news-park/)
 - [Christopher Newport University](https://www.ingress.com/intel?ll=37.062242,-76.492259&z=17&pll=37.062242,-76.492259) - Guest parking passes availible [Parking Services](http://cnu.edu/parking/)
 - [Old Dominion University](https://www.ingress.com/intel?ll=36.883606,-76.302698&z=17&pll=36.883606,-76.302698) - [parking services](https://www.odu.edu/life/parking-and-transportation/parking)
@@ -26,7 +27,11 @@ weight: 5
 - [Downtown Smithfield](https://www.ingress.com/intel?ll=36.980395,-76.634412&z=17&pll=36.980395,-76.634412)
 - [Chippokes Plantation State Park](https://www.ingress.com/intel?ll=37.14025,-76.748619&z=17&pll=37.14025,-76.748619)
 - [Mt Trashmore](https://www.ingress.com/intel?ll=36.832347,-76.1256&z=17&pll=36.832347,-76.1256)
+- [Forest Lawn Cemetery](https://intel.ingress.com/intel?ll=36.92487,-76.268074&z=15&pll=36.92487,-76.268074)
 - [Parklawn Memorial Park](https://www.ingress.com/intel?ll=37.056047,-76.382707&z=17&pll=37.056047,-76.382707)
+- [Woodlawn Memorial Gardens](https://intel.ingress.com/intel?ll=36.854715,-76.188498&z=15&pll=36.854715,-76.188498)
+- [Cedar Road Assembly of God Garden](https://intel.ingress.com/intel?ll=36.711181,-76.272025&z=15&pll=36.711181,-76.272025)
+- [Great Bridge Visitors Center](https://intel.ingress.com/intel?ll=36.719873,-76.239495&z=15&pll=36.719873,-76.239495)
 - [Historic Pheobus](https://www.ingress.com/intel?ll=37.018642,-76.32247&z=17&pll=37.018642,-76.32247)
 - [Hampton University](https://www.ingress.com/intel?ll=37.024165,-76.331719&z=17&pll=37.024165,-76.331719) - [parking information](http://www.hamptonu.edu/visitor/parking.cfm)
 
