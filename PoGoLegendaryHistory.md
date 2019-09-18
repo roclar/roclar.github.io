@@ -7,15 +7,25 @@ weight: 5
 
 ## Current Raids
 - [Deoxys (Speed)](https://db.pokemongohub.net/pokemon/386?form=Speed) - EX 2019-06-23 - 
-- [Rayquaza](https://db.pokemongohub.net/pokemon/384) - 2019-07-31 - 2019-09-02
-- [Armored Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2019-07-10 - 2019-07-31
+- [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2019-09-16 - 2019-09-23
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Pokebattler Raid Counters](https://www.pokebattler.com/raids)
 
+### Gen IV Bonus Legendary Wave
+- [Deoxys (Normal)](https://db.pokemongohub.net/pokemon/386) - 2019-09-09 - 2019-09-16
+- [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense) - 2019-09-09 - 2019-09-16
+- [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack) - 2019-09-09 - 2019-09-19
+- [Deoxys (Speed)](https://db.pokemongohub.net/pokemon/386?form=Speed) - 2019-09-09 - 2019-09-16
+- [Suicune](https://db.pokemongohub.net/pokemon/245) - 2019-09-02 - 2019-09-09
+- [Entei](https://db.pokemongohub.net/pokemon/244) - 2019-09-02 - 2019-09-09
+- [Raikou](https://db.pokemongohub.net/pokemon/243) - 2019-09-02 - 2019-09-09
+
 ### Gen IV Second Legendary Wave
 - [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense) - EX 2019-03-25 - 2019-06-16
 - [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack) - EX 2018-12-28 - 2019-03-19
+- [Rayquaza](https://db.pokemongohub.net/pokemon/384) - 2019-07-31 - 2019-09-02
+- [Armored Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2019-07-10 - 2019-07-31
 - [Groudon](https://db.pokemongohub.net/pokemon/383) - 2019-06-27 - 2019-07-10
 - [Kyogre](https://db.pokemongohub.net/pokemon/382) - 2019-06-18 - 2019-06-27
 - [Cresselia](https://db.pokemongohub.net/pokemon/488) - 2019-05-27 - 2019-06-18
@@ -80,6 +90,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Not just wishful thinking—the Ultra Bonus has been unlocked, and Jirachi has awoken!](https://pokemongolive.com/en/post/globalchallenge-ultrabonus-jirachi/)
 - [Rayquaza returns to raids with a radiant reveal!](https://pokemongolive.com/en/post/shinyrayquazaraid/)
 - [Harness the power of Armored Mewtwo!](https://pokemongolive.com/en/post/armoredmewtworaids2019/)
 - [Research Breakthrough, Spinda, and EX Raid updates!](https://pokemongolive.com/en/post/junejulyaugustupdate2019/)
