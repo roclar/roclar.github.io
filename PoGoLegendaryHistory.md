@@ -21,6 +21,11 @@ weight: 5
 - [Entei](https://db.pokemongohub.net/pokemon/244) - 2019-09-02 - 2019-09-09
 - [Raikou](https://db.pokemongohub.net/pokemon/243) - 2019-09-02 - 2019-09-09
 
+### Gen II Special Raid Days
+- [Suicune](https://db.pokemongohub.net/pokemon/245) - 2019-08-17
+- [Entei](https://db.pokemongohub.net/pokemon/244) - 2019-07-14
+- [Raikou](https://db.pokemongohub.net/pokemon/243) - 2019-06-29
+
 ### Gen IV Second Legendary Wave
 - [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense) - EX 2019-03-25 - 2019-06-16
 - [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack) - EX 2018-12-28 - 2019-03-19
@@ -91,6 +96,9 @@ weight: 5
 
 ### Sources
 - [Not just wishful thinking—the Ultra Bonus has been unlocked, and Jirachi has awoken!](https://pokemongolive.com/en/post/globalchallenge-ultrabonus-jirachi/)
+- [Suicune Raid Unlocked](https://twitter.com/PokemonGoApp/status/1160113591212793866)
+- [Entei Raid Unlocked](https://twitter.com/PokemonGoApp/status/1149844642743107585/)
+- [Raikou Raid Unlocked](https://twitter.com/PokemonGoApp/status/1141081296505991168/)
 - [Rayquaza returns to raids with a radiant reveal!](https://pokemongolive.com/en/post/shinyrayquazaraid/)
 - [Harness the power of Armored Mewtwo!](https://pokemongolive.com/en/post/armoredmewtworaids2019/)
 - [Research Breakthrough, Spinda, and EX Raid updates!](https://pokemongolive.com/en/post/junejulyaugustupdate2019/)
