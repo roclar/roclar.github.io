@@ -7,7 +7,9 @@ weight: 5
 
 ## Current Raids
 - [Deoxys (Speed)](https://db.pokemongohub.net/pokemon/386?form=Speed) - EX 2019-06-23 - 
+- [Mewtwo](https://db.pokemongohub.net/pokemon/150) - EX 2019-09-25 - 
 - [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2019-09-16 - 2019-09-23 (dinner hour 2019-10-08 6-7PM local)
+- [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered) - 2019-09-23 - 2019-10-17
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Pokebattler Raid Counters](https://www.pokebattler.com/raids)
@@ -95,6 +97,8 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Mewtwo with Shadow Ball joins EX Raids!](https://pokemongolive.com/post/exraids-mewtwo-2019)
+- [Altered Forme Giratina—raids, Raid Hour, and Shiny release!](https://pokemongolive.com/post/shinyalteredformegiratina2019)
 - [Not just wishful thinking—the Ultra Bonus has been unlocked, and Jirachi has awoken!](https://pokemongolive.com/en/post/globalchallenge-ultrabonus-jirachi/)
 - [Suicune Raid Unlocked](https://twitter.com/PokemonGoApp/status/1160113591212793866)
 - [Entei Raid Unlocked](https://twitter.com/PokemonGoApp/status/1149844642743107585/)
