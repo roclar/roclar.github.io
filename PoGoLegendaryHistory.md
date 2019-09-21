@@ -6,8 +6,8 @@ weight: 5
 ###### *North America dates
 
 ## Current Raids
-- [Deoxys (Speed)](https://db.pokemongohub.net/pokemon/386?form=Speed) - EX 2019-06-23 - 
-- [Mewtwo](https://db.pokemongohub.net/pokemon/150) - EX 2019-09-25 - 
+- [Deoxys (Speed)](https://db.pokemongohub.net/pokemon/386?form=Speed) - EX 2019-06-23 - 2019-09-28
+- [Mewtwo](https://db.pokemongohub.net/pokemon/150) - EX 2019-10-05 - 
 - [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2019-09-16 - 2019-09-23 (dinner hour 2019-10-08 6-7PM local)
 - [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered) - 2019-09-23 - 2019-10-17
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
