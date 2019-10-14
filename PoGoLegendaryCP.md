@@ -5,10 +5,7 @@ weight: 5
 ---
 
 | Legendary  |  L25 Min  |  L25 Max  |  L20 Min  |  L20 Max  |  L15 Min  |  L15 Max  |
-| [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense)  | 1535 | 1624 | 1228 | 1299 | | |
-| [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack)  | 1716 | 1842 | 1372 | 1474 | | |
-| [Deoxys (Normal Forme)](https://db.pokemongohub.net/pokemon/386)  | 1857 | 1963 | 1485 | 1570 | | |
-| [Deoxys (Speed)](https://db.pokemongohub.net/pokemon/386?form=Speed)  | 1960 | 2056 | 1568 | 1645 | | |
+| [Darkrai](https://db.pokemongohub.net/pokemon/491)  | 2560 | 2671 | 2048 | 2136 | | |
 | [Cresselia](https://db.pokemongohub.net/pokemon/488)  | 1944 | 2041 | 1555 | 1633 | | |
 | [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered)  | 2310 | 2414 | 1848 | 1931 | | |
 | [Giratina (Origin Forme)](https://db.pokemongohub.net/pokemon/487?form=Origin)  | 2523 | 2631 | 2018 | 2105 | | |
@@ -18,6 +15,10 @@ weight: 5
 | [Azelf](https://db.pokemongohub.net/pokemon/482)  | 2190 | 2293 | 1752 | 1834 | | |
 | [Mesprit](https://db.pokemongohub.net/pokemon/481)  | 2086 | 2184 | 1669 | 1747 | | |
 | [Uxie](https://db.pokemongohub.net/pokemon/480)  | 1712 | 1803 | 1370 | 1442 | | |
+| [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense)  | 1535 | 1624 | 1228 | 1299 | | |
+| [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack)  | 1716 | 1842 | 1372 | 1474 | | |
+| [Deoxys (Normal Forme)](https://db.pokemongohub.net/pokemon/386)  | 1857 | 1963 | 1485 | 1570 | | |
+| [Deoxys (Speed)](https://db.pokemongohub.net/pokemon/386?form=Speed)  | 1960 | 2056 | 1568 | 1645 | | |
 | [Rayquaza](https://db.pokemongohub.net/pokemon/384)  | 2627 | 2739 | 2102 | 2191 | | |
 | [Groudon](https://db.pokemongohub.net/pokemon/383)  | 2825 | 2939 | 2260 | 2351 | | |
 | [Kyogre](https://db.pokemongohub.net/pokemon/382)  | 2825 | 2939 | 2260 | 2351 | | |

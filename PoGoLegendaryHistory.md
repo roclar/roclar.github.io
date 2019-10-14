@@ -6,15 +6,16 @@ weight: 5
 ###### *North America dates
 
 ## Current Raids
-- [Deoxys (Speed)](https://db.pokemongohub.net/pokemon/386?form=Speed) - EX 2019-06-23 - 2019-09-28
 - [Mewtwo](https://db.pokemongohub.net/pokemon/150) - EX 2019-10-05 - 2019-12-12
-- [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2019-09-16 - 2019-09-23 (dinner hour 2019-10-08 6-7PM local)
 - [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered) - 2019-09-23 - 2019-10-17
+- [Darkrai](https://db.pokemongohub.net/pokemon/491) - 2019-10-17 - 2019-11-01
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Pokebattler Raid Counters](https://www.pokebattler.com/raids)
 
 ### Gen IV Bonus Legendary Wave
+- [Deoxys (Speed)](https://db.pokemongohub.net/pokemon/386?form=Speed) - EX 2019-06-23 - 2019-09-28
+- [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2019-09-16 - 2019-09-23 (dinner hour 2019-10-08 6-7PM local)
 - [Deoxys (Normal)](https://db.pokemongohub.net/pokemon/386) - 2019-09-09 - 2019-09-16
 - [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense) - 2019-09-09 - 2019-09-16
 - [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack) - 2019-09-09 - 2019-09-19
@@ -97,6 +98,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Prepare for a ghastly good time during Pokémon GO Halloween 2019!](https://pokemongolive.com/post/halloween2019)
 - [Mewtwo with Shadow Ball joins EX Raids!](https://pokemongolive.com/post/exraids-mewtwo-2019)
 - [Altered Forme Giratina—raids, Raid Hour, and Shiny release!](https://pokemongolive.com/post/shinyalteredformegiratina2019)
 - [Not just wishful thinking—the Ultra Bonus has been unlocked, and Jirachi has awoken!](https://pokemongolive.com/en/post/globalchallenge-ultrabonus-jirachi/)
