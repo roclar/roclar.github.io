@@ -6,9 +6,13 @@ weight: 5
 ###### *North America dates
 
 ## Current Raids
-- [Mewtwo](https://db.pokemongohub.net/pokemon/150) - EX 2019-10-05 - 2019-12-12
+- [Mewtwo](https://db.pokemongohub.net/pokemon/150) - EX 2019-10-05 - 2019-11-
+- [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
 - [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered) - 2019-09-23 - 2019-10-17
 - [Darkrai](https://db.pokemongohub.net/pokemon/491) - 2019-10-17 - 2019-11-01
+- [Regirock](https://db.pokemongohub.net/pokemon/380) - 2019-11-01 - 2019-11-04
+- [Registeel](https://db.pokemongohub.net/pokemon/379) - 2019-11-01 - 2019-11-04
+- [Regice](https://db.pokemongohub.net/pokemon/378) - 2019-11-01 - 2019-11-04
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Pokebattler Raid Counters](https://www.pokebattler.com/raids)
@@ -69,7 +73,7 @@ weight: 5
 - [Moltres](https://db.pokemongohub.net/pokemon/146) - 2018-09-13 - 2018-09-20
 - [Articuno](https://db.pokemongohub.net/pokemon/144) - 2018-09-13 - 2018-09-20
 - [Ho-Oh](https://db.pokemongohub.net/pokemon/250) - 2018-08-24 - 2018-08-27
-- [Regsteel](https://db.pokemongohub.net/pokemon/379) - 2018-07-19 - 2018-08-16
+- [Registeel](https://db.pokemongohub.net/pokemon/379) - 2018-07-19 - 2018-08-16
 - [Regice](https://db.pokemongohub.net/pokemon/378) - 2018-06-21 - 2018-07-19
 
 ### Gen III Second Legendary Wave
@@ -98,6 +102,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Regirock, Regice, and Registeel reunite in raids! Prepare for a colossal discovery!](https://pokemongolive.com/en/post/a-regi-return-2019/)
 - [Prepare for a ghastly good time during Pokémon GO Halloween 2019!](https://pokemongolive.com/post/halloween2019)
 - [Mewtwo with Shadow Ball joins EX Raids!](https://pokemongolive.com/post/exraids-mewtwo-2019)
 - [Altered Forme Giratina—raids, Raid Hour, and Shiny release!](https://pokemongolive.com/post/shinyalteredformegiratina2019)

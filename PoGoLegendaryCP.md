@@ -9,6 +9,7 @@ weight: 5
 | [Cresselia](https://db.pokemongohub.net/pokemon/488)  | 1944 | 2041 | 1555 | 1633 | | |
 | [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered)  | 2310 | 2414 | 1848 | 1931 | | |
 | [Giratina (Origin Forme)](https://db.pokemongohub.net/pokemon/487?form=Origin)  | 2523 | 2631 | 2018 | 2105 | | |
+| [Regigigas](https://db.pokemongohub.net/pokemon/486)  | 2980 | 3098 | 2384 | 2478 | | |
 | [Heatran](https://db.pokemongohub.net/pokemon/485)  | 2573 | 2681 | 2058 | 2145 | | |
 | [Palkia](https://db.pokemongohub.net/pokemon/484)  | 2737 | 2850 | 2190 | 2280 | | |
 | [Dialga](https://db.pokemongohub.net/pokemon/483)  | 2771 | 2884 | 2217 | 2307 | | |
