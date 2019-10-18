@@ -8,7 +8,6 @@ weight: 5
 ## Current Raids
 - [Mewtwo](https://db.pokemongohub.net/pokemon/150) - EX 2019-10-05 - 2019-11-
 - [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
-- [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered) - 2019-09-23 - 2019-10-17
 - [Darkrai](https://db.pokemongohub.net/pokemon/491) - 2019-10-17 - 2019-11-01
 - [Regirock](https://db.pokemongohub.net/pokemon/380) - 2019-11-01 - 2019-11-04
 - [Registeel](https://db.pokemongohub.net/pokemon/379) - 2019-11-01 - 2019-11-04
@@ -19,6 +18,7 @@ weight: 5
 
 ### Gen IV Bonus Legendary Wave
 - [Deoxys (Speed)](https://db.pokemongohub.net/pokemon/386?form=Speed) - EX 2019-06-23 - 2019-09-28
+- [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered) - 2019-09-23 - 2019-10-17
 - [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2019-09-16 - 2019-09-23 (dinner hour 2019-10-08 6-7PM local)
 - [Deoxys (Normal)](https://db.pokemongohub.net/pokemon/386) - 2019-09-09 - 2019-09-16
 - [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense) - 2019-09-09 - 2019-09-16
