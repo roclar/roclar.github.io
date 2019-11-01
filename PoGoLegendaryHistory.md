@@ -12,6 +12,7 @@ weight: 5
 - [Regirock](https://db.pokemongohub.net/pokemon/380) - 2019-11-01 - 2019-11-04
 - [Registeel](https://db.pokemongohub.net/pokemon/379) - 2019-11-01 - 2019-11-04
 - [Regice](https://db.pokemongohub.net/pokemon/378) - 2019-11-01 - 2019-11-04
+- [Cobalion](https://db.pokemongohub.net/pokemon/638) - 2019-11-04 - 2019-11-26
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Pokebattler Raid Counters](https://www.pokebattler.com/raids)
@@ -102,6 +103,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [The first of a Legendary trio—Cobalion will be in five-star raids!](https://pokemongolive.com/en/post/cobalion-raids-nov2019/)
 - [Regirock, Regice, and Registeel reunite in raids! Prepare for a colossal discovery!](https://pokemongolive.com/en/post/a-regi-return-2019/)
 - [Prepare for a ghastly good time during Pokémon GO Halloween 2019!](https://pokemongolive.com/post/halloween2019)
 - [Mewtwo with Shadow Ball joins EX Raids!](https://pokemongolive.com/post/exraids-mewtwo-2019)

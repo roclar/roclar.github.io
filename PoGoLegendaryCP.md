@@ -5,6 +5,7 @@ weight: 5
 ---
 
 | Legendary  |  L25 Min  |  L25 Max  |  L20 Min  |  L20 Max  |  L15 Min  |  L15 Max  |
+| [Cobalion](https://db.pokemongohub.net/pokemon/638)  | 2061 | 2159 | 1649 | 1727 | | |
 | [Darkrai](https://db.pokemongohub.net/pokemon/491)  | 2560 | 2671 | 2048 | 2136 | | |
 | [Cresselia](https://db.pokemongohub.net/pokemon/488)  | 1944 | 2041 | 1555 | 1633 | | |
 | [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered)  | 2310 | 2414 | 1848 | 1931 | | |
