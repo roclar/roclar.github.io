@@ -8,16 +8,17 @@ weight: 5
 ## Current Raids
 - [Mewtwo](https://db.pokemongohub.net/pokemon/150) - EX 2019-10-05 - 2019-11-
 - [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
-- [Darkrai](https://db.pokemongohub.net/pokemon/491) - 2019-10-17 - 2019-11-01
-- [Regirock](https://db.pokemongohub.net/pokemon/380) - 2019-11-01 - 2019-11-04
-- [Registeel](https://db.pokemongohub.net/pokemon/379) - 2019-11-01 - 2019-11-04
-- [Regice](https://db.pokemongohub.net/pokemon/378) - 2019-11-01 - 2019-11-04
-- [Cobalion](https://db.pokemongohub.net/pokemon/638) - 2019-11-04 - 2019-11-26
+- [Terrakion](https://db.pokemongohub.net/pokemon/639) - 2019-11-26 - 2019-12-16
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Pokebattler Raid Counters](https://www.pokebattler.com/raids)
 
 ### Gen IV Bonus Legendary Wave
+- [Darkrai](https://db.pokemongohub.net/pokemon/491) - 2019-10-17 - 2019-11-01
+- [Regirock](https://db.pokemongohub.net/pokemon/380) - 2019-11-01 - 2019-11-04
+- [Registeel](https://db.pokemongohub.net/pokemon/379) - 2019-11-01 - 2019-11-04
+- [Regice](https://db.pokemongohub.net/pokemon/378) - 2019-11-01 - 2019-11-04
+- [Cobalion](https://db.pokemongohub.net/pokemon/638) - 2019-11-04 - 2019-11-26
 - [Deoxys (Speed)](https://db.pokemongohub.net/pokemon/386?form=Speed) - EX 2019-06-23 - 2019-09-28
 - [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered) - 2019-09-23 - 2019-10-17
 - [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2019-09-16 - 2019-09-23 (dinner hour 2019-10-08 6-7PM local)
@@ -103,6 +104,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Gather round for a feast of November events!](https://pokemongolive.com/en/post/nov2019-events/)
 - [The first of a Legendary trio—Cobalion will be in five-star raids!](https://pokemongolive.com/en/post/cobalion-raids-nov2019/)
 - [Regirock, Regice, and Registeel reunite in raids! Prepare for a colossal discovery!](https://pokemongolive.com/en/post/a-regi-return-2019/)
 - [Prepare for a ghastly good time during Pokémon GO Halloween 2019!](https://pokemongolive.com/post/halloween2019)
