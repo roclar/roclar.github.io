@@ -6,15 +6,16 @@ weight: 5
 ###### *North America dates
 
 ## Current Raids
-- [Mewtwo](https://db.pokemongohub.net/pokemon/150) - EX 2019-10-05 - 2019-11-
 - [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
-- [Terrakion](https://db.pokemongohub.net/pokemon/639) - 2019-11-26 - 2019-12-16
 - [Virizion](https://db.pokemongohub.net/pokemon/640) - 2019-12-17 - 2020-01-07
+- [Heatran](https://db.pokemongohub.net/pokemon/485) - 2020-01-07 - 2020-02-04
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Pokebattler Raid Counters](https://www.pokebattler.com/raids)
 
 ### Gen IV Bonus Legendary Wave
+- [Mewtwo](https://db.pokemongohub.net/pokemon/150) - EX 2019-10-05 - 2019-11-
+- [Terrakion](https://db.pokemongohub.net/pokemon/639) - 2019-11-26 - 2019-12-16
 - [Darkrai](https://db.pokemongohub.net/pokemon/491) - 2019-10-17 - 2019-11-01
 - [Regirock](https://db.pokemongohub.net/pokemon/380) - 2019-11-01 - 2019-11-04
 - [Registeel](https://db.pokemongohub.net/pokemon/379) - 2019-11-01 - 2019-11-04
@@ -105,6 +106,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Ringing in the new year with January events!](https://pokemongolive.com/post/jan2020-events)
 - [A gift from us to you: Pokémon GO’s December events!](https://pokemongolive.com/post/holiday2019)
 - [Gather round for a feast of November events!](https://pokemongolive.com/en/post/nov2019-events/)
 - [The first of a Legendary trio—Cobalion will be in five-star raids!](https://pokemongolive.com/en/post/cobalion-raids-nov2019/)
