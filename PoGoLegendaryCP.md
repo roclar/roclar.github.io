@@ -5,6 +5,7 @@ weight: 5
 ---
 
 | Legendary  |  L25 Min  |  L25 Max  |  L20 Min  |  L20 Max  |  L15 Min  |  L15 Max  |
+| [Tornadus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/641)  | 2285 | 2389 | 1828 | 1911 | | |
 | [Virizion](https://db.pokemongohub.net/pokemon/640)  | 2061 | 2159 | 1649 | 1727 | | |
 | [Terrakion](https://db.pokemongohub.net/pokemon/639)  | 2533 | 2641 | 2026 | 2113 | | |
 | [Cobalion](https://db.pokemongohub.net/pokemon/638)  | 2061 | 2159 | 1649 | 1727 | | |
