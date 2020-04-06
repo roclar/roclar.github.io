@@ -6,16 +6,16 @@ weight: 5
 ###### *North America dates
 
 ## Current Raids
-- [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
-- [Thundurus (Therian)](https://db.pokemongohub.net/pokemon/642?form=Therian) - 2020-03-02 - 2020-03-31?
-- [Cobalion](https://db.pokemongohub.net/pokemon/638) - 2020-03-17 - 2020-03-23
-- [Lugia](https://db.pokemongohub.net/pokemon/249) - 2020-03-24 - 2020-03-31
+- [Landorus (Incarnate/Normal)](https://db.pokemongohub.net/pokemon/645) - 2020-03-31 - 2020-04-21
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Leek Duck Current Raid Bosses](https://leekduck.com/boss/)
 - [Pokebattler Raid Counters](https://www.pokebattler.com/raids)
 
 ### Gen V Legendary Wave I
+- [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
+- [Thundurus (Therian)](https://db.pokemongohub.net/pokemon/642?form=Therian) - 2020-03-02 - 2020-03-31
+- [Cobalion](https://db.pokemongohub.net/pokemon/638) - 2020-03-17 - 2020-03-31
 - [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered) - 2020-03-13 - 2020-03-16
 - [Darkrai](https://db.pokemongohub.net/pokemon/491) - 2020-03-06 - 2020-03-09
 - [Tornadus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/641) - 2020-02-04 - 2020-02-25
@@ -115,6 +115,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [The forces of lightning and wind call Landorus to Pokémon GO!](https://pokemongolive.com/post/landorus-raids-mar2020)
 - [Special Raid Weekends update—Cobalion and Lugia raids extended!](https://pokemongolive.com/en/post/cobalion-lugia-raid-events/)
 - [Stardust bonuses, Shadow Entei, Thundurus in raids, and more in March!](https://pokemongolive.com/en/post/mar2020-events/)
 - [February events to make your heart flutter!](https://pokemongolive.com/en/post/feb2020-events/)

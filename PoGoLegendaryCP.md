@@ -5,6 +5,7 @@ weight: 5
 ---
 
 | Legendary  |  L25 Min  |  L25 Max  |  L20 Min  |  L20 Max  |  L15 Min  |  L15 Max  |
+| [Landorus (Incarnate/Normal)](https://db.pokemongohub.net/pokemon/645)  | 2456 | 2563 | 1965 | 2050 | | |
 | [Thundurus (Therian)](https://db.pokemongohub.net/pokemon/642?form=Therian)  | 2285 | 2389 | 1828 | 1911 | | |
 | [Tornadus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/641)  | 2285 | 2389 | 1828 | 1911 | | |
 | [Virizion](https://db.pokemongohub.net/pokemon/640)  | 2061 | 2159 | 1649 | 1727 | | |
