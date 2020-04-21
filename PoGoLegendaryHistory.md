@@ -6,7 +6,7 @@ weight: 5
 ###### *North America dates
 
 ## Current Raids
-- [Landorus (Incarnate/Normal)](https://db.pokemongohub.net/pokemon/645) - 2020-03-31 - 2020-04-21
+- [Landorus (Incarnate/Normal)](https://db.pokemongohub.net/pokemon/645) - 2020-03-31 - 2020-04-28
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Leek Duck Current Raid Bosses](https://leekduck.com/boss/)
