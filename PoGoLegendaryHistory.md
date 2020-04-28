@@ -7,6 +7,9 @@ weight: 5
 
 ## Current Raids
 - [Landorus (Incarnate/Normal)](https://db.pokemongohub.net/pokemon/645) - 2020-03-31 - 2020-04-28
+- [Darkrai](https://db.pokemongohub.net/pokemon/491) - 2020-04-28 - 2020-05-05
+- [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered) - 2020-05-05 - 2020-05-12
+- [Virizion](https://db.pokemongohub.net/pokemon/640) - 2020-05-12 - 2020-05-19
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Leek Duck Current Raid Bosses](https://leekduck.com/boss/)
@@ -115,6 +118,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Remote Raid Pass celebration: Darkrai, Altered Forme Giratina, and Virizion will be in five-star raids!](https://pokemongolive.com/en/post/update-aprilmayraids/)
 - [The forces of lightning and wind call Landorus to Pokémon GO!](https://pokemongolive.com/post/landorus-raids-mar2020)
 - [Special Raid Weekends update—Cobalion and Lugia raids extended!](https://pokemongolive.com/en/post/cobalion-lugia-raid-events/)
 - [Stardust bonuses, Shadow Entei, Thundurus in raids, and more in March!](https://pokemongolive.com/en/post/mar2020-events/)
