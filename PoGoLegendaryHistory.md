@@ -6,8 +6,8 @@ weight: 5
 ###### *North America dates
 
 ## Current Raids
-- [Virizion](https://db.pokemongohub.net/pokemon/640) - 2020-05-12 - 2020-05-19
 - [Terrakion](https://db.pokemongohub.net/pokemon/639) - 2020-05-19 - 2020-05-26
+- [Reshiram](https://db.pokemongohub.net/pokemon/643) - 2020-05-26 - 2020-06-16
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Leek Duck Current Raid Bosses](https://leekduck.com/boss/)
@@ -15,6 +15,7 @@ weight: 5
 
 ### Gen V Legendary Wave I
 - [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
+- [Virizion](https://db.pokemongohub.net/pokemon/640) - 2020-05-12 - 2020-05-19
 - [Landorus (Incarnate/Normal)](https://db.pokemongohub.net/pokemon/645) - 2020-03-31 - 2020-04-28
 - [Darkrai](https://db.pokemongohub.net/pokemon/491) - 2020-04-28 - 2020-05-05
 - [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered) - 2020-05-05 - 2020-05-12
@@ -119,6 +120,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Unova’s legendary elite—Reshiram, Zekrom, and Kyurem—are coming to five-star raids!](https://pokemongolive.com/en/post/reshiram-zekrom-kyurem-raids/)
 - [Battle Terrakion in five-star raids with a Remote Raid Pass; Virizion Raid Hour this Wednesday, May 13!](https://pokemongolive.com/post/remoteraidpass-terrakion)
 - [Remote Raid Pass celebration: Darkrai, Altered Forme Giratina, and Virizion will be in five-star raids!](https://pokemongolive.com/en/post/update-aprilmayraids/)
 - [The forces of lightning and wind call Landorus to Pokémon GO!](https://pokemongolive.com/post/landorus-raids-mar2020)
