@@ -7,6 +7,8 @@ weight: 5
 
 ## Current Raids
 - [Reshiram](https://db.pokemongohub.net/pokemon/643) - 2020-05-26 - 2020-06-16
+- [Latios](https://db.pokemongohub.net/pokemon/381) - 2020-06-12 - 2020-06-15
+- [Latias](https://db.pokemongohub.net/pokemon/380) - 2020-06-12 - 2020-06-15
 - [Zekrom](https://db.pokemongohub.net/pokemon/644) - 2020-06-16 - 2020-07-01
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
@@ -121,6 +123,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Latias and Latios zip back for another Special Raid Weekend event!](https://pokemongolive.com/en/post/weekendraid2020-latias-latios-2/)
 - [Zekrom’s Pokémon GO debut and more in June!](https://pokemongolive.com/en/post/jun2020-events/)
 - [Unova’s legendary elite—Reshiram, Zekrom, and Kyurem—are coming to five-star raids!](https://pokemongolive.com/en/post/reshiram-zekrom-kyurem-raids/)
 - [Battle Terrakion in five-star raids with a Remote Raid Pass; Virizion Raid Hour this Wednesday, May 13!](https://pokemongolive.com/post/remoteraidpass-terrakion)
