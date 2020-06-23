@@ -6,10 +6,7 @@ weight: 5
 ###### *North America dates
 
 ## Current Raids
-- [Reshiram](https://db.pokemongohub.net/pokemon/643) - 2020-05-26 - 2020-06-16
-- [Latios](https://db.pokemongohub.net/pokemon/381) - 2020-06-12 - 2020-06-15
-- [Latias](https://db.pokemongohub.net/pokemon/380) - 2020-06-12 - 2020-06-15
-- [Zekrom](https://db.pokemongohub.net/pokemon/644) - 2020-06-16 - 2020-07-01
+- [Zekrom](https://db.pokemongohub.net/pokemon/644) - 2020-06-16 - 2020-07-07
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Leek Duck Current Raid Bosses](https://leekduck.com/boss/)
@@ -17,6 +14,9 @@ weight: 5
 
 ### Gen V Legendary Wave I
 - [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
+- [Reshiram](https://db.pokemongohub.net/pokemon/643) - 2020-05-26 - 2020-06-16
+- [Latios](https://db.pokemongohub.net/pokemon/381) - 2020-06-12 - 2020-06-15
+- [Latias](https://db.pokemongohub.net/pokemon/380) - 2020-06-12 - 2020-06-15
 - [Terrakion](https://db.pokemongohub.net/pokemon/639) - 2020-05-19 - 2020-05-26
 - [Virizion](https://db.pokemongohub.net/pokemon/640) - 2020-05-12 - 2020-05-19
 - [Landorus (Incarnate/Normal)](https://db.pokemongohub.net/pokemon/645) - 2020-03-31 - 2020-04-28
