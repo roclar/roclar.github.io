@@ -5,6 +5,7 @@ weight: 5
 ---
 
 | Legendary  |  L25 Min  |  L25 Max  |  L20 Min  |  L20 Max  |  L15 Min  |  L15 Max  |
+| [Kyurem](https://db.pokemongohub.net/pokemon/646)  | 2239 | 2553 | 1791 | 2042 | | |
 | [Landorus (Incarnate/Normal)](https://db.pokemongohub.net/pokemon/645)  | 2456 | 2563 | 1965 | 2050 | | |
 | [Zekrom](https://db.pokemongohub.net/pokemon/644)  | 2771 | 2884 | 2217 | 2307 | | |
 | [Reshiram](https://db.pokemongohub.net/pokemon/643)  | 2771 | 2884 | 2217 | 2307 | | |
