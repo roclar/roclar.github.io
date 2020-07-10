@@ -6,8 +6,6 @@ weight: 5
 ###### *North America dates
 
 ## Current Raids
-- [Zekrom](https://db.pokemongohub.net/pokemon/644) - 2020-06-16 - 2020-07-07
-- [Ho-Oh](https://db.pokemongohub.net/pokemon/250) - 2020-07-03 - 2020-07-06
 - [Kyurem](https://db.pokemongohub.net/pokemon/646) - 2020-07-07 - 2020-08-03?
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
@@ -16,6 +14,8 @@ weight: 5
 
 ### Gen V Legendary Wave I
 - [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
+- [Zekrom](https://db.pokemongohub.net/pokemon/644) - 2020-06-16 - 2020-07-07
+- [Ho-Oh](https://db.pokemongohub.net/pokemon/250) - 2020-07-03 - 2020-07-06
 - [Reshiram](https://db.pokemongohub.net/pokemon/643) - 2020-05-26 - 2020-06-16
 - [Latios](https://db.pokemongohub.net/pokemon/381) - 2020-06-12 - 2020-06-15
 - [Latias](https://db.pokemongohub.net/pokemon/380) - 2020-06-12 - 2020-06-15
