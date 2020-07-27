@@ -6,7 +6,7 @@ weight: 5
 ###### *North America dates
 
 ## Current Raids
-- [Kyurem](https://db.pokemongohub.net/pokemon/646) - 2020-07-07 - 2020-08-03?
+- [Kyurem](https://db.pokemongohub.net/pokemon/646) - 2020-07-07 - 2020-07-31
 - [Rayquaza](https://db.pokemongohub.net/pokemon/384) - 2020-07-31 - 2020-08-07
 - [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense) - 2020-08-07 - 2020-08-14
 - [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack) - 2020-08-07 - 2020-08-14
