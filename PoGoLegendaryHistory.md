@@ -7,6 +7,11 @@ weight: 5
 
 ## Current Raids
 - [Kyurem](https://db.pokemongohub.net/pokemon/646) - 2020-07-07 - 2020-08-03?
+- [Rayquaza](https://db.pokemongohub.net/pokemon/384) - 2020-07-31 - 2020-08-07
+- [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense) - 2020-08-07 - 2020-08-14
+- [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack) - 2020-08-07 - 2020-08-14
+- [Deoxys (Speed)](https://db.pokemongohub.net/pokemon/386?form=Speed) - 2020-08-07 - 2020-08-14
+- [Genesect](https://db.pokemongohub.net/pokemon/649) - 2020-08-14 - 2020-08-21
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Leek Duck Current Raid Bosses](https://leekduck.com/boss/)
@@ -125,6 +130,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Tips for the best Pokémon GO Fest experience—plus, Ultra Unlock details!](https://pokemongolive.com/en/post/pokemongofest2020-ultraunlock/)
 - [Kyurem arrives in five-star raids and more in July!](https://pokemongolive.com/en/post/jul2020-events/)
 - [ Celebrate Pokémon GO’s fourth anniversary by completing weekly challenges to unlock more species of Pokémon that’ll appear during Pokémon GO Fest 2020!](https://pokemongolive.com/en/post/anniversary-gofest-weeklychallenges-2020/)
 - [Latias and Latios zip back for another Special Raid Weekend event!](https://pokemongolive.com/en/post/weekendraid2020-latias-latios-2/)
