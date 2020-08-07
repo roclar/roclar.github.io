@@ -8,9 +8,7 @@ weight: 5
 ## Current Raids
 - [Kyurem](https://db.pokemongohub.net/pokemon/646) - 2020-07-07 - 2020-07-31
 - [Rayquaza](https://db.pokemongohub.net/pokemon/384) - 2020-07-31 - 2020-08-07
-- [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense) - 2020-08-07 - 2020-08-14
-- [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack) - 2020-08-07 - 2020-08-14
-- [Deoxys (Speed)](https://db.pokemongohub.net/pokemon/386?form=Speed) - 2020-08-07 - 2020-08-14
+- [Deoxys (Normal)](https://db.pokemongohub.net/pokemon/386) - 2020-08-07 - 2020-08-14
 - [Genesect](https://db.pokemongohub.net/pokemon/649) - 2020-08-14 - 2020-08-21
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
