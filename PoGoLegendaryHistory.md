@@ -6,9 +6,10 @@ weight: 5
 ###### *North America dates
 
 ## Current Raids
-- [Deoxys (Normal)](https://db.pokemongohub.net/pokemon/386) - 2020-08-07 - 2020-08-14
 - [Heatran](https://db.pokemongohub.net/pokemon/485) - 2020-08-21 - 2020-09-10
-- [Genesect](https://db.pokemongohub.net/pokemon/649) - 2020-08-14 - 2020-08-21
+- [Cresselia](https://db.pokemongohub.net/pokemon/488) - 2020-09-10 - 2020-09-18
+- [Articuno](https://db.pokemongohub.net/pokemon/144) - 2020-09-18 - 2020-09-25
+- [Zapdos](https://db.pokemongohub.net/pokemon/145) - 2020-09-25 - 2020-10-02
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Leek Duck Current Raid Bosses](https://leekduck.com/boss/)
@@ -16,6 +17,8 @@ weight: 5
 
 ### Gen V Legendary Wave I
 - [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
+- [Genesect](https://db.pokemongohub.net/pokemon/649) - 2020-08-14 - 2020-08-21
+- [Deoxys (Normal)](https://db.pokemongohub.net/pokemon/386) - 2020-08-07 - 2020-08-14
 - [Rayquaza](https://db.pokemongohub.net/pokemon/384) - 2020-07-31 - 2020-08-07
 - [Kyurem](https://db.pokemongohub.net/pokemon/646) - 2020-07-07 - 2020-07-31
 - [Ho-Oh](https://db.pokemongohub.net/pokemon/250) - 2020-07-03 - 2020-07-06
@@ -129,6 +132,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Different Legendary Raid Bosses each week, Victini Special Research, and more in September!](https://pokemongolive.com/en/post/sept-content-update/)
 - [Battle Heatran in raids from August 21, 2020 at 1:00 p.m. PDT to September 10, 2020 at 1:00 p.m. PDT](https://pokemongolive.com/en/post/legendary-heatran-2/)
 - [Tips for the best Pokémon GO Fest experience—plus, Ultra Unlock details!](https://pokemongolive.com/en/post/pokemongofest2020-ultraunlock/)
 - [Kyurem arrives in five-star raids and more in July!](https://pokemongolive.com/en/post/jul2020-events/)
