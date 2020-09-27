@@ -7,9 +7,9 @@ weight: 5
 
 ## Current Raids
 - [Heatran](https://db.pokemongohub.net/pokemon/485) - 2020-08-21 - 2020-09-10
-- [Cresselia](https://db.pokemongohub.net/pokemon/488) - 2020-09-10 - 2020-09-18
-- [Articuno](https://db.pokemongohub.net/pokemon/144) - 2020-09-18 - 2020-09-25
 - [Zapdos](https://db.pokemongohub.net/pokemon/145) - 2020-09-25 - 2020-10-02
+- [Moltres](https://db.pokemongohub.net/pokemon/146) - 2020-10-02 - 2020-10-09
+- [Giratina (Origin Forme)](https://db.pokemongohub.net/pokemon/487?form=Origin) - 2020-10-09 - 2020-10-23
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Leek Duck Current Raid Bosses](https://leekduck.com/boss/)
@@ -17,6 +17,8 @@ weight: 5
 
 ### Gen V Legendary Wave I
 - [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
+- [Articuno](https://db.pokemongohub.net/pokemon/144) - 2020-09-18 - 2020-09-25
+- [Cresselia](https://db.pokemongohub.net/pokemon/488) - 2020-09-10 - 2020-09-18
 - [Genesect](https://db.pokemongohub.net/pokemon/649) - 2020-08-14 - 2020-08-21
 - [Deoxys (Normal)](https://db.pokemongohub.net/pokemon/386) - 2020-08-07 - 2020-08-14
 - [Rayquaza](https://db.pokemongohub.net/pokemon/384) - 2020-07-31 - 2020-08-07
@@ -132,6 +134,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Pokémon GO October—Halloween, a fashion-themed event, and more!](https://pokemongolive.com/en/post/oct2020-events/)
 - [Different Legendary Raid Bosses each week, Victini Special Research, and more in September!](https://pokemongolive.com/en/post/sept-content-update/)
 - [Battle Heatran in raids from August 21, 2020 at 1:00 p.m. PDT to September 10, 2020 at 1:00 p.m. PDT](https://pokemongolive.com/en/post/legendary-heatran-2/)
 - [Tips for the best Pokémon GO Fest experience—plus, Ultra Unlock details!](https://pokemongolive.com/en/post/pokemongofest2020-ultraunlock/)
