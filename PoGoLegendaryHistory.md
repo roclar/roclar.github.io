@@ -6,8 +6,8 @@ weight: 5
 ###### *North America dates
 
 ## Current Raids
-- [Giratina (Origin Forme)](https://db.pokemongohub.net/pokemon/487?form=Origin) - 2020-10-09 - 2020-10-23
-- [Darkrai](https://db.pokemongohub.net/pokemon/491) - 2020-10-23 - 2020-11-03
+- [Darkrai](https://db.pokemongohub.net/pokemon/491) - 2020-10-23 - 2020-11-05
+- [Lugia](https://db.pokemongohub.net/pokemon/249) - 2020-11-05 - 2020-11-16
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Leek Duck Current Raid Bosses](https://leekduck.com/boss/)
@@ -15,6 +15,7 @@ weight: 5
 
 ### Gen V Legendary Wave I
 - [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
+- [Giratina (Origin Forme)](https://db.pokemongohub.net/pokemon/487?form=Origin) - 2020-10-09 - 2020-10-23
 - [Moltres](https://db.pokemongohub.net/pokemon/146) - 2020-10-02 - 2020-10-09
 - [Zapdos](https://db.pokemongohub.net/pokemon/145) - 2020-09-25 - 2020-10-02
 - [Articuno](https://db.pokemongohub.net/pokemon/144) - 2020-09-18 - 2020-09-25
@@ -135,6 +136,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Celebrate Pokémon Journeys: The Series with the Animation Week 2020 event!](https://pokemongolive.com/post/animationweek2020/)
 - [Steel yourself for some spooky scary shenanigans during Pokémon GO Halloween 2020!](https://pokemongolive.com/en/post/halloween2020/)
 - [Pokémon GO October—Halloween, a fashion-themed event, and more!](https://pokemongolive.com/en/post/oct2020-events/)
 - [Different Legendary Raid Bosses each week, Victini Special Research, and more in September!](https://pokemongolive.com/en/post/sept-content-update/)
