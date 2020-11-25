@@ -6,10 +6,7 @@ weight: 5
 ###### *North America dates
 
 ## Current Raids
-- [Lugia](https://db.pokemongohub.net/pokemon/249) - 2020-11-05 - 2020-11-16
-- [Cobalion](https://db.pokemongohub.net/pokemon/638) - 2020-11-16 - 2020-11-24
-- [Terrakion](https://db.pokemongohub.net/pokemon/639) - 2020-11-16 - 2020-11-24
-- [Virizion](https://db.pokemongohub.net/pokemon/640) - 2020-11-16 - 2020-11-24
+- [Azelf](https://db.pokemongohub.net/pokemon/482) - 2020-11-24 - 2020-11-30
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Leek Duck Current Raid Bosses](https://leekduck.com/boss/)
@@ -17,6 +14,10 @@ weight: 5
 
 ### Gen V Legendary Wave I
 - [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
+- [Cobalion](https://db.pokemongohub.net/pokemon/638) - 2020-11-16 - 2020-11-24
+- [Terrakion](https://db.pokemongohub.net/pokemon/639) - 2020-11-16 - 2020-11-24
+- [Virizion](https://db.pokemongohub.net/pokemon/640) - 2020-11-16 - 2020-11-24
+- [Lugia](https://db.pokemongohub.net/pokemon/249) - 2020-11-05 - 2020-11-16
 - [Darkrai](https://db.pokemongohub.net/pokemon/491) - 2020-10-23 - 2020-11-05
 - [Giratina (Origin Forme)](https://db.pokemongohub.net/pokemon/487?form=Origin) - 2020-10-09 - 2020-10-23
 - [Moltres](https://db.pokemongohub.net/pokemon/146) - 2020-10-02 - 2020-10-09
@@ -139,6 +140,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Uxie, Mesprit, and Azelf return to raids for a limited time!](https://pokemongolive.com/post/lakelegends2020/)
 - [Shiny Slowpoke, Shiny Meltan from the Mystery Box, and more during the Pokémon HOME event!](https://pokemongolive.com/post/pokemonhome-2020-details/)
 - [Celebrate Pokémon Journeys: The Series with the Animation Week 2020 event!](https://pokemongolive.com/post/animationweek2020/)
 - [Steel yourself for some spooky scary shenanigans during Pokémon GO Halloween 2020!](https://pokemongolive.com/en/post/halloween2020/)
