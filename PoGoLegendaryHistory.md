@@ -6,7 +6,7 @@ weight: 5
 ###### *North America dates
 
 ## Current Raids
-- [Azelf](https://db.pokemongohub.net/pokemon/482) - 2020-11-24 - 2020-11-30
+- [Kyurem](https://db.pokemongohub.net/pokemon/646) - 2020-12-01 - 2021-01-01
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Leek Duck Current Raid Bosses](https://leekduck.com/boss/)
@@ -14,6 +14,7 @@ weight: 5
 
 ### Gen V Legendary Wave I
 - [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
+- [Azelf](https://db.pokemongohub.net/pokemon/482) - 2020-11-24 - 2020-11-30
 - [Cobalion](https://db.pokemongohub.net/pokemon/638) - 2020-11-16 - 2020-11-24
 - [Terrakion](https://db.pokemongohub.net/pokemon/639) - 2020-11-16 - 2020-11-24
 - [Virizion](https://db.pokemongohub.net/pokemon/640) - 2020-11-16 - 2020-11-24
@@ -140,6 +141,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Celebrate the end of 2020 with December events!](https://pokemongolive.com/post/dec2020-events/)
 - [Uxie, Mesprit, and Azelf return to raids for a limited time!](https://pokemongolive.com/post/lakelegends2020/)
 - [Shiny Slowpoke, Shiny Meltan from the Mystery Box, and more during the Pokémon HOME event!](https://pokemongolive.com/post/pokemonhome-2020-details/)
 - [Celebrate Pokémon Journeys: The Series with the Animation Week 2020 event!](https://pokemongolive.com/post/animationweek2020/)
