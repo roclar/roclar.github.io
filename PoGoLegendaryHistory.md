@@ -9,6 +9,11 @@ weight: 5
 - [Entei](https://db.pokemongohub.net/pokemon/244) - 2021-01-26 - 2021-01-31
 - [Raikou](https://db.pokemongohub.net/pokemon/243) - 2021-01-31 - 2021-02-04
 - [Suicune](https://db.pokemongohub.net/pokemon/245) - 2021-02-04 - 2021-02-09
+- [Latios](https://db.pokemongohub.net/pokemon/381) - 2021-02-09 - 2021-02-20
+- [Latias](https://db.pokemongohub.net/pokemon/380) - 2021-02-09 - 2021-02-20
+- [Articuno](https://db.pokemongohub.net/pokemon/144) - 2021-02-20 - 2021-03-01
+- [Moltres](https://db.pokemongohub.net/pokemon/146) - 2021-02-20 - 2021-03-01
+- [Zapdos](https://db.pokemongohub.net/pokemon/145) - 2021-02-20 - 2021-03-01
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Leek Duck Current Raid Bosses](https://leekduck.com/boss/)
@@ -152,6 +157,7 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Feel the love with Pokémon GO’s February events!](https://pokemongolive.com/post/feb-2021-events/)
 - [Countdown to Pokémon GO Tour: Kanto—celebrate the Johto region with us!](https://pokemongolive.com/post/johto-celebration-event-2021/)
 - [Ring in 2021 with Pokémon GO’s January events](https://pokemongolive.com/post/jan2021-events/)
 - [Regirock, Registeel, and Regice will be back in raids during different weekends in December!](https://pokemongolive.com/post/weekendraid2020-regi/)
