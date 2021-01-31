@@ -6,7 +6,9 @@ weight: 5
 ###### *North America dates
 
 ## Current Raids
-- [Kyurem](https://db.pokemongohub.net/pokemon/646) - 2020-12-01 - 2021-01-01
+- [Entei](https://db.pokemongohub.net/pokemon/244) - 2021-01-26 - 2021-01-31
+- [Raikou](https://db.pokemongohub.net/pokemon/243) - 2021-01-31 - 2021-02-04
+- [Suicune](https://db.pokemongohub.net/pokemon/245) - 2021-02-04 - 2021-02-09
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Leek Duck Current Raid Bosses](https://leekduck.com/boss/)
@@ -14,6 +16,15 @@ weight: 5
 
 ### Gen V Legendary Wave I
 - [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
+- [Groudon](https://db.pokemongohub.net/pokemon/383) - 2021-01-19 - 2021-01-26
+- [Kyogre](https://db.pokemongohub.net/pokemon/382) - 2021-01-19 - 2021-01-26
+- [Heatran](https://db.pokemongohub.net/pokemon/485) - 2021-01-12 - 2021-01-19
+- [Genesect](https://db.pokemongohub.net/pokemon/649) - 2021-01-05 - 2021-01-12
+- [Ho-Oh](https://db.pokemongohub.net/pokemon/250) - 2021-01-01 - 2021-01-05
+- [Kyurem](https://db.pokemongohub.net/pokemon/646) - 2020-12-01 - 2021-01-01
+- [Regice](https://db.pokemongohub.net/pokemon/378) - 2020-12-26 - 2020-12-27
+- [Registeel](https://db.pokemongohub.net/pokemon/379) - 2020-12-19 - 2020-12-20
+- [Regirock](https://db.pokemongohub.net/pokemon/380) - 2020-12-12 - 2020-12-13
 - [Azelf](https://db.pokemongohub.net/pokemon/482) - 2020-11-24 - 2020-11-30
 - [Cobalion](https://db.pokemongohub.net/pokemon/638) - 2020-11-16 - 2020-11-24
 - [Terrakion](https://db.pokemongohub.net/pokemon/639) - 2020-11-16 - 2020-11-24
@@ -141,6 +152,9 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+- [Countdown to Pokémon GO Tour: Kanto—celebrate the Johto region with us!](https://pokemongolive.com/post/johto-celebration-event-2021/)
+- [Ring in 2021 with Pokémon GO’s January events](https://pokemongolive.com/post/jan2021-events/)
+- [Regirock, Registeel, and Regice will be back in raids during different weekends in December!](https://pokemongolive.com/post/weekendraid2020-regi/)
 - [Celebrate the end of 2020 with December events!](https://pokemongolive.com/post/dec2020-events/)
 - [Uxie, Mesprit, and Azelf return to raids for a limited time!](https://pokemongolive.com/post/lakelegends2020/)
 - [Shiny Slowpoke, Shiny Meltan from the Mystery Box, and more during the Pokémon HOME event!](https://pokemongolive.com/post/pokemonhome-2020-details/)
