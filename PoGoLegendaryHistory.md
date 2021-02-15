@@ -6,14 +6,12 @@ weight: 5
 ###### *North America dates
 
 ## Current Raids
-- [Entei](https://db.pokemongohub.net/pokemon/244) - 2021-01-26 - 2021-01-31
-- [Raikou](https://db.pokemongohub.net/pokemon/243) - 2021-01-31 - 2021-02-04
-- [Suicune](https://db.pokemongohub.net/pokemon/245) - 2021-02-04 - 2021-02-09
 - [Latios](https://db.pokemongohub.net/pokemon/381) - 2021-02-09 - 2021-02-20
 - [Latias](https://db.pokemongohub.net/pokemon/380) - 2021-02-09 - 2021-02-20
 - [Articuno](https://db.pokemongohub.net/pokemon/144) - 2021-02-20 - 2021-03-01
 - [Moltres](https://db.pokemongohub.net/pokemon/146) - 2021-02-20 - 2021-03-01
 - [Zapdos](https://db.pokemongohub.net/pokemon/145) - 2021-02-20 - 2021-03-01
+- [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2021-02-21 - 2021-03-01
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Leek Duck Current Raid Bosses](https://leekduck.com/boss/)
@@ -21,6 +19,9 @@ weight: 5
 
 ### Gen V Legendary Wave I
 - [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
+- [Suicune](https://db.pokemongohub.net/pokemon/245) - 2021-02-04 - 2021-02-09
+- [Raikou](https://db.pokemongohub.net/pokemon/243) - 2021-01-31 - 2021-02-04
+- [Entei](https://db.pokemongohub.net/pokemon/244) - 2021-01-26 - 2021-01-31
 - [Groudon](https://db.pokemongohub.net/pokemon/383) - 2021-01-19 - 2021-01-26
 - [Kyogre](https://db.pokemongohub.net/pokemon/382) - 2021-01-19 - 2021-01-26
 - [Heatran](https://db.pokemongohub.net/pokemon/485) - 2021-01-12 - 2021-01-19
