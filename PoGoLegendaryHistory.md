@@ -6,8 +6,7 @@ weight: 5
 ###### *North America dates
 
 ## Current Raids
-- [Latios](https://db.pokemongohub.net/pokemon/381) - 2021-02-09 - 2021-02-20
-- [Latias](https://db.pokemongohub.net/pokemon/380) - 2021-02-09 - 2021-02-20
+
 - [Articuno](https://db.pokemongohub.net/pokemon/144) - 2021-02-20 - 2021-03-01
 - [Moltres](https://db.pokemongohub.net/pokemon/146) - 2021-02-20 - 2021-03-01
 - [Zapdos](https://db.pokemongohub.net/pokemon/145) - 2021-02-20 - 2021-03-01
@@ -18,7 +17,10 @@ weight: 5
 - [Pokebattler Raid Counters](https://www.pokebattler.com/raids)
 
 ### Gen V Legendary Wave I
+
 - [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
+- [Latios](https://db.pokemongohub.net/pokemon/381) - 2021-02-09 - 2021-02-20
+- [Latias](https://db.pokemongohub.net/pokemon/380) - 2021-02-09 - 2021-02-20
 - [Suicune](https://db.pokemongohub.net/pokemon/245) - 2021-02-04 - 2021-02-09
 - [Raikou](https://db.pokemongohub.net/pokemon/243) - 2021-01-31 - 2021-02-04
 - [Entei](https://db.pokemongohub.net/pokemon/244) - 2021-01-26 - 2021-01-31
@@ -67,6 +69,7 @@ weight: 5
 - [Terrakion](https://db.pokemongohub.net/pokemon/639) - 2019-11-26 - 2019-12-16
 
 ### Gen IV Bonus Legendary Wave
+
 - [Mewtwo](https://db.pokemongohub.net/pokemon/150) - EX 2019-10-05 - 2019-11-
 - [Darkrai](https://db.pokemongohub.net/pokemon/491) - 2019-10-17 - 2019-11-01
 - [Regirock](https://db.pokemongohub.net/pokemon/380) - 2019-11-01 - 2019-11-04
@@ -85,11 +88,13 @@ weight: 5
 - [Raikou](https://db.pokemongohub.net/pokemon/243) - 2019-09-02 - 2019-09-09
 
 ### Gen II Special Raid Days
+
 - [Suicune](https://db.pokemongohub.net/pokemon/245) - 2019-08-17
 - [Entei](https://db.pokemongohub.net/pokemon/244) - 2019-07-14
 - [Raikou](https://db.pokemongohub.net/pokemon/243) - 2019-06-29
 
 ### Gen IV Second Legendary Wave
+
 - [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense) - EX 2019-03-25 - 2019-06-16
 - [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack) - EX 2018-12-28 - 2019-03-19
 - [Rayquaza](https://db.pokemongohub.net/pokemon/384) - 2019-07-31 - 2019-09-02
@@ -110,6 +115,7 @@ weight: 5
 - [Groudon](https://db.pokemongohub.net/pokemon/383) - 2019-01-15 - 2019-01-29
 
 ### Gen IV First Legendary Wave
+
 - [Deoxys (Normal)](https://db.pokemongohub.net/pokemon/386) - EX 2018-10-01 - 2018-12-20
 - [Heatran](https://db.pokemongohub.net/pokemon/485) - 2018-12-18 - 2019-01-15
 - [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered) - 2018-10-23 - 2018-11-20
@@ -118,11 +124,13 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2018-12-14 - 2018-12-17
 
 ### Gen I Special Raid Days
+
 - [Moltres](https://db.pokemongohub.net/pokemon/146) - 2018-09-10
 - [Zapdos](https://db.pokemongohub.net/pokemon/145) - 2018-07-21
 - [Articuno](https://db.pokemongohub.net/pokemon/144) - 2018-07-07
 
 ### Gen III Third Legendary Wave
+
 - [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2018-09-20 - 2018-10-23 (EX 2017-08-14 - 2018-09-09)
 - [Regirock](https://db.pokemongohub.net/pokemon/380) - 2018-08-13 - 2018-09-20
 - [Zapdos](https://db.pokemongohub.net/pokemon/145) - 2018-09-13 - 2018-09-20
@@ -133,6 +141,7 @@ weight: 5
 - [Regice](https://db.pokemongohub.net/pokemon/378) - 2018-06-21 - 2018-07-19
 
 ### Gen III Second Legendary Wave
+
 - [Kyogre](https://db.pokemongohub.net/pokemon/382) - 2018-06-07 - 2018-06-21
 - [Ho-Oh](https://db.pokemongohub.net/pokemon/250) - 2018-05-18 - 2018-06-07
 - [Latias](https://db.pokemongohub.net/pokemon/380) - 2018-05-08 - 2018-06-05
@@ -140,24 +149,29 @@ weight: 5
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2018-03-16 - 2018-04-02 (accidentally re-added in the afternoon on 2018-05-14)
 
 ### Gen III First Legendary Wave
+
 (Note all 3 were available from 2018-02-23 until 2018-03-05)
+
 - [Rayquaza](https://db.pokemongohub.net/pokemon/384) - 2018-02-09 - 2018-03-16
 - [Kyogre](https://db.pokemongohub.net/pokemon/382) - 2018-01-12 - 2018-02-14
 - [Groudon](https://db.pokemongohub.net/pokemon/383) - 2017-12-15 - 2018-01-15
 - [Ho-Oh](https://db.pokemongohub.net/pokemon/250) - 2017-11-27 - 2017-12-14
 
 ## Gen II/Johto Legendary Wave - The Beasts
+
 - [Suicune](https://db.pokemongohub.net/pokemon/245) - 2017-10-31 - 2017-11-30
 - [Entei](https://db.pokemongohub.net/pokemon/244) - 2017-09-30 - 2017-10-31
 - [Raikou](https://db.pokemongohub.net/pokemon/243) - 2017-08-31 - 2017-09-30
 
 ## Gen I/Kanto Legendary Wave - The Birds
+
 - [Zapdos](https://db.pokemongohub.net/pokemon/145) - 2017-08-07 - 2017-08-14
 - [Moltres](https://db.pokemongohub.net/pokemon/146) - 2017-07-31 - 2017-08-07
 - [Articuno](https://db.pokemongohub.net/pokemon/144) - 2017-07-22 - 2017-07-31
 - [Lugia](https://db.pokemongohub.net/pokemon/249) - 2017-07-22 - 2017-08-31
 
 ### Sources
+
 - [Feel the love with Pokémon GO’s February events!](https://pokemongolive.com/post/feb-2021-events/)
 - [Countdown to Pokémon GO Tour: Kanto—celebrate the Johto region with us!](https://pokemongolive.com/post/johto-celebration-event-2021/)
 - [Ring in 2021 with Pokémon GO’s January events](https://pokemongolive.com/post/jan2021-events/)
@@ -172,7 +186,7 @@ weight: 5
 - [Battle Heatran in raids from August 21, 2020 at 1:00 p.m. PDT to September 10, 2020 at 1:00 p.m. PDT](https://pokemongolive.com/en/post/legendary-heatran-2/)
 - [Tips for the best Pokémon GO Fest experience—plus, Ultra Unlock details!](https://pokemongolive.com/en/post/pokemongofest2020-ultraunlock/)
 - [Kyurem arrives in five-star raids and more in July!](https://pokemongolive.com/en/post/jul2020-events/)
-- [ Celebrate Pokémon GO’s fourth anniversary by completing weekly challenges to unlock more species of Pokémon that’ll appear during Pokémon GO Fest 2020!](https://pokemongolive.com/en/post/anniversary-gofest-weeklychallenges-2020/)
+- [Celebrate Pokémon GO’s fourth anniversary by completing weekly challenges to unlock more species of Pokémon that’ll appear during Pokémon GO Fest 2020!](https://pokemongolive.com/en/post/anniversary-gofest-weeklychallenges-2020/)
 - [Latias and Latios zip back for another Special Raid Weekend event!](https://pokemongolive.com/en/post/weekendraid2020-latias-latios-2/)
 - [Zekrom’s Pokémon GO debut and more in June!](https://pokemongolive.com/en/post/jun2020-events/)
 - [Unova’s legendary elite—Reshiram, Zekrom, and Kyurem—are coming to five-star raids!](https://pokemongolive.com/en/post/reshiram-zekrom-kyurem-raids/)
@@ -227,6 +241,5 @@ weight: 5
 - [Latias and Latios Fly into Regional Raid Battles!](https://pokemongolive.com/post/legendary-latioslatias/)
 - [Legendary Pokémon Lugia Soars Back into Raid Battles in Pokémon GO](https://pokemongolive.com/en/post/lugia031518/)
 - [Kyogre and Groudon Join Rayquaza for a Legendary Week of Raid Battles!](https://pokemongolive.com/en/post/legendaryweek022318/)
-- [Legendary Pokémon Raikou, Entei, and Suicune and an EX Raid Battle Field Test Coming Soon
-](https://pokemongolive.com/en/post/johtolegendary/)
+- [Legendary Pokémon Raikou, Entei, and Suicune and an EX Raid Battle Field Test Coming Soon](https://pokemongolive.com/en/post/johtolegendary/)
 - [IGN - Legendary Pokemon](http://www.ign.com/wikis/pokemon-go/Legendary_Pokemon)
