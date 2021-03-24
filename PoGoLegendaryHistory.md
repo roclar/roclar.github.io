@@ -11,11 +11,12 @@ weight: 5
 - [Moltres](https://db.pokemongohub.net/pokemon/146) - 2021-02-20 - 2021-03-01
 - [Zapdos](https://db.pokemongohub.net/pokemon/145) - 2021-02-20 - 2021-03-01
 - [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2021-02-21 - 2021-03-01
-- [Landorus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/645?form=Incarnate) - 2021-03-01 - 2021-03-06
-- [Tornadus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/641?form=Incarnate) - 2021-03-06 - 2021-03-11
-- [Thundurus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/642?form=Incarnate) - 2021-03-11 - 2021-03-16
 - [Thundurus (Therian Forme)](https://db.pokemongohub.net/pokemon/642?form=Therian) - 2021-03-16 - 2021-03-30
-- [Tornadus (Therian Forme)](https://db.pokemongohub.net/pokemon/641?form=Therian) - 2021-03-30 - ?
+- [Tornadus (Therian Forme)](https://db.pokemongohub.net/pokemon/641?form=Therian) - 2021-03-30 - 2021-04-13
+- [Landorus (Therian Forme)](https://db.pokemongohub.net/pokemon/645?form=Therian) - 2021-04-13 - 2021-04-27
+- [Landorus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/645?form=Incarnate) - 2021-04-27 - ?
+- [Tornadus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/641?form=Incarnate) - 2021-04-27 - ?
+- [Thundurus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/642?form=Incarnate) - 2021-04-27 - ?
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Leek Duck Current Raid Bosses](https://leekduck.com/boss/)
@@ -24,6 +25,9 @@ weight: 5
 ### Gen V Legendary Wave I
 
 - [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
+- [Thundurus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/642?form=Incarnate) - 2021-03-11 - 2021-03-16
+- [Tornadus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/641?form=Incarnate) - 2021-03-06 - 2021-03-11
+- [Landorus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/645?form=Incarnate) - 2021-03-01 - 2021-03-06
 - [Latios](https://db.pokemongohub.net/pokemon/381) - 2021-02-09 - 2021-02-20
 - [Latias](https://db.pokemongohub.net/pokemon/380) - 2021-02-09 - 2021-02-20
 - [Suicune](https://db.pokemongohub.net/pokemon/245) - 2021-02-04 - 2021-02-09
@@ -177,6 +181,7 @@ weight: 5
 
 ### Sources
 
+- [Learn all about April’s events here!](https://pokemongolive.com/post/apr-2021-events/?hl=en)
 - [A new Season is coming—and so are March’s Pokémon GO events!](https://pokemongolive.com/post/mar-2021-events/)
 - [Feel the love with Pokémon GO’s February events!](https://pokemongolive.com/post/feb-2021-events/)
 - [Countdown to Pokémon GO Tour: Kanto—celebrate the Johto region with us!](https://pokemongolive.com/post/johto-celebration-event-2021/)
