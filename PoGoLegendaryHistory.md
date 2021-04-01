@@ -7,11 +7,6 @@ weight: 5
 
 ## Current Raids
 
-- [Articuno](https://db.pokemongohub.net/pokemon/144) - 2021-02-20 - 2021-03-01
-- [Moltres](https://db.pokemongohub.net/pokemon/146) - 2021-02-20 - 2021-03-01
-- [Zapdos](https://db.pokemongohub.net/pokemon/145) - 2021-02-20 - 2021-03-01
-- [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2021-02-21 - 2021-03-01
-- [Thundurus (Therian Forme)](https://db.pokemongohub.net/pokemon/642?form=Therian) - 2021-03-16 - 2021-03-30
 - [Tornadus (Therian Forme)](https://db.pokemongohub.net/pokemon/641?form=Therian) - 2021-03-30 - 2021-04-13
 - [Landorus (Therian Forme)](https://db.pokemongohub.net/pokemon/645?form=Therian) - 2021-04-13 - 2021-04-27
 - [Landorus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/645?form=Incarnate) - 2021-04-27 - ?
@@ -25,9 +20,15 @@ weight: 5
 ### Gen V Legendary Wave I
 
 - [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
+- [Thundurus (Therian Forme)](https://db.pokemongohub.net/pokemon/642?form=Therian) - 2021-03-16 - 2021-03-30
+- [Rayquaza](https://db.pokemongohub.net/pokemon/384) - 2021-03-27 - 2021-03-28
 - [Thundurus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/642?form=Incarnate) - 2021-03-11 - 2021-03-16
 - [Tornadus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/641?form=Incarnate) - 2021-03-06 - 2021-03-11
 - [Landorus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/645?form=Incarnate) - 2021-03-01 - 2021-03-06
+- [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2021-02-21 - 2021-03-01
+- [Articuno](https://db.pokemongohub.net/pokemon/144) - 2021-02-20 - 2021-03-01
+- [Moltres](https://db.pokemongohub.net/pokemon/146) - 2021-02-20 - 2021-03-01
+- [Zapdos](https://db.pokemongohub.net/pokemon/145) - 2021-02-20 - 2021-03-01
 - [Latios](https://db.pokemongohub.net/pokemon/381) - 2021-02-09 - 2021-02-20
 - [Latias](https://db.pokemongohub.net/pokemon/380) - 2021-02-09 - 2021-02-20
 - [Suicune](https://db.pokemongohub.net/pokemon/245) - 2021-02-04 - 2021-02-09
