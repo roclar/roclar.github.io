@@ -9,9 +9,10 @@ weight: 5
 
 - [Tornadus (Therian Forme)](https://db.pokemongohub.net/pokemon/641?form=Therian) - 2021-03-30 - 2021-04-13
 - [Landorus (Therian Forme)](https://db.pokemongohub.net/pokemon/645?form=Therian) - 2021-04-13 - 2021-04-27
-- [Landorus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/645?form=Incarnate) - 2021-04-27 - ?
-- [Tornadus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/641?form=Incarnate) - 2021-04-27 - ?
-- [Thundurus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/642?form=Incarnate) - 2021-04-27 - ?
+- [Landorus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/645?form=Incarnate) - 2021-04-27 - 2021-05-04
+- [Tornadus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/641?form=Incarnate) - 2021-04-27 - 2021-05-04
+- [Thundurus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/642?form=Incarnate) - 2021-04-27 - 2021-05-04
+- [Xerneas](https://db.pokemongohub.net/pokemon/716) - 2021-05-04 - 2021-05-17
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Leek Duck Current Raid Bosses](https://leekduck.com/boss/)
@@ -182,6 +183,7 @@ weight: 5
 
 ### Sources
 
+- [Luminous Legends X: Xerneas makes its Pokémon GO debut alongside Dragon- and Fairy-type Pokémon originally discovered in the Kalos region!](https://pokemongolive.com/post/luminouslegends-x-2021)
 - [Learn all about April’s events here!](https://pokemongolive.com/post/apr-2021-events/?hl=en)
 - [A new Season is coming—and so are March’s Pokémon GO events!](https://pokemongolive.com/post/mar-2021-events/)
 - [Feel the love with Pokémon GO’s February events!](https://pokemongolive.com/post/feb-2021-events/)
