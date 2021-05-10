@@ -13,6 +13,7 @@ weight: 5
 - [Tornadus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/641?form=Incarnate) - 2021-04-27 - 2021-05-04
 - [Thundurus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/642?form=Incarnate) - 2021-04-27 - 2021-05-04
 - [Xerneas](https://db.pokemongohub.net/pokemon/716) - 2021-05-04 - 2021-05-17
+- [Yveltal](https://db.pokemongohub.net/pokemon/717) - 2021-05-17 - 
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Leek Duck Current Raid Bosses](https://leekduck.com/boss/)
