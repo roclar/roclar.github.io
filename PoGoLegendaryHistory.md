@@ -7,13 +7,8 @@ weight: 5
 
 ## Current Raids
 
-- [Tornadus (Therian Forme)](https://db.pokemongohub.net/pokemon/641?form=Therian) - 2021-03-30 - 2021-04-13
-- [Landorus (Therian Forme)](https://db.pokemongohub.net/pokemon/645?form=Therian) - 2021-04-13 - 2021-04-27
-- [Landorus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/645?form=Incarnate) - 2021-04-27 - 2021-05-04
-- [Tornadus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/641?form=Incarnate) - 2021-04-27 - 2021-05-04
-- [Thundurus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/642?form=Incarnate) - 2021-04-27 - 2021-05-04
-- [Xerneas](https://db.pokemongohub.net/pokemon/716) - 2021-05-04 - 2021-05-17
-- [Yveltal](https://db.pokemongohub.net/pokemon/717) - 2021-05-17 - 
+- [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense) - 2021-07-01 - 2021-07-16
+- [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2021-07-16 - 2021-07-23
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Leek Duck Current Raid Bosses](https://leekduck.com/boss/)
@@ -22,6 +17,18 @@ weight: 5
 ### Gen V Legendary Wave I
 
 - [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
+- [Bidoof](https://db.pokemongohub.net/pokemon/399) - 2021-07-01 - 2021-07-01
+- [Regigigas](https://db.pokemongohub.net/pokemon/486) - 2021-06-17 - 2021-07-01
+- [Regice](https://db.pokemongohub.net/pokemon/378) - 2021-06-01 - 2021-06-17
+- [Registeel](https://db.pokemongohub.net/pokemon/379) - 2021-06-01 - 2021-06-17
+- [Regirock](https://db.pokemongohub.net/pokemon/380) - 2021-06-01 - 2021-06-17
+- [Yveltal](https://db.pokemongohub.net/pokemon/717) - 2021-05-17 - 2021-06-01
+- [Xerneas](https://db.pokemongohub.net/pokemon/716) - 2021-05-04 - 2021-05-17
+- [Thundurus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/642?form=Incarnate) - 2021-04-27 - 2021-05-04
+- [Tornadus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/641?form=Incarnate) - 2021-04-27 - 2021-05-04
+- [Landorus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/645?form=Incarnate) - 2021-04-27 - 2021-05-04
+- [Landorus (Therian Forme)](https://db.pokemongohub.net/pokemon/645?form=Therian) - 2021-04-13 - 2021-04-27
+- [Tornadus (Therian Forme)](https://db.pokemongohub.net/pokemon/641?form=Therian) - 2021-03-30 - 2021-04-13
 - [Thundurus (Therian Forme)](https://db.pokemongohub.net/pokemon/642?form=Therian) - 2021-03-16 - 2021-03-30
 - [Rayquaza](https://db.pokemongohub.net/pokemon/384) - 2021-03-27 - 2021-03-28
 - [Thundurus (Incarnate Forme)](https://db.pokemongohub.net/pokemon/642?form=Incarnate) - 2021-03-11 - 2021-03-16
@@ -184,6 +191,9 @@ weight: 5
 
 ### Sources
 
+- [Coming in July: Pokémon GO Fest 2021 and more!](https://pokemongolive.com/post/jul-2021-events/events)
+- [It’s a solstice surprise: Regigigas is coming to five-star raids!](https://pokemongolive.com/post/solstice-2021/)
+- [June events: Get a free Remote Raid Pass from Research Breakthroughs all through this month, and more!](https://pokemongolive.com/post/jun-2021-events/)
 - [Luminous Legends X: Xerneas makes its Pokémon GO debut alongside Dragon- and Fairy-type Pokémon originally discovered in the Kalos region!](https://pokemongolive.com/post/luminouslegends-x-2021)
 - [Learn all about April’s events here!](https://pokemongolive.com/post/apr-2021-events/?hl=en)
 - [A new Season is coming—and so are March’s Pokémon GO events!](https://pokemongolive.com/post/mar-2021-events/)
