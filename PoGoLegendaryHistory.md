@@ -7,7 +7,7 @@ weight: 5
 
 ## Current Raids
 
-- [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense) - 2021-07-01 - 2021-07-16
+- [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense) - 2021-07-02 - 2021-07-16
 - [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2021-07-16 - 2021-07-23
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
