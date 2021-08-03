@@ -7,8 +7,8 @@ weight: 5
 
 ## Current Raids
 
-- [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense) - 2021-07-02 - 2021-07-16
-- [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2021-07-16 - 2021-07-23
+- [Dialga](https://db.pokemongohub.net/pokemon/483) - 2021-07-23 - 2021-08-06
+- [Palkia](https://db.pokemongohub.net/pokemon/484) - 2021-08-06 - 2021-08-20
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Leek Duck Current Raid Bosses](https://leekduck.com/boss/)
@@ -17,6 +17,8 @@ weight: 5
 ### Gen V Legendary Wave I
 
 - [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
+- [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2021-07-16 - 2021-07-23
+- [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense) - 2021-07-02 - 2021-07-16
 - [Bidoof](https://db.pokemongohub.net/pokemon/399) - 2021-07-01 - 2021-07-01
 - [Regigigas](https://db.pokemongohub.net/pokemon/486) - 2021-06-17 - 2021-07-01
 - [Regice](https://db.pokemongohub.net/pokemon/378) - 2021-06-01 - 2021-06-17
@@ -191,6 +193,8 @@ weight: 5
 
 ### Sources
 
+- [Coming in August: Ultra Unlock and more!](https://pokemongolive.com/post/aug-2021-events/)
+- [Prepare for Ultra Unlock Part 1: Time and Ultra Unlock Part 2: Space!](https://pokemongolive.com/post/pokemongofest2021-ultraunlock-time-space/)
 - [Coming in July: Pokémon GO Fest 2021 and more!](https://pokemongolive.com/post/jul-2021-events/events)
 - [It’s a solstice surprise: Regigigas is coming to five-star raids!](https://pokemongolive.com/post/solstice-2021/)
 - [June events: Get a free Remote Raid Pass from Research Breakthroughs all through this month, and more!](https://pokemongolive.com/post/jun-2021-events/)
