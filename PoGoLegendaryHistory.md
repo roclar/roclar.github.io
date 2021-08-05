@@ -9,6 +9,8 @@ weight: 5
 
 - [Dialga](https://db.pokemongohub.net/pokemon/483) - 2021-07-23 - 2021-08-06
 - [Palkia](https://db.pokemongohub.net/pokemon/484) - 2021-08-06 - 2021-08-20
+- [Zacian (Hero of Many Battles)](https://db.pokemongohub.net/pokemon/888?form=Hero%20of%20Many%20Battles) - 2021-08-20 - 2021-08-26
+- [Zamazenta (Hero of Many Battles)](https://db.pokemongohub.net/pokemon/889?form=Hero%20of%20Many%20Battles) - 2021-08-26 - 2021-09-01
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Leek Duck Current Raid Bosses](https://leekduck.com/boss/)
@@ -193,6 +195,7 @@ weight: 5
 
 ### Sources
 
+- [Ultra Unlock Part 3 will be all about the Galar region!](https://pokemongolive.com/post/pokemongofest2021-ultraunlock-sword-shield/)
 - [Coming in August: Ultra Unlock and more!](https://pokemongolive.com/post/aug-2021-events/)
 - [Prepare for Ultra Unlock Part 1: Time and Ultra Unlock Part 2: Space!](https://pokemongolive.com/post/pokemongofest2021-ultraunlock-time-space/)
 - [Coming in July: Pokémon GO Fest 2021 and more!](https://pokemongolive.com/post/jul-2021-events/events)
