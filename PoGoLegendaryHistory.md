@@ -7,10 +7,8 @@ weight: 5
 
 ## Current Raids
 
-- [Dialga](https://db.pokemongohub.net/pokemon/483) - 2021-07-23 - 2021-08-06
-- [Palkia](https://db.pokemongohub.net/pokemon/484) - 2021-08-06 - 2021-08-20
-- [Zacian (Hero of Many Battles)](https://db.pokemongohub.net/pokemon/888?form=Hero%20of%20Many%20Battles) - 2021-08-20 - 2021-08-26
-- [Zamazenta (Hero of Many Battles)](https://db.pokemongohub.net/pokemon/889?form=Hero%20of%20Many%20Battles) - 2021-08-26 - 2021-09-01
+- [Lugia](https://db.pokemongohub.net/pokemon/249) - 2021-09-01 - 2021-09-14
+- [Azelf](https://db.pokemongohub.net/pokemon/482) - 2021-09-14 - 2021-10-01
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Leek Duck Current Raid Bosses](https://leekduck.com/boss/)
@@ -19,6 +17,10 @@ weight: 5
 ### Gen V Legendary Wave I
 
 - [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
+- [Zamazenta (Hero of Many Battles)](https://db.pokemongohub.net/pokemon/889?form=Hero%20of%20Many%20Battles) - 2021-08-26 - 2021-09-01
+- [Zacian (Hero of Many Battles)](https://db.pokemongohub.net/pokemon/888?form=Hero%20of%20Many%20Battles) - 2021-08-20 - 2021-08-26
+- [Palkia](https://db.pokemongohub.net/pokemon/484) - 2021-08-06 - 2021-08-20
+- [Dialga](https://db.pokemongohub.net/pokemon/483) - 2021-07-23 - 2021-08-06
 - [Mewtwo](https://db.pokemongohub.net/pokemon/150) - 2021-07-16 - 2021-07-23
 - [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense) - 2021-07-02 - 2021-07-16
 - [Bidoof](https://db.pokemongohub.net/pokemon/399) - 2021-07-01 - 2021-07-01
@@ -195,6 +197,7 @@ weight: 5
 
 ### Sources
 
+- [Coming in September: Get ready for the Season of Mischief and more!](https://pokemongolive.com/post/sept-2021-events/)
 - [Ultra Unlock Part 3 will be all about the Galar region!](https://pokemongolive.com/post/pokemongofest2021-ultraunlock-sword-shield/)
 - [Coming in August: Ultra Unlock and more!](https://pokemongolive.com/post/aug-2021-events/)
 - [Prepare for Ultra Unlock Part 1: Time and Ultra Unlock Part 2: Space!](https://pokemongolive.com/post/pokemongofest2021-ultraunlock-time-space/)
