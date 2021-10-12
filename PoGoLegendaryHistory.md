@@ -7,8 +7,8 @@ weight: 5
 
 ## Current Raids
 
-- [Lugia](https://db.pokemongohub.net/pokemon/249) - 2021-09-01 - 2021-09-14
-- [Azelf](https://db.pokemongohub.net/pokemon/482) - 2021-09-14 - 2021-10-01
+- [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered) - 2021-10-12 - 2021-10-22
+- [Darkrai](https://db.pokemongohub.net/pokemon/491) - 2021-10-22 - 2020-11-05
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Leek Duck Current Raid Bosses](https://leekduck.com/boss/)
@@ -17,6 +17,9 @@ weight: 5
 ### Gen V Legendary Wave I
 
 - [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
+- [Genesect](https://db.pokemongohub.net/pokemon/649)(Douse Drive) - 2021-10-01 - 2021-10-12
+- [Azelf](https://db.pokemongohub.net/pokemon/482) - 2021-09-14 - 2021-10-01
+- [Lugia](https://db.pokemongohub.net/pokemon/249) - 2021-09-01 - 2021-09-14
 - [Zamazenta (Hero of Many Battles)](https://db.pokemongohub.net/pokemon/889?form=Hero%20of%20Many%20Battles) - 2021-08-26 - 2021-09-01
 - [Zacian (Hero of Many Battles)](https://db.pokemongohub.net/pokemon/888?form=Hero%20of%20Many%20Battles) - 2021-08-20 - 2021-08-26
 - [Palkia](https://db.pokemongohub.net/pokemon/484) - 2021-08-06 - 2021-08-20
@@ -197,6 +200,7 @@ weight: 5
 
 ### Sources
 
+- [Coming in October: Pokémon GO Halloween 2021 and more!](https://pokemongolive.com/post/oct-2021-events/)
 - [Coming in September: Get ready for the Season of Mischief and more!](https://pokemongolive.com/post/sept-2021-events/)
 - [Ultra Unlock Part 3 will be all about the Galar region!](https://pokemongolive.com/post/pokemongofest2021-ultraunlock-sword-shield/)
 - [Coming in August: Ultra Unlock and more!](https://pokemongolive.com/post/aug-2021-events/)
