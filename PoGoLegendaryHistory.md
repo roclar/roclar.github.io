@@ -7,10 +7,10 @@ weight: 5
 
 ## Current Raids
 
-- [Cobalion](https://db.pokemongohub.net/pokemon/638) - 2021-11-05 - 2021-11-16
-- [Terrakion](https://db.pokemongohub.net/pokemon/639) - 2021-11-05 - 2021-11-16
-- [Virizion](https://db.pokemongohub.net/pokemon/640) - 2021-11-05 - 2021-11-16
 - [Cresselia](https://db.pokemongohub.net/pokemon/488) - 2021-11-16 - 2021-12-01
+- [Zekrom](https://db.pokemongohub.net/pokemon/644) - 2021-12-01 - 2021-12-16
+- [Reshiram](https://db.pokemongohub.net/pokemon/643) - 2021-12-01 - 2021-12-16
+- [Kyurem](https://db.pokemongohub.net/pokemon/646) - 2021-12-16 - 2021-12-31
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Leek Duck Current Raid Bosses](https://leekduck.com/boss/)
@@ -19,6 +19,9 @@ weight: 5
 ### Gen V Legendary Wave I
 
 - [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
+- [Cobalion](https://db.pokemongohub.net/pokemon/638) - 2021-11-05 - 2021-11-16
+- [Terrakion](https://db.pokemongohub.net/pokemon/639) - 2021-11-05 - 2021-11-16
+- [Virizion](https://db.pokemongohub.net/pokemon/640) - 2021-11-05 - 2021-11-16
 - [Darkrai](https://db.pokemongohub.net/pokemon/491) - 2021-10-22 - 2020-11-05
 - [Giratina (Altered Forme)](https://db.pokemongohub.net/pokemon/487?form=Altered) - 2021-10-12 - 2021-10-22
 - [Genesect](https://db.pokemongohub.net/pokemon/649)(Douse Drive) - 2021-10-01 - 2021-10-12
@@ -204,6 +207,7 @@ weight: 5
 
 ### Sources
 
+- [Coming in December: Season of Heritage, Pokémon GO Holidays, and more!](https://pokemongolive.com/en/post/dec-2021-events/)
 - [Coming in November: Festival of Lights and more!](https://pokemongolive.com/post/nov-2021-events/)
 - [Coming in October: Pokémon GO Halloween 2021 and more!](https://pokemongolive.com/post/oct-2021-events/)
 - [Coming in September: Get ready for the Season of Mischief and more!](https://pokemongolive.com/post/sept-2021-events/)
