@@ -7,8 +7,12 @@ weight: 5
 
 ## Current Raids
 
-- [Genesect](https://db.pokemongohub.net/pokemon/649)(Douse Drive) - 2022-01-15 - 2022-01-15
-- [Regice](https://db.pokemongohub.net/pokemon/378) - 2022-01-24 - 2022-02-01
+- [Regirock](https://db.pokemongohub.net/pokemon/380) - 2022-02-01 - 2022-02-09
+- [Registeel](https://db.pokemongohub.net/pokemon/379) - 2022-02-09 - 2022-02-16
+- [Deoxys (Normal)](https://db.pokemongohub.net/pokemon/386) - 2022-02-16 - 2022-02-19
+- [Deoxys (Attack)](https://db.pokemongohub.net/pokemon/386?form=Attack) - 2022-02-19 - 2022-02-22
+- [Deoxys (Defense)](https://db.pokemongohub.net/pokemon/386?form=Defense) - 2022-02-22 - 2022-02-25
+- [Deoxys (Speed)](https://db.pokemongohub.net/pokemon/386?form=Speed) - 2022-02-25 - 2022-03-01
 - [Gamepress Raid Boss List](https://pokemongo.gamepress.gg/raid-boss-list)
 - [Silph Road Raid Boss List](https://thesilphroad.com/raid-bosses)
 - [Leek Duck Current Raid Bosses](https://leekduck.com/boss/)
@@ -17,6 +21,8 @@ weight: 5
 ### Gen V Legendary Wave I
 
 - [Regigigas](https://db.pokemongohub.net/pokemon/486) - EX 2019-11- - (Special Research story event 2019-11-02)
+- [Regice](https://db.pokemongohub.net/pokemon/378) - 2022-01-24 - 2022-02-01
+- [Genesect](https://db.pokemongohub.net/pokemon/649)(Douse Drive) - 2022-01-15 - 2022-01-24
 - [Heatran](https://db.pokemongohub.net/pokemon/485) - 2022-01-07 - 2022-01-15
 - [Kyurem](https://db.pokemongohub.net/pokemon/646) - 2021-12-16 - 2022-01-07
 - [Zekrom](https://db.pokemongohub.net/pokemon/644) - 2021-12-01 - 2021-12-16
@@ -210,6 +216,7 @@ weight: 5
 
 ### Sources
 
+- [February Content Update: Pokémon GO Tour: Johto, a Hop-ful Community Day, the Valentine’s Day 2022 event, Extra Raid Passes, and more!](https://pokemongolive.com/en/post/february-2022-content-update/)
 - [Coming in January: New Year’s, Mountains of Power, and more!](https://pokemongolive.com/en/post/jan-2022-events/)
 - [Coming in December: Season of Heritage, Pokémon GO Holidays, and more!](https://pokemongolive.com/en/post/dec-2021-events/)
 - [Coming in November: Festival of Lights and more!](https://pokemongolive.com/post/nov-2021-events/)
