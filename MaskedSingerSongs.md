@@ -38,12 +38,12 @@
 | 1 | 4 | Lovefool | The Cardigans | Alien sings | [link](https://www.youtube.com/watch?v=6yoKFl56Nec&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=18) |
 | 1 | 4 | Time After Time | Cyndi Lauper | Poodle sings | [link](https://www.youtube.com/watch?v=fjvHxGVz5_M&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=22) |
 | 1 | 4 | Bad Romance | Lady GaGa | Raven sings | [link](https://www.youtube.com/watch?v=iqCW5EhhOtM&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=21) |
-| 1 | 5 | On Top of the World | Imagine Dragons | The beginning where all four masked singers are on stage | |
+| 1 | 5 | On Top of the World | Imagine Dragons | The beginning where all four masked singers are on stage | [link](https://www.youtube.com/watch?v=VVQ174n-shU&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=46) |
 | 1 | 5 | Poison | Bell Biv DeVoe | Rabbit Sings | [link](https://www.youtube.com/watch?v=8H04Nn85Fm0&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=26) |
 | 1 | 5 | I Love It (feat. Charli XCX) | Icona Pop | Unicorn sings | [link](https://www.youtube.com/watch?v=NXEVbAmHlDk&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=23) |
 | 1 | 5 | Happy (Live) | Pharrell Williams | Alien sings | [link](https://www.youtube.com/watch?v=WmiIhxbHErw&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=24) |
 | 1 | 5 | California Dreamin' | Sia | Lion sings | [link](https://www.youtube.com/watch?v=z12Vveoz5QU&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=25) |
-| 1 | 6 | I Gotta Feeling | Black Eyed Peas | Opening Five Chorus | |
+| 1 | 6 | I Gotta Feeling | Black Eyed Peas | Opening Five Chorus | [link](https://www.youtube.com/watch?v=otEKlnpwO-U&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=45) |
 | 1 | 6 | Wrecking Ball | Miley Cyrus | The Bee's performance | [link](https://www.youtube.com/watch?v=yiKpJFw5uqU&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=27) |
 | 1 | 6 | All of Me | John Legend | The Peacock's Performance | [link](https://www.youtube.com/watch?v=EJZ5oJ2JvJY&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=28) |
 | 1 | 6 | Brave | Sara Bareilles | The Raven's Performance | [link](https://www.youtube.com/watch?v=f-UgymMytAY&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=29) |
@@ -54,6 +54,28 @@
 | 1 | 7 | What's Love Got To Do With It | Tina Turner | The Queen Bee's performance | [link](https://www.youtube.com/watch?v=-H_Q-3KUVPw&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=34) |
 | 1 | 7 | Isn't She Lovely | Stevie Wonder | The Rabbit's performance | [link](https://www.youtube.com/watch?v=e4V6O8AY8H0&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=35) |
 | 1 | 7 | Can't Feel My Face | The Weeknd | The Peacock's performance | [link](https://www.youtube.com/watch?v=hcsBgb6zfTw&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=36) |
+| 1 | 8 | Let's Go (feat. Ne-Yo) | Calvin Harris | The peacock’s performance | [link](https://www.youtube.com/watch?v=NGWxM4VHtA4&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=37) |
+| 1 | 8 | Stay With Me | Sam Smith | The monster’s performance | [link](https://www.youtube.com/watch?v=LyKk0-PL1UU&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=38) |
+| 1 | 8 | Don't You Worry 'Bout a Thing | Stevie Wonder | The lion’s performance | [link](https://www.youtube.com/watch?v=ihY9naT9a2g&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=39) |
+| 1 | 8 | My Girl | The Temptations | The rabbit’s performance | [link](https://www.youtube.com/watch?v=RZYvLVVfRZ4&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=40) |
+| 1 | 8 | (You Make Me Feel Like) A Natural Woman | Aretha Franklin | The bee’s performance | [link](https://www.youtube.com/watch?v=GkxuWIKqNVY&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=41) |
+| 1 | 9 | Don't Stop Me Now | Queen | Sung by Monster at the beginning of this 9th episode | |
+| 1 | 10 | Let's Get It Started (Radio Version) | Black Eyed Peas | Opening of Monsters "road to the finale" segment | |
+| 1 | 10 | Don't Stop Me Now | Queen | [Live cover version] Monster performs in the "road to the finale" segment | |
+| 1 | 10 | I Don't Want to Be | Gavin DeGraw | [Live cover version] Monster performs in the "road to the finale" | |
+| 1 | 10 | Stay With Me | Sam Smith | [Live cover version] Monster performs in the "road to the finale" | |
+| 1 | 10 | Black and Yellow | Wiz Khalifa | Opening of Bee's "road to the finale" segment. | |
+| 1 | 10 | Chandelier | Sia | [Live cover version] The first song Bee performs in her "road to the finale" recap. | |
+| 1 | 10 | Wrecking Ball | Miley Cyrus | [Live cover version] The second song Bee performs in her "road to the finale" recap. | |
+| 1 | 10 | (You Make Me Feel Like) A Natural Woman | Aretha Franklin | [Live cover version] The third song Bee performs (from Week 8) in her "road to the finale" recap. | |
+| 1 | 10 | 24K Magic | Bruno Mars | Opening of Peacocks's "road to the finals" segment. | |
+| 1 | 10 | The Greatest Show | Hugh Jackman | [Live cover version] The first song Peacock performs (from Week 1) in his "road to the finals" segment. | |
+| 1 | 10 | Counting Stars | OneRepublic | [Live cover version] The second song Peacock performs (from Week 3) in his "road to the finals" segment. | |
+| 1 | 10 | Let's Go (feat. Ne-Yo) - Radio Edit | Calvin Harris | [Live cover version] The third song Peacock performs (from Week 8) in his "road to the finals" segment. | |
+| 1 | 10 | Make Way | Aloe Blacc | The second hour of the season finale; the original 12 are welcomed to the stage. | [link](https://www.youtube.com/watch?v=VVQ174n-shU&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=46) |
+| 1 | 10 | Shake a Tail Feather | James & Bobby Purify | [Live cover version] Peacock kicks off the "Final 3". | [link](https://www.youtube.com/watch?v=1w1B9sLoZ2E&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=42) |
+| 1 | 10 | I Can't Make You Love Me | Bonnie Raitt | [Live cover version] Bee performs. | [link](https://www.youtube.com/watch?v=YBjAR3O2WPo&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=43) |
+| 1 | 10 | This Is How We Do It | Montell Jordan | [Live cover version] Monster performs. | [link](https://www.youtube.com/watch?v=yKYI6mjHiH4&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=44) |
 
 ## Sources
 
