@@ -33,6 +33,11 @@
 | 1 | 3 | Counting Stars | OneRepublic | Peacock sings | [link](https://www.youtube.com/watch?v=5LFq4VLWPJQ&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=15) |
 | 1 | 3 | Oops!… I Did It Again | Britney Spears | Unicorn sings | [link](https://www.youtube.com/watch?v=qQfqLtVN6HE&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=16) |
 | 1 | 3 | I Don't Want to Be | Gavin DeGraw | Monster sings | [link](https://www.youtube.com/watch?v=r-GLrd_FcKA&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=17) |
+| 1 | 4 | Wake Me Up (Acoustic) | Aloe Blacc | Rabbit sings | [link](https://www.youtube.com/watch?v=KKrShAeuDDg&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=19) |
+| 1 | 4 | Locked Out of Heaven | Bruno Mars | Bee Sings | [link](https://www.youtube.com/watch?v=SNXgndPB0A0&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=20) |
+| 1 | 4 | Lovefool | The Cardigans | Alien sings | [link](https://www.youtube.com/watch?v=6yoKFl56Nec&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=18) |
+| 1 | 4 | Time After Time | Cyndi Lauper | Poodle sings | [link](https://www.youtube.com/watch?v=fjvHxGVz5_M&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=22) |
+| 1 | 4 | Bad Romance | Lady GaGa | Raven sings | [link](https://www.youtube.com/watch?v=iqCW5EhhOtM&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=21) |
 
 ## Sources
 
