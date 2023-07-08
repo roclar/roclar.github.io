@@ -28,6 +28,11 @@
 | 1 | 2 | Centuries | Fall Out Boy | Raven's entrance | |
 | 1 | 2 | Bossy (feat. Too $hort) | Kelis | Poodle's entrance | |
 | 1 | 2 | Black and Yellow | Wiz Khalifa | Bee's entrance | |
+| 1 | 3 | Feeling Good | Nina Simone | The lion sings | [link](https://www.youtube.com/watch?v=iT0B49vsJ78&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=13) |
+| 1 | 3 | Get Your Shine On | Florida Georgia Line | Deer sing | [link](https://www.youtube.com/watch?v=zscQt0cQ8n0&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=14) |
+| 1 | 3 | Counting Stars | OneRepublic | Peacock sings | [link](https://www.youtube.com/watch?v=5LFq4VLWPJQ&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=15) |
+| 1 | 3 | Oops!… I Did It Again | Britney Spears | Unicorn sings | [link](https://www.youtube.com/watch?v=qQfqLtVN6HE&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=16) |
+| 1 | 3 | I Don't Want to Be | Gavin DeGraw | Monster sings | [link](https://www.youtube.com/watch?v=r-GLrd_FcKA&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=17) |
 
 ## Sources
 
