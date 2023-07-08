@@ -2,7 +2,8 @@
 
 ## Song List
 
-| *Season* | *Episode* | *Name* | *Artist* | *Description* | *Link* |
+| Season | Episode | Name | Artist | Description | Link |
+|:------:|:-------:| ---- | ------ | ----------- | ---- |
 | 1 | 1 | Who Are You | The Who | Theme song | |
 | 1 | 1 | 24K Magic | Bruno Mars | Peacock's entrance | |
 | 1 | 1 | HUMBLE. | Kendrick Lamar | Hippo's entrance | |
@@ -76,6 +77,28 @@
 | 1 | 10 | Shake a Tail Feather | James & Bobby Purify | [Live cover version] Peacock kicks off the "Final 3". | [link](https://www.youtube.com/watch?v=1w1B9sLoZ2E&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=42) |
 | 1 | 10 | I Can't Make You Love Me | Bonnie Raitt | [Live cover version] Bee performs. | [link](https://www.youtube.com/watch?v=YBjAR3O2WPo&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=43) |
 | 1 | 10 | This Is How We Do It | Montell Jordan | [Live cover version] Monster performs. | [link](https://www.youtube.com/watch?v=yKYI6mjHiH4&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=44) |
+| 2 | 1 | Who Are You | The Who | Theme song. | |
+| 2 | 1 | Come Along | Cosmo Sheldrake | In the opening segment as the match-ups for the evening are revealed. | |
+| 2 | 1 | Wings | Little Mix | The Butterfly takes the stage for 1st face off. | |
+| 2 | 1 | DNCE | The Egg takes the stage for 1st face off. | |
+| 2 | 1 | Bang Bang | Jessie J | Butterfly performs her 1st song. | [link](https://www.youtube.com/watch?v=00_WGdM5BpA&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=1) |
+| 2 | 1 | Just Dance | Lady GaGa | The Egg performs his 1st song. REPEATS when Johnny Weir performs an encore after being unmasked. | [link](https://www.youtube.com/watch?v=2jSsKK94dvY&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=2) |
+| 2 | 1 | Wild Thing | The Troggs | Thingamajig takes the stage for 2nd Face-off. | |
+| 2 | 1 | Sing Sing Sing | Alan Silvestri | The Skeleton takes the stage for 2nd Face-off. | |
+| 2 | 1 | Easy (Extended Version) | The Commodores | Thingamajig performs his 1st song. | [link](https://www.youtube.com/watch?v=RmOkRz0svXU&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=3) |
+| 2 | 1 | Blurred Lines (feat. T.I. & Pharrell) | Robin Thicke | Coming out of commercial break, audience member is dancing to this as the panel of judges comment. | |
+| 2 | 1 | Rapper's Delight | The Sugarhill Gang | Skeleton performs his 1st song. | [link](https://www.youtube.com/watch?v=0Cw_7RzM2bM&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=4) |
+| 2 | 1 | One Way or Another | Blondie | The Egg performs his 2nd song in the 1st SmackDown round. | [link](https://www.youtube.com/watch?v=pKJj6fCqj5U&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=5) |
+| 2 | 1 | Hard To Handle | Otis Redding | Skeleton performs his 2nd song in the 1st SmackDown round. | [link](https://www.youtube.com/watch?v=atVLmsHJg-Y&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=6) |
+| 2 | 1 | London Bridge | Fergie | Ladybug takes the stage for 3rd face-off. | |
+| 2 | 1 | Who Let the Dogs Out | Baha Men | Rottweiler takes the stage for 3rd face-off. | |
+| 2 | 1 | Holding Out For a Hero | Bonnie Tyler | Ladybug performs her 1st song. | [link](https://www.youtube.com/watch?v=0cXjJEofJUU&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=7) |
+| 2 | 1 | Maneater | Daryl Hall & John Oates | Rottweiler performs his 1st song. | [link](https://www.youtube.com/watch?v=PxJ-_rQgNZw&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=8) |
+| 2 | 1 | Good as Hell | Lizzo | Tree takes the stage for the 4th face-off. | |
+| 2 | 1 | High Hopes | Panic! At The Disco | Tree performs her 1st song. | [link](https://www.youtube.com/watch?v=OTe4Pcf3U_w&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=9) |
+| 2 | 1 | Old Town Road | Lil Nas X | Ice Cream performs his 1st song. REPEATS when Tyler "Ninja" Blevins performs an encore after being unmasked. | [link](https://www.youtube.com/watch?v=JYLfd9Mxjtg&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=10) |
+| 2 | 1 | Whip It | Devo | Ice Cream performs his 2nd song in the 2nd SmackDown round. | [link](https://www.youtube.com/watch?v=zBlUjwm0s9E&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=11) |
+| 2 | 1 | Hit Me With Your Best Shot | Pat Benatar | Ladybug performs her 2nd song in the 2nd SmackDown round. | [link](https://www.youtube.com/watch?v=2tEnSdJe6xs&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=12) |
 
 ## Sources
 
