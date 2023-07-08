@@ -38,6 +38,11 @@
 | 1 | 4 | Lovefool | The Cardigans | Alien sings | [link](https://www.youtube.com/watch?v=6yoKFl56Nec&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=18) |
 | 1 | 4 | Time After Time | Cyndi Lauper | Poodle sings | [link](https://www.youtube.com/watch?v=fjvHxGVz5_M&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=22) |
 | 1 | 4 | Bad Romance | Lady GaGa | Raven sings | [link](https://www.youtube.com/watch?v=iqCW5EhhOtM&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=21) |
+| 1 | 5 | On Top of the World | Imagine Dragons | The beginning where all four masked singers are on stage | |
+| 1 | 5 | Poison | Bell Biv DeVoe | Rabbit Sings | [link](https://www.youtube.com/watch?v=8H04Nn85Fm0&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=26) |
+| 1 | 5 | I Love It (feat. Charli XCX) | Icona Pop | Unicorn sings | [link](https://www.youtube.com/watch?v=NXEVbAmHlDk&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=23) |
+| 1 | 5 | Happy (Live) | Pharrell Williams | Alien sings | [link](https://www.youtube.com/watch?v=WmiIhxbHErw&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=24) |
+| 1 | 5 | California Dreamin' | Sia | Lion sings | [link](https://www.youtube.com/watch?v=z12Vveoz5QU&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=25) |
 
 ## Sources
 
