@@ -43,6 +43,11 @@
 | 1 | 5 | I Love It (feat. Charli XCX) | Icona Pop | Unicorn sings | [link](https://www.youtube.com/watch?v=NXEVbAmHlDk&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=23) |
 | 1 | 5 | Happy (Live) | Pharrell Williams | Alien sings | [link](https://www.youtube.com/watch?v=WmiIhxbHErw&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=24) |
 | 1 | 5 | California Dreamin' | Sia | Lion sings | [link](https://www.youtube.com/watch?v=z12Vveoz5QU&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=25) |
+| 1 | 6 | I Gotta Feeling | Black Eyed Peas | Opening Five Chorus | |
+| 1 | 6 | Wrecking Ball | Miley Cyrus | The Bee's performance | [link](https://www.youtube.com/watch?v=yiKpJFw5uqU&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=27) |
+| 1 | 6 | All of Me | John Legend | The Peacock's Performance | [link](https://www.youtube.com/watch?v=EJZ5oJ2JvJY&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=28) |
+| 1 | 6 | Brave | Sara Bareilles | The Raven's Performance | [link](https://www.youtube.com/watch?v=f-UgymMytAY&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=29) |
+| 1 | 6 | American Woman | Lenny Kravitz | The Monster's Performance | [link](https://www.youtube.com/watch?v=x3SWnUSnaAM&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=30) |
 
 ## Sources
 
