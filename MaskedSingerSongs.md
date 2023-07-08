@@ -48,6 +48,12 @@
 | 1 | 6 | All of Me | John Legend | The Peacock's Performance | [link](https://www.youtube.com/watch?v=EJZ5oJ2JvJY&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=28) |
 | 1 | 6 | Brave | Sara Bareilles | The Raven's Performance | [link](https://www.youtube.com/watch?v=f-UgymMytAY&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=29) |
 | 1 | 6 | American Woman | Lenny Kravitz | The Monster's Performance | [link](https://www.youtube.com/watch?v=x3SWnUSnaAM&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=30) |
+| 1 | 7 | I Love Rock 'N Roll | Joan Jett & The Blackhearts | The Monster's performance | [link](https://www.youtube.com/watch?v=B66-ZTVj2vo&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=31) |
+| 1 | 7 | Diamond Heart | Lady GaGa | The Lion's performance | [link](https://www.youtube.com/watch?v=MmxbIUBI83U&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=32) |
+| 1 | 7 | Ex's & Oh's | Elle King | The Alien's performance | [link](https://www.youtube.com/watch?v=Hj9mJjBpRoQ&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=33) |
+| 1 | 7 | What's Love Got To Do With It | Tina Turner | The Queen Bee's performance | [link](https://www.youtube.com/watch?v=-H_Q-3KUVPw&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=34) |
+| 1 | 7 | Isn't She Lovely | Stevie Wonder | The Rabbit's performance | [link](https://www.youtube.com/watch?v=e4V6O8AY8H0&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=35) |
+| 1 | 7 | Can't Feel My Face | The Weeknd | The Peacock's performance | [link](https://www.youtube.com/watch?v=hcsBgb6zfTw&list=PLz9NWt_Q83CldTe4lzyIUBtsVszAY6D1r&index=36) |
 
 ## Sources
 
