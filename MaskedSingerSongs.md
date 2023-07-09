@@ -135,6 +135,17 @@ weight: 5
 | 2 | 4 | Are You Gonna Be My Girl | Jet | Skeleton's 1st performance of the episode. | [link](https://www.youtube.com/watch?v=IpqYoU1S9TY&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=28) |
 | 2 | 4 | Rainbow | Kacey Musgraves | Thingamagig's 1st performance of the episode. | [link](https://www.youtube.com/watch?v=nWt2ucSOYFg&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=29) |
 | 2 | 4 | Livin' On A Prayer | Bon Jovi | Butterfly's 1st performance of the episode. | [link](https://www.youtube.com/watch?v=R6RZ_CU9a2o&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=30) |
+| 2 | 5 | Love Runs Out | OneRepublic Rottweiler Performs | [link](https://www.youtube.com/watch?v=BCv984kLD5I&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=31) |
+| 2 | 5 | Juice | Lizzo | Ladybug Performs | [link](https://www.youtube.com/watch?v=z2BOcn0wnHk&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=32) |
+| 2 | 5 | Think | Aretha Franklin | Tree performs | [link](https://www.youtube.com/watch?v=7tLLyYwNJho&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=34) |
+| 2 | 5 | All About That Bass | Meghan Trainor | Penguin Performs | [link](https://www.youtube.com/watch?v=8lzJlkpB9JQ&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=35) |
+| 2 | 5 | Cheap Thrills | Sia | Flower's performance. | [link](https://www.youtube.com/watch?v=q1vCIZHjzMA&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=33) |
+| 2 | 5 | Hey Look Ma, I Made It | Panic! At The Disco | Fox Performs | [link](https://www.youtube.com/watch?v=ywDPlELYiMQ&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=36) |
+| 2 | 6 | Believe | Cher | Black Widow performs. | [link](https://www.youtube.com/watch?v=X5NPItvLFe4&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=40) |
+| 2 | 6 | Ain't Too Proud to Beg | The Temptations | Thingamajig performs. | [link](https://www.youtube.com/watch?v=Q7Cg64fRCkg&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=37) |
+| 2 | 6 | Don't Know Why | Norah Jones | Butterfly performs. | [link](https://www.youtube.com/watch?v=XtaOhmzpanQ&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=38) |
+| 2 | 6 | Teenage Dream | Katy Perry | Leopard performs. | [link](https://www.youtube.com/watch?v=zJaR5hbHPpo&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=39) |
+| 2 | 6 | Never Enough | Loren Allred | Flamingo performs | [link](https://www.youtube.com/watch?v=wrU0VgCGhMQ&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=41) |
 
 ## Sources
 
