@@ -274,6 +274,36 @@ weight: 5
 | 9 | 7 | Music For the Royal Fireworks - La Réjouissance | Ossi Bashiri | Nicole introduces the Battle Royale; (repeats) Young MC, Charlene Tilton and Erik Estrada present the scepter to Battle Royale winner. | |
 | 9 | 7 | Heroic Fanfare | US Army Band and Chorus | Nick Cannon introduces the Battle Royale competitors. | |
 | 9 | 7 | Hungry Like the Wolf | Duran Duran | [Live Cover Performance] Scorpio and Doll perform for the Battle Royale. | |
+| 9 | 8 | Hollywood Swinging | Kool & The Gang | Opening introduction of the judges; (repeats) End Credits. | |
+| 9 | 8 | Hungry Like the Wolf | Duran Duran | Doll's recap segment. | |
+| 9 | 8 | Piano Concerto No. 21 in C Major, K. 467: Allegro maestoso | Royal Philharmonic Orchestra | Doll’s intro package. |
+| 9 | 8 | Jailhouse Rock | Elvis Presley | [Live Cover Performance] Doll performs. | |
+| 9 | 8 | She Won't Let Me Down | Levi Brown & Junior Mintz | Doll’s onstage clue. | |
+| 9 | 8 | I'm Alright (Theme from "Caddyshack") | Kenny Loggins | Caddyshack segment. | |
+| 9 | 8 | Summer Breeze | Seals & Crofts | Dandelion’s entrance. | |
+| 9 | 8 | Over the Rainbow | Judy Garland | [Live Cover Performance] Dandelion performs. | |
+| 9 | 8 | Triple Take | David Inlander | Dandelion’s onstage clue. | |
+| 9 | 8 | Clubbed to Death | Rob Dougan | The Matrix segment. | |
+| 9 | 8 | Whole Lotta Shakin' Goin' On | Jerry Lee Lewis | Mantis’ entrance. | |
+| 9 | 8 | Old Time Rock & Roll | Bob Seger & The Silver Bullet Band | [Live Cover Performance] Mantis performs. | |
+| 9 | 8 | Turn It Loose | Phillmore Oakes | Mantis’ onstage clue. | |
+| 9 | 8 | We're Not Gonna Take It | Twisted Sister | [Live Performance] Dee Snider performs. | |
+| 9 | 8 | Music For the Royal Fireworks - La Réjouissance | Ossi Bashiri | Nicole introduces the Battle Royale; (repeats) Popcorn and Men in Black present the scepter to Battle Royale winner. | |
+| 9 | 8 | Heroic Fanfare | US Army Band and Chorus | Nick Cannon introduces the Battle Royale competitors. | |
+| 9 | 8 | (I've Got A) Golden Ticket - From "Willy Wonka & The Chocolate Factory" Soundtrack | Jack Albertson | [Live Cover Performance] Dandelion and Mantis perform in the Battle Royale. | |
+| 9 | 9 | Also sprach Zarathustra, Op. 30, TrV 176: Prelude (Sonnenaufgang) | Karl Böhm | Opening of Space night. | |
+| 9 | 9 | Piano Concerto No. 21 in C Major, K. 467: Allegro maestoso | Royal Philharmonic Orchestra | Dandelion's recap segment. | |
+| 9 | 9 | Starlight | Muse | [Live Cover Performance] Dandelion performs. | |
+| 9 | 9 | Mr. Roboto | Styx | Rovi the Rover entrance with Dandelion's clue; (repeats) Rovi's exit. | |
+| 9 | 9 | Shining Star | Earth, Wind & Fire | Lamp entrance. | |
+| 9 | 9 | Think Pink | Werner Tautz | Lamp clue package. | |
+| 9 | 9 | Venus | Bananarama | [Live Cover Performance] Lamp performs; (repeats) End Credits. | |
+| 9 | 9 | Main Title | John Morris | Daphne Zuniga entrance with Lamp clue. | |
+| 9 | 9 | E.T. | Katy Perry | UFO entrance. | |
+| 9 | 9 | Yellow | Coldplay | [Live Cover Performance] UFO performs. | |
+| 9 | 9 | Music For the Royal Fireworks - La Réjouissance | Ossi Bashiri | Lead up to Ken introducing the Battle Royale; (repeats) Scepter is presented to the winner of the Battle Royale. | |
+| 9 | 9 | Heroic Fanfare | US Army Band and Chorus | Nick Cannon introduces the Battle Royale competitors. | |
+| 9 | 9 | Rocket Man (I Think It's Going to Be a Long Long Time) | Elton John | [Live Cover Performance] Lamp and UFO perform in the Battle Royale. | |
 
 ## Sources
 
