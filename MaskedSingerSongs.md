@@ -188,6 +188,37 @@ weight: 5
 | 2 | 13 | Proud Mary | Tina Turner | Flamingo's final performance | [link](https://www.youtube.com/watch?v=ZMn7bwC-U3I&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=71) |
 | 2 | 13 | Alive | Sia | Rottweiler's final performance | [link](https://www.youtube.com/watch?v=i7BYgWec1Sg&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=70) |
 | 2 | 13 | Hey Look Ma, I Made It | Panic! At The Disco | Fox's version was played when the winner was announced | |
+| 9 | 1 | Who Are You | The Who | Theme song. | |
+| 9 | 1 | 2 Be Loved (Am I Ready) | Lizzo | Opening dance sequence; Introduction of the judges. | |
+| 9 | 1 | Mustang Sally | Wilson Pickett | Mustang's entrance. | |
+| 9 | 1 | Here I Go Again | Whitesnake | [Live Cover Performance] Mustang performs; (repeats) At the end. | |
+| 9 | 1 | Walking On Sunshine | Katrina & The Waves | Gnome's entrance. | |
+| 9 | 1 | When You're Smiling (The Whole World Smiles With You) | Billie Holiday | [Live Cover Performance] Gnome performs. | |
+| 9 | 1 | Kings & Queens | Ava Max | Medusa's entrance. | |
+| 9 | 1 | Happier Than Ever | Billie Eilish | [Live Cover Performance] Medusa performs. | |
+| 9 | 1 | Supercalifragilisticexpialidocious | Julie Andrews | [Live Performance] Dick Van Dyke performs. | |
+| 9 | 1 | Diamonds | Rihanna | [Live Cover Performance] Mustang and Medusa perform for the Battle Royale. | |
+| 9 | 1 | Music For the Royal Fireworks - La Réjouissance | Ossi Bashiri | Winner of Battle Royale is presented with the scepter and leaves the stage. | |
+| 9 | 2 | Mamma Mia | ABBA | Opening; The judges lip sync. | |
+| 9 | 2 | Piano Concerto No. 21 in C Major, K. 467: Allegro maestoso | Royal Philharmonic Orchestra | Medusa's interview and clue package. | |
+| 9 | 2 | Dancing Queen | ABBA | [Live Cover Performance] Medusa performs; (repeats) [Original Version] Shangela from RuPaul's Drag Race comes out with the celebrity clue for Rock Lobster. | |
+| 9 | 2 | I Do, I Do, I Do, I Do, I Do | ABBA | Nick Viall of The Bachelor franchise brings out an extra clue for Medusa. | |
+| 9 | 2 | Lay All Your Love On Me | ABBA | Night Owl's entrance. | |
+| 9 | 2 | Groovy Boogie | Orchestra Hans Hammerschmid | Night Owl's interview and clue package. | |
+| 9 | 2 | Fernando | ABBA | [Live Cover Performance] Night Owl performs. | |
+| 9 | 2 | Waterloo | ABBA | Napoleon brings out Night Owl's celebrity clue. | |
+| 9 | 2 | Gimme! Gimme! Gimme! (A Man After Midnight) | ABBA | Rock Lobster's entrance. | |
+| 9 | 2 | SOS | ABBA | [Live Cover Performance] Rock Lobster performs. | |
+| 9 | 3 | Living In New York City | Robin Thicke | [Live Performance] Robin Thicke performs. | |
+| 9 | 3 | Piano Concerto No. 21 in C Major, K. 467: Allegro maestoso | Royal Philharmonic Orchestra | Medusa reveals the terrier head as her clue. | |
+| 9 | 3 | Theme From New York, New York | Frank Sinatra | [Live Cover Performance] Medusa performs. | |
+| 9 | 3 | Money Can't Buy You Class (Radio Edit) | Countess Luann | The Real Housewives of NYC's, Luann De Lesseps brings out Medusa's clue. | |
+| 9 | 3 | Ice Ice Baby | Vanilla Ice | Polar Bear's entrance. | |
+| 9 | 3 | Rapture | Blondie | [Live Cover Performance] Polar Bear performs. | |
+| 9 | 3 | Sushi | Merk & Kremont | California Roll's entrance. | |
+| 9 | 3 | Paparazzi | Lady GaGa | [Live Cover Performance] California Roll performs. | |
+| 9 | 3 | Tarantella Napoletana | Gente per tutti | Pizza Rat brings out California Roll's clue. | |
+| 9 | 3 | Good Times | Chic | Grandmaster Flash performs his signature scratching. | |
 
 ## Sources
 
