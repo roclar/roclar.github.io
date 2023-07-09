@@ -4,6 +4,16 @@ title: Masked Singer Contestants (America)
 weight: 5
 ---
 
+## Panelists and Host
+
+| Celebrity | Occupation | Role |
+| --------- | ---------- | ---- |
+| Nick Cannon | television host, actor, rapper, and comedian | Host |
+| Robin Thicke | singer-songwriter | Judge |
+| Jenny McCarthy Wahlberg | television personality | Judge |
+| Ken Jeong | actor and comedian | Judge |
+| Nicole Scherzinger | recording artist | Judge |
+
 ## Contestant List
 
 | Season | Stage name | Celebrity | Occupation | Result |
