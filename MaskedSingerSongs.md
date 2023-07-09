@@ -209,6 +209,8 @@ weight: 5
 | 9 | 2 | Waterloo | ABBA | Napoleon brings out Night Owl's celebrity clue. | |
 | 9 | 2 | Gimme! Gimme! Gimme! (A Man After Midnight) | ABBA | Rock Lobster's entrance. | |
 | 9 | 2 | SOS | ABBA | [Live Cover Performance] Rock Lobster performs. | |
+| 9 | 2 | The Winner Takes It All | ABBA | [Live Cover Performance] Medusa and Night Owl perform for the Battle Royale. | |
+| 9 | 2 | Music For the Royal Fireworks - La Réjouissance | Ossi Bashiri | Howie Mandel presents the scepter to the winner. | |
 | 9 | 3 | Living In New York City | Robin Thicke | [Live Performance] Robin Thicke performs. | |
 | 9 | 3 | Piano Concerto No. 21 in C Major, K. 467: Allegro maestoso | Royal Philharmonic Orchestra | Medusa reveals the terrier head as her clue. | |
 | 9 | 3 | Theme From New York, New York | Frank Sinatra | [Live Cover Performance] Medusa performs. | |
@@ -219,6 +221,10 @@ weight: 5
 | 9 | 3 | Paparazzi | Lady GaGa | [Live Cover Performance] California Roll performs. | |
 | 9 | 3 | Tarantella Napoletana | Gente per tutti | Pizza Rat brings out California Roll's clue. | |
 | 9 | 3 | Good Times | Chic | Grandmaster Flash performs his signature scratching. | |
+| 9 | 3 | Heroic Fanfare | US Army Band | Nick Cannon introduces the Battle Royale; Medusa and California Roll take the stage. | |
+| 9 | 3 | Uptown Girl | Billy Joel | [Live Cover Performance] Medusa and California Roll perform for the Battle Royale. | |
+| 9 | 3 | Music For the Royal Fireworks - La Réjouissance | Ossi Bashiri | Long Island Medium, Theresa Caputo presents the scepter to the winner of the Battle Royale. | |
+| 9 | 3 | New York, New York | Gary Willner | At the end, dancers performing onstage; | |
 
 ## Sources
 
