@@ -225,6 +225,55 @@ weight: 5
 | 9 | 3 | Uptown Girl | Billy Joel | [Live Cover Performance] Medusa and California Roll perform for the Battle Royale. | |
 | 9 | 3 | Music For the Royal Fireworks - La Réjouissance | Ossi Bashiri | Long Island Medium, Theresa Caputo presents the scepter to the winner of the Battle Royale. | |
 | 9 | 3 | New York, New York | Gary Willner | At the end, dancers performing onstage; | |
+| 9 | 4 | Holding Out For a Hero | Bonnie Tyler | [Live Cover Performance] Opening; Nicole Scherzinger performs. | |
+| 9 | 4 | TV Theme (From The TV Series "Batman") | London Music Works | Gargoyle's entrance. | |
+| 9 | 4 | One Call Away | Charlie Puth | [Live Cover Performance] Gargoyle performs. | |
+| 9 | 4 | Erotica | Chris White | Wolf's clue package. | |
+| 9 | 4 | Break On Through (To the Other Side) | The Doors | [Live Cover Performance] Wolf performs. | |
+| 9 | 4 | Super Friends Theme | The Hit Crew | Squirrel's entrance. | |
+| 9 | 4 | Try | P!nk | [Live Cover Performance] Squirrel performs. | |
+| 9 | 4 | Reach for the Skies | Two Steps From Hell | Jim Lee's entrance for Squirrel's extra clue. | |
+| 9 | 4 | How Am I Supposed to Live Without You | Michael Bolton | [Live Performance] Michael Bolton performs. | |
+| 9 | 4 | Music For the Royal Fireworks - La Réjouissance | Ossi Bashiri | Robin Thicke introduces the Battle Royale; (repeats) Jim Lee presents the Battle Royale winner with the scepter. | |
+| 9 | 4 | Heroic Fanfare | US Army Band and Chorus | Nick Cannon introduces the Battle Royale competitors. | |
+| 9 | 4 | Kryptonite | 3 Doors Down | [Live Cover Performance] Gargoyle and Squirrel perform for the Battle Royale. | |
+| 9 | 5 | What's the Name of That Song? | The Sesame Street Cast | [Live Cover Performance] Opening; Elmo performs. | |
+| 9 | 5 | Dynamite | BTS | [Live Cover Performance] Big Bird, Cookie Monster, Elmo, and Ken Jeong perform and are joined by the rest of the Sesame Street and Masked Singer cast. | |
+| 9 | 5 | Piano Concerto No. 21 in C Major, K. 467: Allegro maestoso | Royal Philharmonic Orchestra | Squirrel's clue package. | |
+| 9 | 5 | Just the Two of Us | Grover Washington, Jr. | [Live Cover Performance] Squirrel performs. | |
+| 9 | 5 | Elmo's Song | Elmo | [Live Performance] Elmo and Ken Jeong perform. | |
+| 9 | 5 | Cut to the Feeling | Carly Rae Jepsen | The Fairy's entrance. | |
+| 9 | 5 | You're No Good | Linda Ronstadt | [Live Cover Performance] The Fairy performs. | |
+| 9 | 5 | Pompeii | Bastille | Jackalope's entrance. | |
+| 9 | 5 | Whenever, Wherever | Shakira | [Live Cover Performance] Jackalope performs; (repeats) At the end, Jackalope performs. | |
+| 9 | 5 | Heroic Fanfare | US Army Band and Chorus | Nick Cannon introduces the Battle Royale competitors. | |
+| 9 | 5 | On Top of the World | Imagine Dragons | [Live Cover Performance] Jackalope and Fairy perform for the Battle Royale. | |
+| 9 | 5 | Music For the Royal Fireworks - La Réjouissance | Ossi Bashiri | Big Bird presents the scepter to the Battle Royale winner. |
+| 9 | 6 | Fancy Like | Walker Hayes | Opening. | |
+| 9 | 6 | Angel from Montgomery | Bonnie Raitt | [Live Cover Performance] Fairy performs. | |
+| 9 | 6 | Timber (feat. Ke$ha) | Pitbull | Axolotl's entrance. | |
+| 9 | 6 | Can't Fight the Moonlight | LeAnn Rimes | [Live Cover Performance] Axolotl performs. | |
+| 9 | 6 | Jungle Boogie | Kool & The Gang | Macaw's entrance. | |
+| 9 | 6 | Live Like You Were Dying | Tim McGraw | [Live Cover Performance] Macaw performs. | |
+| 9 | 6 | Strawberry Wine | Deana Carter | Deana Carter's entrance for Macaw's extra clue. | |
+| 9 | 6 | Heroic Fanfare | US Army Band and Chorus | Nick Cannon introduces the Battle Royale competitors. | |
+| 9 | 6 | That Don't Impress Me Much | Shania Twain | [Live Cover Performance] Fairy and Macaw perform for the Battle Royale. | |
+| 9 | 6 | Seconds Bite | Bleeding Fingers | Before the Battle Royal winner is revealed. | |
+| 9 | 6 | Music For the Royal Fireworks - La Réjouissance | Ossi Bashiri | The scepter is presented to the Battle Royale winner. | |
+| 9 | 6 | You're No Good | Linda Ronstadt | [Live Cover Performance] Unmasked performance. | |
+| 9 | 7 | Bust a Move | Young MC | [Live Performance] Opening; Young MC performs and introduces the judges; (repeats) Scorpio's extra clue. | |
+| 9 | 7 | Never Gonna Give You Up | Rick Astley | Doll's entrance. | |
+| 9 | 7 | Don't You (Forget About Me) | Simple Minds | [Live Cover Performance] Doll performs. | |
+| 9 | 7 | C.H.I.P.S | The TV Theme Players | Erik Estrada's entrance with a clue for Doll. | |
+| 9 | 7 | Rock You Like a Hurricane | Scorpions | Scorpio's entrance. | |
+| 9 | 7 | Girls Just Want to Have Fun | Cyndi Lauper | [Live Cover Performance] Scorpio performs; (repeats) At the end, Scorpio performs. | |
+| 9 | 7 | Oh Yeah | Yello | Moose's entrance. | |
+| 9 | 7 | Friend Setter | Orchestra Benny Gebauer | Moose's clue package. | |
+| 9 | 7 | The Power of Love | Huey Lewis & The News | [Live Cover Performance] Moose performs. | |
+| 9 | 7 | Theme (From "Dallas") | The TV Themes Players | Charlene Tilton's entrance for Moose's extra clue. | |
+| 9 | 7 | Music For the Royal Fireworks - La Réjouissance | Ossi Bashiri | Nicole introduces the Battle Royale; (repeats) Young MC, Charlene Tilton and Erik Estrada present the scepter to Battle Royale winner. | |
+| 9 | 7 | Heroic Fanfare | US Army Band and Chorus | Nick Cannon introduces the Battle Royale competitors. | |
+| 9 | 7 | Hungry Like the Wolf | Duran Duran | [Live Cover Performance] Scorpio and Doll perform for the Battle Royale. | |
 
 ## Sources
 
