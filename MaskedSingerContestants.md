@@ -47,7 +47,7 @@ weight: 5
 | 2 | Ice Cream | Tyler "Ninja" Blevins | Professional gamer | OUT EP 1 |
 | 2 | Egg | Johnny Weir | Figure skater | OUT EP 1 |
 | 9 | Medusa | Bishop Briggs | Singer | WINNER |
-| 9 | Macaw | David Archuleta | Singer | WIN | RUNNER-UP |
+| 9 | Macaw | David Archuleta | Singer | RUNNER-UP |
 | 9 | California Roll | Pentatonix | Musical group | OUT EP 13 |
 | 9 | UFO | Olivia Culpo | Model/internet personality | OUT EP 12 |
 | 9 | Gargoyle | Keenan Allen | NFL player | OUT EP 11 |
