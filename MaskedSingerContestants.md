@@ -60,7 +60,7 @@ weight: 5
 | 9 | Fairy | Holly Robinson Peete | Actor/singer | OUT EP 6 |
 | 9 | Axolotl | Alexa Bliss | Professional wrestler | OUT EP 6 |
 | 9 | Jackalope | Lele Pons | Internet personality | OUT EP 5 |
-| 9 | Squirrel | Malin Akerman | Actor | OUT EP EP 5 |
+| 9 | Squirrel | Malin Akerman | Actor | OUT EP 5 |
 | 9 | Wolf | Michael Bolton | Singer | OUT EP 4 |
 | 9 | Polar Bear | Grandmaster Flash | DJ/rapper | OUT EP 3 |
 | 9 | Night Owl | Debbie Gibson | Singer | OUT EP 2 |
