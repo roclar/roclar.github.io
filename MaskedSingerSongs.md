@@ -146,6 +146,48 @@ weight: 5
 | 2 | 6 | Don't Know Why | Norah Jones | Butterfly performs. | [link](https://www.youtube.com/watch?v=XtaOhmzpanQ&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=38) |
 | 2 | 6 | Teenage Dream | Katy Perry | Leopard performs. | [link](https://www.youtube.com/watch?v=zJaR5hbHPpo&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=39) |
 | 2 | 6 | Never Enough | Loren Allred | Flamingo performs | [link](https://www.youtube.com/watch?v=wrU0VgCGhMQ&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=41) |
+| 2 | 7 | Every Little Step | Bobby Brown | Fox Performs | |
+| 2 | 7 | Youngblood | 5 Seconds of Summer | Ladybug Performs | |
+| 2 | 7 | Amazed | Lonestar | Flower Performs | |
+| 2 | 7 | No Excuses | Meghan Trainor | Tree Performs | |
+| 2 | 7 | Castle on the Hill | Ed Sheeran | Rottweiler Performs | |
+| 2 | 8 | Lady Marmalade | Patti LaBelle | Sung by The Flamingo | |
+| 2 | 8 | September | Earth, Wind & Fire | Sung by The Leopard | |
+| 2 | 8 | Alone | Heart | Sung by The Flower | |
+| 2 | 8 | Grenade | Bruno Mars | Sung by The Rottweiler | |
+| 2 | 8 | Don't Cha | The Pussycat Dolls | Sung by The Leopard in Smackdown. | |
+| 2 | 8 | Eye of the Tiger | Survivor | Sung by The Flower in Smackdown. | |
+| 2 | 9 | Sorry Not Sorry | Demi Lovato | Butterfly's stage song (Original track). | |
+| 2 | 9 | Tennessee Whiskey | Chris Stapleton | The Fox’s stage song | |
+| 2 | 9 | Haven't Met You Yet | Michael Bublé | Thingamajig's stage song (original track). | |
+| 2 | 9 | Total Eclipse of the Heart | Bonnie Tyler | Tree's stage song (original track). | |
+| 2 | 9 | Believer | Imagine Dragons | Butterfly's smackdown song (original track). | |
+| 2 | 9 | Caught Up | Usher | Thingamajig's smackdown song (original track). | |
+| 2 | 10 | Blame It (feat. T-Pain) | Jamie Foxx | The Fox sings this original song on stage. | |
+| 2 | 10 | We Are Young (feat. Janelle Monáe) | Fun. | The Leopard sings this original song on stage. | |
+| 2 | 10 | Ordinary People | John Legend | The Thingamajig sings this original song live on stage. | |
+| 2 | 10 | Go Your Own Way | Fleetwood Mac | The Flamingo sings this original song live on stage. | |
+| 2 | 10 | The Edge of Glory | Lady GaGa | The Tree sings this original song on stage. | |
+| 2 | 10 | Someone You Loved | Lewis Capaldi | The Rottweiler sings this original song live on stage. | |
+| 2 | 11 | This Christmas | Donny Hathaway | Fox sings this original song live on stage | |
+| 2 | 11 | Mr. Brightside | The Killers | Rottweiler sings this original song live on stage | |
+| 2 | 11 | Winter Wonderland | Bing Crosby | Thingamajig sings this original song live on stage | |
+| 2 | 11 | Hallelujah | Jeff Buckley | Flamingo performs. | |
+| 2 | 11 | Big Spender | Shirley Bassey | Leopard sings this original song live on stage. | |
+| 2 | 12 | Who Let the Dogs Out | Baha Men | During Rottweiler's video | |
+| 2 | 12 | Maneater | Daryl Hall & John Oates | During Rottweiler's video | |
+| 2 | 12 | Grenade | Bruno Mars | During Rottweiler's video | |
+| 2 | 12 | Someone You Loved | Lewis Capaldi | During Rottweiler's video | |
+| 2 | 12 | That's Not My Name | The Ting Tings | During flamingo's video | |
+| 2 | 12 | Sucker | Jonas Brothers | During flamingo's video | |
+| 2 | 12 | Never Enough | Loren Allred | During flamingo's video | |
+| 2 | 12 | Lady Marmalade | LaBelle | During flamingo's video | |
+| 2 | 12 | Rainbow | Kacey Musgraves | During Thingamijig's video | |
+| 2 | 12 | Finesse | Bruno Mars | During Fox's video | |
+| 2 | 13 | Try a Little Tenderness | Otis Redding | Fox's final performance | |
+| 2 | 13 | Proud Mary | Tina Turner | Flamingo's final performance | |
+| 2 | 13 | Alive | Sia | Rottweiler's final performance | |
+| 2 | 13 | Hey Look Ma, I Made It | Panic! At The Disco | Fox's version was played when the winner was announced | |
 
 ## Sources
 
