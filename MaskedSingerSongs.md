@@ -1,4 +1,8 @@
-# Masked Singer Songs (America)
+---
+layout: page
+title: Masked Singer Songs (America)
+weight: 5
+---
 
 ## Song List
 
