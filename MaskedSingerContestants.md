@@ -46,6 +46,24 @@ weight: 5
 | 2 | Panda | Laila Ali | Boxer | OUT EP 2 |
 | 2 | Ice Cream | Tyler "Ninja" Blevins | Professional gamer | OUT EP 1 |
 | 2 | Egg | Johnny Weir | Figure skater | OUT EP 1 |
+| 3 | Night Angel | Kandi Burruss | Singer/TV personality | WINNER |
+| 3 | Turtle | Jesse McCartney | Singer | RUNNER-UP |
+| 3 | Frog | Bow Wow | Rapper | THIRD |
+| 3 | Rhino | Barry Zito | Former MLB pitcher | OUT EP 15 |
+| 3 | Kitty | Jackie Evancho | Singer | OUT EP 14 |
+| 3 | Astronaut | Hunter Hayes | Singer | OUT EP 13 |
+| 3 | Banana | Bret Michaels | Singer | OUT EP 12 |
+| 3 | Kangaroo | Jordyn Woods | Model/socialite | OUT EP 11 |
+| 3 | White Tiger | Rob Gronkowski | Retired NFL player | OUT EP 10 |
+| 3 | T-Rex | JoJo Siwa | Dancer/singer | OUT EP 9 |
+| 3 | Swan | Bella Thorne | Actor | OUT EP 8 |
+| 3 | Bear | Sarah Palin | Politician | OUT EP 7 |
+| 3 | Taco | Tom Bergeron | TV host | OUT EP 6 |
+| 3 | Mouse | Dionne Warwick | Singer | OUT EP 5 |
+| 3 | Elephant | Tony Hawk | Skateboarder | OUT EP 4 |
+| 3 | Miss Monster | Chaka Khan | Singer | OUT EP 3 |
+| 3 | Llama | Drew Carey | Comedian/TV host | OUT EP 2 |
+| 3 | Robot | Lil Wayne | Rapper | OUT EP 1 |
 | 9 | Medusa | Bishop Briggs | Singer | WINNER |
 | 9 | Macaw | David Archuleta | Singer | RUNNER-UP |
 | 9 | California Roll | Pentatonix | Musical group | OUT EP 13 |
@@ -72,4 +90,5 @@ weight: 5
 
 * [The Masked Singer (American season 1)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_1))
 * [The Masked Singer (American season 2)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_2))
+* [The Masked Singer (American season 3)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_3))
 * [The Masked Singer (American season 9)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_9))
