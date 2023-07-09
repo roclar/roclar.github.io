@@ -111,6 +111,19 @@
 | 2 | 2 | Stronger (What Doesn't Kill You) | Kelly Clarkson | Panda performs a LIVE COVER VERSION of this for her 1st song. | [link](https://www.youtube.com/watch?v=HK_mA_pEjss&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=16) |
 | 2 | 2 | All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross) | DJ Khaled | Panda performs a LIVE COVER VERSION of this for her SmackDown performance. | [link](https://www.youtube.com/watch?v=ssVuD12-0nc&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=18) |
 | 2 | 2 | Respect | Aretha Franklin | Leopard performs a LIVE COVER VERSION of this for his SmackDown performance. | [link](https://www.youtube.com/watch?v=BaGokTOfMyo&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=17) |
+| 2 | 3 | Come Along | Cosmo Sheldrake | Nick announces the Group D match-ups during the introduction. | |
+| 2 | 3 | Me Too | Meghan Trainor | Flower takes the stage for the first face-off. | |
+| 2 | 3 | Spirit in the Sky | Norman Greenbaum | Eagle takes the stage for the first face-off. | |
+| 2 | 3 | 9 to 5 (feat. Anna Camp) | Perfect Harmony Cast | [Live cover version] Flower performs her 1st song. | [link](https://www.youtube.com/watch?v=7d49tVl-I8s&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=19) |
+| 2 | 3 | Reunited | Peaches & Herb | [Live a capella cover version] Ken Jeong sings when Flower is accused of possibly being Mariah Carey. | |
+| 2 | 3 | I'd Do Anything for Love (But I Won't Do That) [Single Edit] | Meat Loaf | [Live cover version] Eagle performs his 1st song. | [link](https://www.youtube.com/watch?v=H77JwXonXkY&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=20) |
+| 2 | 3 | HandClap | Fitz and The Tantrums | Penguin takes the stage for their first face-off. | |
+| 2 | 3 | Finesse | Bruno Mars | Fox takes the stage for their first face-off. | |
+| 2 | 3 | The Middle | Zedd | [Live cover version] Penguin performs her 1st song. | [link](https://www.youtube.com/watch?v=ysJGkppabIk&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=21) |
+| 2 | 3 | Let's Stay Together | Al Green | Coming out of commercial break, the judges panel and Ken Jeong sing along with this track. | |
+| 2 | 3 | This Love | Maroon 5 | [Live cover version] Fox performs his 1st song. | [link](https://www.youtube.com/watch?v=fiY4bvU5wM0&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=22) |
+| 2 | 3 | These Boots Are Made for Walkin' | Nancy Sinatra |[Live cover version] Eagle performs his SmackDown performance. | [link](https://www.youtube.com/watch?v=arqFfUuMzqs&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=23) |
+| 2 | 3 | Worth It (feat. Kid Ink) [feat. Kid Ink] | Fifth Harmony | [Live cover version] Penguin performs her SmackDown performance. | [link](https://www.youtube.com/watch?v=PAJlUbRr7CQ&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=24) |
 
 ## Sources
 
