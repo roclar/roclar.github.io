@@ -191,7 +191,7 @@ weight: 5
 | 9 | 1 | Who Are You | The Who | Theme song. | |
 | 9 | 1 | 2 Be Loved (Am I Ready) | Lizzo | Opening dance sequence; Introduction of the judges. | |
 | 9 | 1 | Mustang Sally | Wilson Pickett | Mustang's entrance. | |
-| 9 | 1 | Here I Go Again | Whitesnake | [Live Cover Performance] Mustang performs; (repeats) At the end. | |
+| 9 | 1 | Here I Go Again | Whitesnake | [Live Cover Performance] Mustang performs; (repeats) At the end. | [link](https://www.youtube.com/watch?v=7K2ziBJMEdU&list=PLz-0dntIK0obZwzzWjkewT5youdeX65RQ) |
 | 9 | 1 | Walking On Sunshine | Katrina & The Waves | Gnome's entrance. | |
 | 9 | 1 | When You're Smiling (The Whole World Smiles With You) | Billie Holiday | [Live Cover Performance] Gnome performs. | |
 | 9 | 1 | Kings & Queens | Ava Max | Medusa's entrance. | |
@@ -205,7 +205,7 @@ weight: 5
 | 9 | 2 | I Do, I Do, I Do, I Do, I Do | ABBA | Nick Viall of The Bachelor franchise brings out an extra clue for Medusa. | |
 | 9 | 2 | Lay All Your Love On Me | ABBA | Night Owl's entrance. | |
 | 9 | 2 | Groovy Boogie | Orchestra Hans Hammerschmid | Night Owl's interview and clue package. | |
-| 9 | 2 | Fernando | ABBA | [Live Cover Performance] Night Owl performs. | |
+| 9 | 2 | Fernando | ABBA | [Live Cover Performance] Night Owl performs. | [link](https://www.youtube.com/watch?v=YPaN6I5c58o&list=PLz-0dntIK0obZwzzWjkewT5youdeX65RQ) |
 | 9 | 2 | Waterloo | ABBA | Napoleon brings out Night Owl's celebrity clue. | |
 | 9 | 2 | Gimme! Gimme! Gimme! (A Man After Midnight) | ABBA | Rock Lobster's entrance. | |
 | 9 | 2 | SOS | ABBA | [Live Cover Performance] Rock Lobster performs. | |
@@ -213,7 +213,7 @@ weight: 5
 | 9 | 2 | Music For the Royal Fireworks - La Réjouissance | Ossi Bashiri | Howie Mandel presents the scepter to the winner. | |
 | 9 | 3 | Living In New York City | Robin Thicke | [Live Performance] Robin Thicke performs. | |
 | 9 | 3 | Piano Concerto No. 21 in C Major, K. 467: Allegro maestoso | Royal Philharmonic Orchestra | Medusa reveals the terrier head as her clue. | |
-| 9 | 3 | Theme From New York, New York | Frank Sinatra | [Live Cover Performance] Medusa performs. | |
+| 9 | 3 | Theme From New York, New York | Frank Sinatra | [Live Cover Performance] Medusa performs. | [link](https://www.youtube.com/watch?v=hGwcXokhZ5M&list=PLz-0dntIK0obZwzzWjkewT5youdeX65RQ) |
 | 9 | 3 | Money Can't Buy You Class (Radio Edit) | Countess Luann | The Real Housewives of NYC's, Luann De Lesseps brings out Medusa's clue. | |
 | 9 | 3 | Ice Ice Baby | Vanilla Ice | Polar Bear's entrance. | |
 | 9 | 3 | Rapture | Blondie | [Live Cover Performance] Polar Bear performs. | |
@@ -227,7 +227,7 @@ weight: 5
 | 9 | 3 | New York, New York | Gary Willner | At the end, dancers performing onstage; | |
 | 9 | 4 | Holding Out For a Hero | Bonnie Tyler | [Live Cover Performance] Opening; Nicole Scherzinger performs. | |
 | 9 | 4 | TV Theme (From The TV Series "Batman") | London Music Works | Gargoyle's entrance. | |
-| 9 | 4 | One Call Away | Charlie Puth | [Live Cover Performance] Gargoyle performs. | |
+| 9 | 4 | One Call Away | Charlie Puth | [Live Cover Performance] Gargoyle performs. | [link](https://www.youtube.com/watch?v=Z2sPhhB741M&list=PLz-0dntIK0obZwzzWjkewT5youdeX65RQ) |
 | 9 | 4 | Erotica | Chris White | Wolf's clue package. | |
 | 9 | 4 | Break On Through (To the Other Side) | The Doors | [Live Cover Performance] Wolf performs. | |
 | 9 | 4 | Super Friends Theme | The Hit Crew | Squirrel's entrance. | |
@@ -238,14 +238,14 @@ weight: 5
 | 9 | 4 | Heroic Fanfare | US Army Band and Chorus | Nick Cannon introduces the Battle Royale competitors. | |
 | 9 | 4 | Kryptonite | 3 Doors Down | [Live Cover Performance] Gargoyle and Squirrel perform for the Battle Royale. | |
 | 9 | 5 | What's the Name of That Song? | The Sesame Street Cast | [Live Cover Performance] Opening; Elmo performs. | |
-| 9 | 5 | Dynamite | BTS | [Live Cover Performance] Big Bird, Cookie Monster, Elmo, and Ken Jeong perform and are joined by the rest of the Sesame Street and Masked Singer cast. | |
+| 9 | 5 | Dynamite | BTS | [Live Cover Performance] Big Bird, Cookie Monster, Elmo, and Ken Jeong perform and are joined by the rest of the Sesame Street and Masked Singer cast. | [link](https://www.youtube.com/watch?v=aIaPx6pa8xA&list=PLz-0dntIK0obZwzzWjkewT5youdeX65RQ) |
 | 9 | 5 | Piano Concerto No. 21 in C Major, K. 467: Allegro maestoso | Royal Philharmonic Orchestra | Squirrel's clue package. | |
 | 9 | 5 | Just the Two of Us | Grover Washington, Jr. | [Live Cover Performance] Squirrel performs. | |
 | 9 | 5 | Elmo's Song | Elmo | [Live Performance] Elmo and Ken Jeong perform. | |
 | 9 | 5 | Cut to the Feeling | Carly Rae Jepsen | The Fairy's entrance. | |
 | 9 | 5 | You're No Good | Linda Ronstadt | [Live Cover Performance] The Fairy performs. | |
 | 9 | 5 | Pompeii | Bastille | Jackalope's entrance. | |
-| 9 | 5 | Whenever, Wherever | Shakira | [Live Cover Performance] Jackalope performs; (repeats) At the end, Jackalope performs. | |
+| 9 | 5 | Whenever, Wherever | Shakira | [Live Cover Performance] Jackalope performs; (repeats) At the end, Jackalope performs. | [link](https://www.youtube.com/watch?v=w-REeocwUiM&list=PLz-0dntIK0obZwzzWjkewT5youdeX65RQ) |
 | 9 | 5 | Heroic Fanfare | US Army Band and Chorus | Nick Cannon introduces the Battle Royale competitors. | |
 | 9 | 5 | On Top of the World | Imagine Dragons | [Live Cover Performance] Jackalope and Fairy perform for the Battle Royale. | |
 | 9 | 5 | Music For the Royal Fireworks - La Réjouissance | Ossi Bashiri | Big Bird presents the scepter to the Battle Royale winner. |
@@ -254,7 +254,7 @@ weight: 5
 | 9 | 6 | Timber (feat. Ke$ha) | Pitbull | Axolotl's entrance. | |
 | 9 | 6 | Can't Fight the Moonlight | LeAnn Rimes | [Live Cover Performance] Axolotl performs. | |
 | 9 | 6 | Jungle Boogie | Kool & The Gang | Macaw's entrance. | |
-| 9 | 6 | Live Like You Were Dying | Tim McGraw | [Live Cover Performance] Macaw performs. | |
+| 9 | 6 | Live Like You Were Dying | Tim McGraw | [Live Cover Performance] Macaw performs. | [link](https://www.youtube.com/watch?v=govZk1JPWa4&list=PLz-0dntIK0obZwzzWjkewT5youdeX65RQ) |
 | 9 | 6 | Strawberry Wine | Deana Carter | Deana Carter's entrance for Macaw's extra clue. | |
 | 9 | 6 | Heroic Fanfare | US Army Band and Chorus | Nick Cannon introduces the Battle Royale competitors. | |
 | 9 | 6 | That Don't Impress Me Much | Shania Twain | [Live Cover Performance] Fairy and Macaw perform for the Battle Royale. | |
@@ -263,7 +263,7 @@ weight: 5
 | 9 | 6 | You're No Good | Linda Ronstadt | [Live Cover Performance] Unmasked performance. | |
 | 9 | 7 | Bust a Move | Young MC | [Live Performance] Opening; Young MC performs and introduces the judges; (repeats) Scorpio's extra clue. | |
 | 9 | 7 | Never Gonna Give You Up | Rick Astley | Doll's entrance. | |
-| 9 | 7 | Don't You (Forget About Me) | Simple Minds | [Live Cover Performance] Doll performs. | |
+| 9 | 7 | Don't You (Forget About Me) | Simple Minds | [Live Cover Performance] Doll performs. | [link](https://www.youtube.com/watch?v=3Dz7WEpvP4c&list=PLz-0dntIK0obZwzzWjkewT5youdeX65RQ) |
 | 9 | 7 | C.H.I.P.S | The TV Theme Players | Erik Estrada's entrance with a clue for Doll. | |
 | 9 | 7 | Rock You Like a Hurricane | Scorpions | Scorpio's entrance. | |
 | 9 | 7 | Girls Just Want to Have Fun | Cyndi Lauper | [Live Cover Performance] Scorpio performs; (repeats) At the end, Scorpio performs. | |
@@ -281,7 +281,7 @@ weight: 5
 | 9 | 8 | She Won't Let Me Down | Levi Brown & Junior Mintz | Doll’s onstage clue. | |
 | 9 | 8 | I'm Alright (Theme from "Caddyshack") | Kenny Loggins | Caddyshack segment. | |
 | 9 | 8 | Summer Breeze | Seals & Crofts | Dandelion’s entrance. | |
-| 9 | 8 | Over the Rainbow | Judy Garland | [Live Cover Performance] Dandelion performs. | |
+| 9 | 8 | Over the Rainbow | Judy Garland | [Live Cover Performance] Dandelion performs. | [link](https://www.youtube.com/watch?v=L_1mfcGaJe4&list=PLz-0dntIK0obZwzzWjkewT5youdeX65RQ) |
 | 9 | 8 | Triple Take | David Inlander | Dandelion’s onstage clue. | |
 | 9 | 8 | Clubbed to Death | Rob Dougan | The Matrix segment. | |
 | 9 | 8 | Whole Lotta Shakin' Goin' On | Jerry Lee Lewis | Mantis’ entrance. | |
@@ -290,7 +290,7 @@ weight: 5
 | 9 | 8 | We're Not Gonna Take It | Twisted Sister | [Live Performance] Dee Snider performs. | |
 | 9 | 8 | Music For the Royal Fireworks - La Réjouissance | Ossi Bashiri | Nicole introduces the Battle Royale; (repeats) Popcorn and Men in Black present the scepter to Battle Royale winner. | |
 | 9 | 8 | Heroic Fanfare | US Army Band and Chorus | Nick Cannon introduces the Battle Royale competitors. | |
-| 9 | 8 | (I've Got A) Golden Ticket - From "Willy Wonka & The Chocolate Factory" Soundtrack | Jack Albertson | [Live Cover Performance] Dandelion and Mantis perform in the Battle Royale. | |
+| 9 | 8 | (I've Got A) Golden Ticket - From "Willy Wonka & The Chocolate Factory" Soundtrack | Jack Albertson | [Live Cover Performance] Dandelion and Mantis perform in the Battle Royale. | [link](https://www.youtube.com/watch?v=RabEaGNZTmE&list=PLz-0dntIK0obZwzzWjkewT5youdeX65RQ) |
 | 9 | 9 | Also sprach Zarathustra, Op. 30, TrV 176: Prelude (Sonnenaufgang) | Karl Böhm | Opening of Space night. | |
 | 9 | 9 | Piano Concerto No. 21 in C Major, K. 467: Allegro maestoso | Royal Philharmonic Orchestra | Dandelion's recap segment. | |
 | 9 | 9 | Starlight | Muse | [Live Cover Performance] Dandelion performs. | |
@@ -334,6 +334,42 @@ weight: 5
 | 9 | 10 | Don't You (Forget About Me) | Simple Minds | [Live Cover Performance] Doll sings on '80s Night in Mantis' recap. | |
 | 9 | 10 | (I've Got A) Golden Ticket - From "Willy Wonka & The Chocolate Factory" Soundtrack | Jack Albertson | [Live Cover Performance] Dandelion vs Mantis Battle Royale footage during Mantis' recap. | |
 | 9 | 10 | Stargazing (feat. Justin Jesso) | Kygo | [Live Cover Performance] UFO sings an all-new song to close the show. | |
+| 9 | 11 | Mercy | Shawn Mendes | [Live Cover Performance] Medusa sings. | |
+| 9 | 11 | DJ Got Us Fallin' In Love (feat. Pitbull) | Usher | [Live Cover Performance] Gargoyle sings; (repeats) Unmasked at end of episode. | |
+| 9 | 11 | Old Time Rock & Roll | Bob Seger | [Live Cover Performance] Mantis sings in his Clues recap. | |
+| 9 | 11 | You Really Got Me | The Kinks | [Live Cover Performance] Mantis sings. | |
+| 9 | 11 | La Bamba - Single Version | Ritchie Valens | [Live Cover Performance] Lou Diamond Phillips sings this after being unmasked. | |
+| 9 | 11 | Handel: Music for the Royal Fireworks, HWV 351: I. Overture (Adagio) | George Frideric Handel | Lead-in to Jenny & Robin introducing the Battle Royale from the VIP section with Lou Diamond Phillips. | |
+| 9 | 11 | Heroic Fanfare | US Army Band and Chorus | Nick brings the contestants out on stage for the Battle Royale. | |
+| 9 | 11 | Centuries | Fall Out Boy | [Live Cover Performance] Gargoyle and Medusa sing in the Battle Royale. | |
+| 9 | 11 | Seconds Bite | Bleeding Fingers | Leading up to Nick's reveal of the winner of the Battle Royale. | |
+| 9 | 12 | Don't Stop Me Now | Queen | Opening sequence; Nick and the judges entrance for British Invasion Night. | |
+| 9 | 12 | Live Like You Were Dying | Tim McGraw | [Live Cover Performance] Macaw sings on Country Night in his intro recap. | |
+| 9 | 12 | Your Song - Remastered | Elton John | [Live Cover Performance] Macaw sings for British Invasion Night. | |
+| 9 | 12 | Paparazzi | Lady GaGa | [Live Cover Performance] California Roll sings on New York Night in their intro recap. | |
+| 9 | 12 | Creep | Radiohead | [Live Cover Performance] California Roll sings for British Invasion Night. | [link](https://www.youtube.com/watch?v=l8WJAV2SRFg&list=PLz-0dntIK0obZwzzWjkewT5youdeX65RQ) |
+| 9 | 12 | Yellow | Coldplay | [Live Cover Performance] UFO sings on Space Night in her intro recap. | |
+| 9 | 12 | Tears Dry On Their Own | Amy Winehouse | [Live Cover Performance] UFO sings for British Invasion Night; (repeats) End Credits. | |
+| 9 | 12 | Mercy | Shawn Mendes | [Live Cover Performance] Medusa sings from the Battle of the Saves in her intro recap. | |
+| 9 | 12 | Someone Like You | ADELE | [Live Cover Performance] Medusa sings for British Invasion Night. | |
+| 9 | 13 | Stupid Love | Lady GaGa | Opening sequence; Nick introduces the judges. | |
+| 9 | 13 | Breakaway | Kelly Clarkson | [Live Cover Performance] California Roll sings. | |
+| 9 | 13 | Take Me to Church | Hozier | [Live Cover Performance] Medusa sings. | |
+| 9 | 13 | What Makes You Beautiful | One Direction | [Live Cover Performance] Macaw sings. | [link](https://www.youtube.com/watch?v=ATWxNeETPBw&list=PLz-0dntIK0obZwzzWjkewT5youdeX65RQ) |
+| 9 | 13 | Handel: Music for the Royal Fireworks, HWV 351: I. Overture (Adagio) | George Frideric Handel | Lead-in to the judges introducing the Battle Royale. | |
+| 9 | 13 | Heroic Fanfare | US Army Band and Chorus | Nick introduces the contestants for the Battle Royale. | |
+| 9 | 13 | Runaway Baby | Bruno Mars | [Live Cover Performance] California Roll, Macaw and Medusa sing in the Battle Royale. | |
+| 9 | 13 | Seconds Bite | Bleeding Fingers | Lead-in to Nick's announcement of the 3rd place, eliminated contestant. | |
+| 9 | 13 | Creep | Radiohead | [Live Cover Performance] Eliminated contestant sings unmasked at the end of episode. | |
+| 9 | 14 | Hold Back The River | James Bay | [Live Cover Performance] Macaw sings for the 1st time tonight. | [link](https://www.youtube.com/watch?v=Okg-x1kX2l8&list=PLz-0dntIK0obZwzzWjkewT5youdeX65RQ) |
+| 9 | 14 | Elastic Heart | Sia | [Live Cover Performance] Medusa sings for the 1st time tonight. | |
+| 9 | 14 | Your Song | Elton John | [Live Cover Performance] Macaw sings this in a flashback during his season recap. | |
+| 9 | 14 | All By Myself | Eric Carmen | [Live Cover Performance] Macaw sings for his 2nd song of the finale. | |
+| 9 | 14 | Happier Than Ever | Billie Eilish | [Live Cover Performance] Medusa sings in a flashback of the season premiere during her season recap. | |
+| 9 | 14 | Welcome to the Black Parade | My Chemical Romance | [Live Cover Performance] Medusa sings her 2nd song of the finale. | [link](https://www.youtube.com/watch?v=nEDvGWwk2_g&list=PLz-0dntIK0obZwzzWjkewT5youdeX65RQ) |
+| 9 | 14 | The Winner Takes It All | ABBA | [Cover Performance] Plays after Nick announces the Season 9 winner. | |
+| 9 | 14 | What Makes You Beautiful | One Direction | [Live Cover Performance] Macaw sings unmasked. | |
+| 9 | 14 | River | Bishop Briggs | [Live Performance] Medusa sings unmasked. | |
 
 ## Sources
 
