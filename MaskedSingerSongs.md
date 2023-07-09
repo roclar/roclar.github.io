@@ -128,6 +128,13 @@ weight: 5
 | 2 | 3 | This Love | Maroon 5 | [Live cover version] Fox performs his 1st song. | [link](https://www.youtube.com/watch?v=fiY4bvU5wM0&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=22) |
 | 2 | 3 | These Boots Are Made for Walkin' | Nancy Sinatra |[Live cover version] Eagle performs his SmackDown performance. | [link](https://www.youtube.com/watch?v=arqFfUuMzqs&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=23) |
 | 2 | 3 | Worth It (feat. Kid Ink) [feat. Kid Ink] | Fifth Harmony | [Live cover version] Penguin performs her SmackDown performance. | [link](https://www.youtube.com/watch?v=PAJlUbRr7CQ&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=24) |
+| 2 | 4 | Footloose (From "Footloose" Soundtrack) | Kenny Loggins | Flamingo's 1st performance of the episode. | [link](https://www.youtube.com/watch?v=Q1Lr43KbPt4&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=25) |
+| 2 | 4 | Stitches | Shawn Mendes | Leopard's 1st performance of the episode. | [link](https://www.youtube.com/watch?v=YNARMpApK54&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=27) |
+| 2 | 4 | I Wanna Dance with Somebody (Who Loves Me) | Whitney Houston | The Black Widow reprises her earlier performance during her clue package. | |
+| 2 | 4 | Before He Cheats | Carrie Underwood | Black Widow's 1st performance of the episode. | [link](https://www.youtube.com/watch?v=rxgI4RJzCy8&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=26) |
+| 2 | 4 | Are You Gonna Be My Girl | Jet | Skeleton's 1st performance of the episode. | [link](https://www.youtube.com/watch?v=IpqYoU1S9TY&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=28) |
+| 2 | 4 | Rainbow | Kacey Musgraves | Thingamagig's 1st performance of the episode. | [link](https://www.youtube.com/watch?v=nWt2ucSOYFg&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=29) |
+| 2 | 4 | Livin' On A Prayer | Bon Jovi | Butterfly's 1st performance of the episode. | [link](https://www.youtube.com/watch?v=R6RZ_CU9a2o&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=30) |
 
 ## Sources
 
