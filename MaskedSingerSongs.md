@@ -99,6 +99,18 @@
 | 2 | 1 | Old Town Road | Lil Nas X | Ice Cream performs his 1st song. REPEATS when Tyler "Ninja" Blevins performs an encore after being unmasked. | [link](https://www.youtube.com/watch?v=JYLfd9Mxjtg&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=10) |
 | 2 | 1 | Whip It | Devo | Ice Cream performs his 2nd song in the 2nd SmackDown round. | [link](https://www.youtube.com/watch?v=zBlUjwm0s9E&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=11) |
 | 2 | 1 | Hit Me With Your Best Shot | Pat Benatar | Ladybug performs her 2nd song in the 2nd SmackDown round. | [link](https://www.youtube.com/watch?v=2tEnSdJe6xs&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=12) |
+| 2 | 2 | Sorry Not Sorry | Demi Lovato | Opening introduction after Nick Cannon says "Sensational Performances" in voiceover. | |
+| 2 | 2 | The Greatest Show | Hugh Jackman | In the introduction just after the judges are presented, Peacock's cover version plays. | |
+| 2 | 2 | Black Widow (feat. Rita Ora) | Iggy Azalea | Black Widow takes the stage for the first battle. | |
+| 2 | 2 | Free Your Mind | En Vogue | Leopard takes the stage for the first battle. | |
+| 2 | 2 | I Wanna Dance with Somebody (Single Version) | Whitney Houston | Black Widow performs a LIVE COVER VERSION of this for her 1st song. | [link](https://www.youtube.com/watch?v=CoUay9-_9dE&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=13) |
+| 2 | 2 | Somebody to Love | Queen | Leopard performs a LIVE COVER VERSION of this for his 1st song. | [link](https://www.youtube.com/watch?v=tqiEtxxvthA&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=14) |
+| 2 | 2 | That's Not My Name | The Ting Tings | Flamingo takes the stage for the 2nd battle. | |
+| 2 | 2 | Panda | Desiigner | Panda takes the stage for the 2nd battle. | |
+| 2 | 2 | Sucker | Jonas Brothers | Flamingo performs a LIVE COVER VERSION of this for her 1st song. | [link](https://www.youtube.com/watch?v=RcpURWo2Eio&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=15) |
+| 2 | 2 | Stronger (What Doesn't Kill You) | Kelly Clarkson | Panda performs a LIVE COVER VERSION of this for her 1st song. | [link](https://www.youtube.com/watch?v=HK_mA_pEjss&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=16) |
+| 2 | 2 | All I Do Is Win (feat. T-Pain, Ludacris, Snoop Dogg & Rick Ross) | DJ Khaled | Panda performs a LIVE COVER VERSION of this for her SmackDown performance. | [link](https://www.youtube.com/watch?v=ssVuD12-0nc&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=18) |
+| 2 | 2 | Respect | Aretha Franklin | Leopard performs a LIVE COVER VERSION of this for his SmackDown performance. | [link](https://www.youtube.com/watch?v=BaGokTOfMyo&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=17) |
 
 ## Sources
 
