@@ -304,6 +304,36 @@ weight: 5
 | 9 | 9 | Music For the Royal Fireworks - La Réjouissance | Ossi Bashiri | Lead up to Ken introducing the Battle Royale; (repeats) Scepter is presented to the winner of the Battle Royale. | |
 | 9 | 9 | Heroic Fanfare | US Army Band and Chorus | Nick Cannon introduces the Battle Royale competitors. | |
 | 9 | 9 | Rocket Man (I Think It's Going to Be a Long Long Time) | Elton John | [Live Cover Performance] Lamp and UFO perform in the Battle Royale. | |
+| 9 | 10 | Total Eclipse of the Heart | Bonnie Tyler | [Live Cover Performance] California Roll kicks off the show. | |
+| 9 | 10 | Paparazzi | Lady GaGa | [Live Cover Performance] Recap of California Roll's first appearance. | |
+| 9 | 10 | Superbad | Top Dogz | Rehearsal Footage of California Roll during their recap. | |
+| 9 | 10 | Good Times | Chic | New York Night footage featuring Grandmaster Flash during California Roll recap. | |
+| 9 | 10 | Theme from New York, New York | Frank Sinatra | [Live Cover Performance] Medusa sings in California Roll recap; (repeats) New York Night footage during Medusa's recap. | |
+| 9 | 10 | Uptown Girl | Billy Joel | [Live Cover Performance] Recap of Medusa vs California Roll in Battle Royale; (repeats) Third Battle Royale footage during Medusa's recap. | |
+| 9 | 10 | Star Spangled Banner | The Church Organ All Stars | Recap of Nicole pointing out baseball clues during the Who Is California Roll segment. | |
+| 9 | 10 | Tarantella Napoletana | Gente per tutti | Recap of pizza rat clues during the Who Is California Roll segment. | |
+| 9 | 10 | Happier Than Ever | Billie Eilish | [Live Cover Performance] Recap of Medusa singing on Premiere Night in her first appearance. | |
+| 9 | 10 | When You're Smiling (The Whole World Smiles With You) | Billie Holiday | [Live Cover Performance] Gnome sings on Premiere Night in Medusa's recap. | |
+| 9 | 10 | Diamonds | Rihanna | [Live Cover Performance] Recap of Mustang vs Medusa in the First Battle Royale. | |
+| 9 | 10 | Live Like You Were Dying | Tim McGraw | [Live Cover Performance] Macaw's First Performance on Country Night during his recap. | |
+| 9 | 10 | You're No Good | Linda Ronstadt | [Live Cover Performance] Fairy sings on Sesame Street Night during Macaw's recap. | |
+| 9 | 10 | That Don't Impress Me Much | Shania Twain | [Live Cover Performance] Fairy vs Macaw Battle Royale footage during Macaw's recap. | |
+| 9 | 10 | Photograph | Ed Sheeran | [Live Cover Performance] Macaw sings an all new song. | |
+| 9 | 10 | One Call Away | Charlie Puth | [Live Cover Performance] Gargoyle sings on DC Super Heroes Night during his recap. | |
+| 9 | 10 | How Am I Supposed to Live Without You | Michael Bolton | [Live Performance] Michael Bolton sings unmasked on DC Super Heroes Night during Gargoyle's recap. | |
+| 9 | 10 | Try | P!nk | [Live Cover Performance] Squirrel sings on DC Super Heroes Night during Gargoyle's recap. | |
+| 9 | 10 | Kryptonite | 3 Doors Down | [Live Cover Performance] Gargoyle vs Squirrel sing in Battle Royale during Gargoyle's recap. | |
+| 9 | 10 | You Lift Me Up | Guesthouse | Gargoyle expresses his thanks for his 2nd chance after Jenny rings the bell. | |
+| 9 | 10 | The Dark Horse Always Wins | Blues Saraceno | Gargoyle gives us some new clues. | |
+| 9 | 10 | Yellow | Coldplay | [Live Cover Performance] UFO sings on Space Night in her recap. | |
+| 9 | 10 | Girls Just Want to Have Fun | Cyndi Lauper | [Live Cover Performance] Scorpion sings on '80's Night during UFO's recap. | |
+| 9 | 10 | The Power of Love | Huey Lewis & The News | [Live Cover Performance] Moose sings on '80's Night during UFO's recap. | |
+| 9 | 10 | Starlight | Muse | [Live Cover Performance] Dandelion sings on Space Night during UFO's recap. | |
+| 9 | 10 | Venus | Bananarama | [Live Cover Performance] Lamp sings on Space Night during UFO's recap. | |
+| 9 | 10 | Over the Rainbow | Judy Garland | [Live Cover Performance] Dandelion sings on WB Movie Night during Mantis' recap. | |
+| 9 | 10 | Don't You (Forget About Me) | Simple Minds | [Live Cover Performance] Doll sings on '80s Night in Mantis' recap. | |
+| 9 | 10 | (I've Got A) Golden Ticket - From "Willy Wonka & The Chocolate Factory" Soundtrack | Jack Albertson | [Live Cover Performance] Dandelion vs Mantis Battle Royale footage during Mantis' recap. | |
+| 9 | 10 | Stargazing (feat. Justin Jesso) | Kygo | [Live Cover Performance] UFO sings an all-new song to close the show. | |
 
 ## Sources
 
