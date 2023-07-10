@@ -188,6 +188,20 @@ weight: 5
 | 2 | 13 | Proud Mary | Tina Turner | Flamingo's final performance | [link](https://www.youtube.com/watch?v=ZMn7bwC-U3I&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=71) |
 | 2 | 13 | Alive | Sia | Rottweiler's final performance | [link](https://www.youtube.com/watch?v=i7BYgWec1Sg&list=PLz9NWt_Q83CldZYtYZ-W0mt6QU7AMZkMt&index=70) |
 | 2 | 13 | Hey Look Ma, I Made It | Panic! At The Disco | Fox's version was played when the winner was announced | |
+| 3 | 1 | Who Are You | The Who | Theme song. | |
+| 3 | 1 | Eye of the Tiger | Survivor | White Tiger joins Nick onstage for clue package. | |
+| 3 | 1 | Ice Ice Baby | Vanilla Ice | White Tiger's first performance. | |
+| 3 | 1 | Rebel Yell | Billy Idol | Turtle joins Nick onstage for clue package. | |
+| 3 | 1 | Kiss from a Rose | Seal | Turtle's first performance. | |
+| 3 | 1 | Llama In My Living Room | AronChupa | Llama joins Nick onstage for his clue package. | |
+| 3 | 1 | She Bangs (English Version) | Ricky Martin | Llama's first performance. | |
+| 3 | 1 | When I Get You Alone | Robin Thicke | Nick challenges Jamie Foxx to name that tune and they play a portion of the original video by Robin Thicke. | |
+| 3 | 1 | Lip Gloss | Lil Mama | Miss Monster joins Nick onstage for her clue package. | |
+| 3 | 1 | Something to Talk About | Bonnie Raitt | Miss Monster's first performance. | |
+| 3 | 1 | Mr. Roboto | Styx | Robot joins Nick onstage for clue package. | |
+| 3 | 1 | Are You Gonna Go My Way | Lenny Kravitz | Robot's first performance. | |
+| 3 | 1 | Confident | Demi Lovato | Kangaroo joins Nick onstage for the clue package. | |
+| 3 | 1 | Dancing On My Own | Robyn | Kangaroo's first performance. | |
 | 9 | 1 | Who Are You | The Who | Theme song. | |
 | 9 | 1 | 2 Be Loved (Am I Ready) | Lizzo | Opening dance sequence; Introduction of the judges. | |
 | 9 | 1 | Mustang Sally | Wilson Pickett | Mustang's entrance. | |
