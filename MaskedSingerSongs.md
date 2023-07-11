@@ -254,6 +254,91 @@ weight: 5
 | 3 | 8 | Push It | Salt-N-Pepa | T. Rex performs. | |
 | 3 | 8 | I Hate Myself for Loving You | Joan Jett & The Blackhearts | Swan performs. | |
 | 3 | 8 | Nice to Meet Ya | Niall Horan | Rhino performs. | |
+| 3 | 9 | Heart of Courage (No Choir) | Two Steps From Hell | Opening scene/introduction with shots of numerous costumes and voice over from Will Arnett | |
+| 3 | 9 | Let's Get Loud | Jennifer Lopez | Night Angel, Rhino, Astronaut and T. Rex open the show with a group performance. | |
+| 3 | 9 | Shout | The Isley Brothers | Night Angel performs. | |
+| 3 | 9 | Shape of You | Ed Sheeran | Astronaut performs. | |
+| 3 | 9 | Jai Ho! (You Are My Destiny) | A.R. Rahman | T. Rex performs. | |
+| 3 | 9 | The Tracks of My Tears | Smokey Robinson & The Miracles | Rhino performs. | |
+| 3 | 10 | ABC | Jackson 5 | The remaining contestants open the show with a group performance. | |
+| 3 | 10 | Rock and Roll All Nite | Kiss | Three finalists from Group A are presented and take the stage. | |
+| 3 | 10 | Larger Than Life | Backstreet Boys | Three finalists from Group B are presented and take the stage. | |
+| 3 | 10 | Let's Get Loud | Jennifer Lopez | Three finalists from Group C are presented and take the stage. | |
+| 3 | 10 | Kiss from a Rose | Seal | Recap of Turtle's round 1 performance. | |
+| 3 | 10 | Higher Love | Steve Winwood | Turtle's performance. | |
+| 3 | 10 | Dancing On My Own | Robyn | Recap of Kangaroo's round 1 performance. | |
+| 3 | 10 | Not Ready to Make Nice | The Chicks | Kangaroo's performance. | |
+| 3 | 10 | I'm Too Sexy | Right Said Fred | White Tiger's performance. | |
+| 3 | 10 | Dangerous Woman | Ariana Grande | Recap of Kitty's round 1 performance. | |
+| 3 | 10 | Mama's Broken Heart | Miranda Lambert | Recap of Kitty's round 3 performance. | |
+| 3 | 10 | It's All Coming Back to Me Now | Celine Dion | Kitty's performance. | |
+| 3 | 10 | A Little Less Conversation | Elvis Presley | Recap of Banana's round 1 performance. | |
+| 3 | 10 | Lean on Me | Bill Withers | Recap of Banana's round 3 performance. | |
+| 3 | 10 | Sweet Home Alabama | Lynyrd Skynyrd | Banana's performance. | |
+| 3 | 10 | U Can't Touch This | MC Hammer | Recap of Frog's round 1 performance. | |
+| 3 | 10 | Jump | Kris Kross | Frog's performance. | |
+| 3 | 10 | I Want It That Way | Backstreet Boys | Nick and the judges sing-along. | |
+| 3 | 10 | Million Reasons | Lady GaGa | Recap of Night Angel's round 2 performance. | |
+| 3 | 10 | Rise Up | Andra Day | Night Angel's performance. | |
+| 3 | 10 | Nice to Meet Ya | Niall Horan | Recap of Rhino's round 2 performance. | |
+| 3 | 10 | What a Man Gotta Do | Jonas Brothers | Rhino's performance. | |
+| 3 | 10 | You Say | Lauren Daigle | Recap of Astronaut's round 1 performance. | |
+| 3 | 10 | Never Gonna Give You Up | Rick Astley | Astronaut's performance. | |
+| 3 | 11 | Soul Bossa Nova | Quincy Jones | Opening as judges go through security checkpoint. | |
+| 3 | 11 | You Give Love a Bad Name | Bon Jovi| Recap of Night Angel's round 1 performance. | |
+| 3 | 11 | Dancing On My Own | Robyn | Recap of Kangaroo's round 1 performance. | |
+| 3 | 11 | Man! I Feel Like a Woman! | Shania Twain | Night Angel performs for her Face-Off with Kangaroo. | |
+| 3 | 11 | No Air | Jordin Sparks | Kangaroo performs for her Face-Off with Night Angel. | |
+| 3 | 11 | If I Can't Have You | Shawn Mendes | Astronaut performs for his Face-Off with Turtle. | |
+| 3 | 11 | Let It Go | James Bay | Turtle performs for his Face-Off with Astronaut. | |
+| 3 | 11 | Hot Stuff | Donna Summer | Kangaroo performs for her SmackDown against Astronaut. | |
+| 3 | 11 | Bye Bye Bye | *NSYNC | Astronaut performs for his SmackDown against Kangaroo. | |
+| 3 | 12 | The Pink Panther | Royal Philharmonic Orchestra & Townend | Opening. | |
+| 3 | 12 | Temptation Sensation | Heinz Kiessling | Frog and Kitty introductions. | |
+| 3 | 12 | Fireball (feat. John Ryan) | Pitbull | Frog performs for his Face-Off with Kitty. | |
+| 3 | 12 | True Colors | Cyndi Lauper | Kitty performs for her Face-Off with Frog. | |
+| 3 | 12 | Knockin' On Heaven's Door | Bob Dylan | Banana performs for his Face-Off with Rhino. | |
+| 3 | 12 | 10,000 Hours (with Justin Bieber) | Dan + Shay | Rhino performs for his Face-Off with Banana. | |
+| 3 | 12 | Unstoppable | Sia | Kitty performs for her SmackDown against Banana. | |
+| 3 | 12 | Brick House | Commodores | Banana performs for her SmackDown against Kitty. | |
+| 3 | 12 | Achy Breaky Heart | Billy Ray Cyrus | (AFTER THE MASK Special) Recap of Banana's performance. | |
+| 3 | 12 | Lean on Me | Bill Withers | (AFTER THE MASK Special) Recap of Banana's performance. | |
+| 3 | 12 | Sweet Home Alabama | Lynyrd Skynyrd | (AFTER THE MASK Special) Recap of Banana's performance. | |
+| 3 | 12 | Stand By Me | Ben E. King | (AFTER THE MASK Special) Dr Elvis performs a tribute to the departing Banana. | |
+| 3 | 12 | Every Rose Has Its Thorn | Poison | (AFTER THE MASK Special) Brett Michaels performs. | |
+| 3 | 13 | Unstoppable | Sia | During her clue package there is a recap of Kitty's previous performance. | |
+| 3 | 13 | Diamonds Are a Girl's Best Friend (From "Gentlemen Prefer Blondes") | Marilyn Monroe | Kitty performs. | |
+| 3 | 13 | Die a Happy Man | Thomas Rhett | Rhino performs. | |
+| 3 | 13 | Whatever It Takes | Imagine Dragons | Frog performs. | |
+| 3 | 13 | Black Velvet | Alannah Myles | Night Angel performs. | |
+| 3 | 13 | Bye Bye Bye | *NSYNC | During his clue package there's a recap of Astronaut's previous performance. | |
+| 3 | 13 | Story of My Life | One Direction | Astronaut performs. | |
+| 3 | 13 | Stay | Zedd | Turtle performs. | |
+| 3 | 13 | Make You Feel My Love | ADELE | (AFTER THE MASK Special) Dr Elvis performs a tribute to the departing Astronaut. | |
+| 3 | 13 | The Tracks of My Tears | Smokey Robinson & The Miracles | (AFTER THE MASK Special) Recap of Rhino's performance. | |
+| 3 | 13 | There's Nothing Holdin' Me Back | Shawn Mendes | (AFTER THE MASK Special) Recap of Turtle's performance. | |
+| 3 | 13 | You Give Love a Bad Name | Bon Jovi | (AFTER THE MASK Special) Recap of Night Angel's performance. | |
+| 3 | 13 | Dangerous Woman | Ariana Grande | (AFTER THE MASK Special) Recap of Kitty's performance. | |
+| 3 | 13 | U Can't Touch This | MC Hammer | (AFTER THE MASK Special) Recap of Frog's performance. | |
+| 3 | 13 | Jump | Kris Kross | (AFTER THE MASK Special) Recap of Frog's performance. | |
+| 3 | 13 | One Good Reason | Hunter Hayes | (AFTER THE MASK Special) Hunter Hayes performs. | |
+| 3 | 14 | Bust a Move | Young MC | Frog performs; (repeats) Recap during After The Mask Special. | |
+| 3 | 14 | Back to Black | Amy Winehouse | Kitty performs. | |
+| 3 | 14 | Die a Happy Man | Thomas Rhett | Recap of Rhino's previous performance. | |
+| 3 | 14 | You've Lost That Lovin' Feelin' | The Righteous Brothers | Rhino performs; (repeats) Recap during After The Mask Special. | |
+| 3 | 14 | Black Velvet | Alannah Myles | Recap of Night Angel's previous performance. | |
+| 3 | 14 | Last Dance | Donna Summer | Night Angel performs. | |
+| 3 | 14 | Let It Go | James Bay | Recap of Turtle's previous performance. | |
+| 3 | 14 | Fix You | Coldplay | Turtle performs; (repeats) Recap during After The Mask Special. | |
+| 3 | 14 | Dangerous Woman | Ariana Grande | (AFTER THE MASK Special) Recap of Kitty's previous performance. | |
+| 3 | 14 | Mercy | Brett Young | (AFTER THE MASK Special) Recap of Kitty's previous performance. | |
+| 3 | 14 | Mama's Broken Heart | Miranda Lambert | (AFTER THE MASK Special) Recap of Kitty's previous performance. | |
+| 3 | 14 | It's All Coming Back to Me Now | Celine Dion | (AFTER THE MASK Special) Recap of Kitty's previous performance. | |
+| 3 | 14 | True Colors | Cyndi Lauper | (AFTER THE MASK Special) Jackie Evancho performs. | |
+| 3 | 14 | Don't Cha | The Pussycat Dolls | (AFTER THE MASK Special) Unseen footage. Nicole and Jamie Foxx sing together. | |
+| 3 | 14 | Baby Got Back | Sir Mix A Lot | (AFTER THE MASK Special) Recap of Bear's previous performance; (repeats) Nicole sings. | |
+| 3 | 14 | Buttons | The Pussycat Dolls | (AFTER THE MASK Special) Nicole and her boyfriend dance together. | |
+| 3 | 14 | Rise Up | Andra Day | (AFTER THE MASK Special) Dr Elvis & Nicole Scherzinger perform a tribute to First Responders. | |
 | 9 | 1 | Who Are You | The Who | Theme song. | |
 | 9 | 1 | 2 Be Loved (Am I Ready) | Lizzo | Opening dance sequence; Introduction of the judges. | |
 | 9 | 1 | Mustang Sally | Wilson Pickett | Mustang's entrance. | |
