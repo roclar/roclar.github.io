@@ -226,6 +226,34 @@ weight: 5
 | 3 | 4 | Party Rock Anthem | LMFAO | Banana's introduction. | |
 | 3 | 4 | Waltz on the Beautiful Blue Danube, Op. 314 | Peter Guth | Banana's clue package. | |
 | 3 | 4 | A Little Less Conversation | Elvis Presley | Banana performs. | |
+| 3 | 5 | Achy Breaky Heart | Billy Ray Cyrus | Banana performs. | |
+| 3 | 5 | This Will Be (An Everlasting Love) | Natalie Cole | Mouse performs. | |
+| 3 | 5 | In da Club | 50 Cent | Frog performs. | |
+| 3 | 5 | Bossa Nova Baby | Elvis Presley | Taco performs. | |
+| 3 | 5 | Mercy | Brett Young | Kitty performs. | |
+| 3 | 6 | Larger Than Life | Backstreet Boys | Taco, Kitty, Frog and Banana perform a group number. | |
+| 3 | 6 | Mama's Broken Heart | Miranda Lambert | Kitty performs. | |
+| 3 | 6 | I Can't Help Myself (Sugar Pie, Honey Bunch) | Four Tops | Taco performs. | |
+| 3 | 6 | Lean on Me | Bill Withers | Banana performs. | |
+| 3 | 6 | You Dropped a Bomb on Me | The Gap Band | Frog performs. | |
+| 3 | 7 | I'm Coming Out | Diana Ross | Night Angel joins Nick onstage for clue package. | |
+| 3 | 7 | You Give Love a Bad Name | Bon Jovi | Night Angel performs. | |
+| 3 | 7 | Barbie Girl | Aqua | Bear joins Nick onstage for clue package. | |
+| 3 | 7 | Baby Got Back | Sir Mix A Lot | Bear performs. | |
+| 3 | 7 | 2001: A Space Odyssey | Boston Pops Orchestra | Astronaut joins Nick onstage for clue package. | |
+| 3 | 7 | You Say | Lauren Daigle | Astronaut performs. | |
+| 3 | 7 | Dinosaur | Kesha |T. Rex joins Nick onstage for clue package. | |
+| 3 | 7 | So What | P!nk | T. Rex performs. | |
+| 3 | 7 | Jungle Boogie | Kool & The Gang | Rhino joins Nick onstage for clue package. | |
+| 3 | 7 | Have a Little Faith In Me | John Hiatt | Rhino performs. | |
+| 3 | 7 | Glamorous | Fergie Swan joins Nick onstage for the clue package. | |
+| 3 | 7 | Fuer Elise | Ludwig van Beethoven | Swan's clue package. | |
+| 3 | 7 | Fever | Peggy Lee | Swan performs. | |
+| 3 | 8 | Signed, Sealed, Delivered (I'm Yours) | Stevie Wonder | Astronaut performs. | |
+| 3 | 8 | Million Reasons | Lady GaGa | Night Angel performs. | |
+| 3 | 8 | Push It | Salt-N-Pepa | T. Rex performs. | |
+| 3 | 8 | I Hate Myself for Loving You | Joan Jett & The Blackhearts | Swan performs. | |
+| 3 | 8 | Nice to Meet Ya | Niall Horan | Rhino performs. | |
 | 9 | 1 | Who Are You | The Who | Theme song. | |
 | 9 | 1 | 2 Be Loved (Am I Ready) | Lizzo | Opening dance sequence; Introduction of the judges. | |
 | 9 | 1 | Mustang Sally | Wilson Pickett | Mustang's entrance. | |
