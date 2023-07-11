@@ -202,6 +202,30 @@ weight: 5
 | 3 | 1 | Are You Gonna Go My Way | Lenny Kravitz | Robot's first performance. | |
 | 3 | 1 | Confident | Demi Lovato | Kangaroo joins Nick onstage for the clue package. | |
 | 3 | 1 | Dancing On My Own | Robyn | Kangaroo's first performance. | |
+| 3 | 2 | It's Not Unusual | Tom Jones | [Live cover version] Llama performs. | |
+| 3 | 2 | Fancy | Bobbie Gentry | [Live cover version] Miss Monster performs. | |
+| 3 | 2 | Good Vibrations | Marky Mark and the Funky Bunch | [Live cover version] White Tiger performs. | |
+| 3 | 2 | You Know I'm No Good | Amy Winehouse | [Live cover version] Kangaroo performs, | |
+| 3 | 2 | Say You Won't Let Go | James Arthur | [Live cover version] Turtle performs. | |
+| 3 | 3 | Be My Baby | The Ronettes | Opening recap of last week. | |
+| 3 | 3 | Rock and Roll All Nite | Kiss | Kangaroo, Miss Monster, White Tiger, and Turtle open the show with a group performance. | |
+| 3 | 3 | There's Nothing Holdin' Me Back | Shawn Mendes | Turtle's performance. | |
+| 3 | 3 | You Don't Own Me | Lesley Gore | Miss Monster's performance. | |
+| 3 | 3 | Diamonds | Rihanna | Kangaroo's performance. | |
+| 3 | 3 | We Will Rock You (Remastered) | Queen | White Tiger's performance. | |
+| 3 | 4 | Whatta Man (feat. En Vogue) | Salt-N-Pepa | Frog's introduction. | |
+| 3 | 4 | U Can't Touch This | MC Hammer | Frog's performance. | |
+| 3 | 4 | Seven Nation Army | The White Stripes | Elephant's introduction. | |
+| 3 | 4 | Friday I'm In Love | The Cure | Elephant's performance. | |
+| 3 | 4 | Kitty Girl | RuPaul | Kitty's introduction. | |
+| 3 | 4 | Dangerous Woman | Ariana Grande | Kitty's performance. | |
+| 3 | 4 | Funky Town | Lipps, Inc.| Taco's introduction. | |
+| 3 | 4 | Fly Me to the Moon | Frank Sinatra | Taco's performance. | |
+| 3 | 4 | Lovefool | The Cardigans | Mouse's introduction. | |
+| 3 | 4 | Get Here | Oleta Adams | Mouse's performance. | |
+| 3 | 4 | Party Rock Anthem | LMFAO | Banana's introduction. | |
+| 3 | 4 | Waltz on the Beautiful Blue Danube, Op. 314 | Peter Guth | Banana's clue package. | |
+| 3 | 4 | A Little Less Conversation | Elvis Presley | Banana performs. | |
 | 9 | 1 | Who Are You | The Who | Theme song. | |
 | 9 | 1 | 2 Be Loved (Am I Ready) | Lizzo | Opening dance sequence; Introduction of the judges. | |
 | 9 | 1 | Mustang Sally | Wilson Pickett | Mustang's entrance. | |
