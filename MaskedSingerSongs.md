@@ -339,6 +339,48 @@ weight: 5
 | 3 | 14 | Baby Got Back | Sir Mix A Lot | (AFTER THE MASK Special) Recap of Bear's previous performance; (repeats) Nicole sings. | |
 | 3 | 14 | Buttons | The Pussycat Dolls | (AFTER THE MASK Special) Nicole and her boyfriend dance together. | |
 | 3 | 14 | Rise Up | Andra Day | (AFTER THE MASK Special) Dr Elvis & Nicole Scherzinger perform a tribute to First Responders. | |
+| 3 | 15 | The Best | Tina Turner | Night Angel, Rhino, Frog and Turtle perform as clues are revealed. | |
+| 3 | 15 | How to Love | Lil' Wayne | Night Angel performs a tribute to Robot. | |
+| 3 | 15 | Jealous | Nick Jonas | Turtle performs; (repeats) Recap during After The Mask Special. | |
+| 3 | 15 | Humble and Kind | Tim McGraw | Rhino performs. | |
+| 3 | 15 | Hip Hop Hooray | Naughty By Nature | Frog performs; (repeats) Recap during After The Mask Special. | |
+| 3 | 15 | Let Me Hold You (Featuring Omarion) | Bow Wow | Guest panelist Jay Pharoah sings to contestant Frog as he makes his guess. | |
+| 3 | 15 | Every Little Step | Bobby Brown | (AFTER THE MASK Special) Fox performance from season 2. | |
+| 3 | 15 | Try a Little Tenderness | Otis Redding | (AFTER THE MASK Special) Fox performance from season 2. | |
+| 3 | 15 | Sucker | Jonas Brothers | (AFTER THE MASK Special) Flamingo performance from season 2. | |
+| 3 | 15 | Ride of the Valkyries | Richard Wagner | (AFTER THE MASK Special) Nick explains to Wayne Brady that his trophy from Season 2 is being delivered by drone. | |
+| 3 | 15 | You'll Be In My Heart | Phil Collins | (AFTER THE MASK Special) Dr Elvis performs a tribute to the departing Rhino. | |
+| 3 | 15 | The Greatest | Kenny Rogers | (AFTER THE MASK Special) Rhino performs. | |
+| 3 | 15 | You Give Love a Bad Name | Bon Jovi | (AFTER THE MASK Special) Recap of Night Angel's previous performance. | |
+| 3 | 15 | Black Velvet | Alannah Myles | (AFTER THE MASK Special) Recap of Night Angel's previous performance. | |
+| 3 | 15 | Higher Love | Steve Winwood | (AFTER THE MASK Special) Recap of Turtle performing. | |
+| 3 | 15 | Stay | Zedd | (AFTER THE MASK Special) Recap of Turtle performing. | |
+| 3 | 15 | When I Get You Alone | Robin Thicke | (AFTER THE MASK Special) Robin’s 2002 music video plays. | |
+| 3 | 15 | In da Club | 50 Cent | (AFTER THE MASK Special) Recap of Frog's previous performance. | |
+| 3 | 15 | U Can't Touch This | MC Hammer | (AFTER THE MASK Special) Recap of Frog's previous performance. | |
+| 3 | 15 | Jump | Kris Kross | (AFTER THE MASK Special) Recap of Frog's previous performance. | |
+| 3 | 15 | Tracks of My Tears | Smokey Robinson | (AFTER THE MASK Special) Gavin Degraw and Barry Zito perform. | |
+| 3 | 16 | Rebel Yell | Billy Idol | Opening of Turtle's recap; (repeats) At the end of Turtle's recap, before The Clues recap. | |
+| 3 | 16 | Kiss from a Rose | Seal | [Live Cover Version] In the recap, Turtle's first performance. | |
+| 3 | 16 | There's Nothing Holdin' Me Back | Shawn Mendes | [Live Cover Version] In the recap, Turtle performs his third-round performance. | |
+| 3 | 16 | Fix You | Coldplay | [Live cover version] In his recap, Turtle performs for the quarter-finals. | |
+| 3 | 16 | I'm Coming Out | Diana Ross | Beginning of Night Angel’s recap, as she comes onstage. | |
+| 3 | 16 | You Give Love a Bad Name | Bon Jovi | [Live cover version] In her recap, Night Angel performs. | |
+| 3 | 16 | Rise Up | Andra Day | [Live cover version] In her recap, Night Angel performs for the Super 9. | |
+| 3 | 16 | Last Dance | Donna Summer | [Live cover version] In her recap, Night Angel performs for the Quarter-Finals. | |
+| 3 | 16 | Dancing On My Own | Robyn | [Live cover version] Kangaroo performs. | |
+| 3 | 16 | Whatta Man | En Vogue | Beginning of Frog's Road To The Finals recap; (repeats) Before his clues are recapped. | |
+| 3 | 16 | U Can't Touch This | MC Hammer | [Live cover version] Frog performs in his recap. | |
+| 3 | 16 | Whatever It Takes | Imagine Dragons | [Live cover version] In his recap, Frog performs for his Battle of the Sixes. | |
+| 3 | 16 | Bust a Move | Young MC | [Live cover version] In his recap, Frog performs in the quarter-finals. | |
+| 3 | 16 | What the World Needs Now Is Love | Jackie DeShannon | [Live cover version] At the end, Dionne Warwick performs with the finalists. | |
+| 3 | 17 | Whatever It Takes | Imagine Dragons | Frog performs. | |
+| 3 | 17 | Bad Boy For Life | Black Rob | Frog performs; (repeats) After being unmasked. | |
+| 3 | 17 | Fix You | Coldplay | Turtle performs. | |
+| 3 | 17 | Before You Go | Lewis Capaldi | Turtle performs; (repeats) After being unmasked. | |
+| 3 | 17 | Rise Up | Andra Day | Night Angel performs. | |
+| 3 | 17 | River Deep Mountain High | Ike & Tina Turner | Night Angel performs; (repeats) At the end. | |
+| 3 | 17 | Shout | The Isley Brothers | The winner is announced. | |
 | 9 | 1 | Who Are You | The Who | Theme song. | |
 | 9 | 1 | 2 Be Loved (Am I Ready) | Lizzo | Opening dance sequence; Introduction of the judges. | |
 | 9 | 1 | Mustang Sally | Wilson Pickett | Mustang's entrance. | |
