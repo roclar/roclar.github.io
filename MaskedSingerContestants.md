@@ -64,6 +64,22 @@ weight: 5
 | 3 | Miss Monster | Chaka Khan | Singer | OUT EP 3 |
 | 3 | Llama | Drew Carey | Comedian/TV host | OUT EP 2 |
 | 3 | Robot | Lil Wayne | Rapper | OUT EP 1 |
+| 4 | Sun | LeAnn Rimes | Singer | WINNER |
+| 4 | Mushroom | Aloe Blacc | Singer | RUNNER-UP |
+| 4 | Crocodile | Nick Carter | Singer | THIRD |
+| 4 | Seahorse | Tori Kelly | Singer | OUT EP 10 |
+| 4 | Jellyfish | Chloe Kim | Olympic gold medalist | OUT EP 10 |
+| 4 | Popcorn | Taylor Dayne | Singer | OUT EP 10 |
+| 4 | Broccoli | Paul Anka | Singer | OUT EP 9 |
+| 4 | Serpent | Dr. Elvis Francois | Surgeon/viral video star | OUT EP 8 |
+| 4 | Whatchamacallit | Lonzo Ball | NBA player | OUT EP 8 |
+| 4 | Snow Owls | Clint Black, Singer & Lisa Hartman Black, Actor/singer | OUT EP 7 |
+| 4 | Squiggly Monster | Bob Saget | Comedian/TV host | OUT EP 6 |
+| 4 | Lips | Wendy Williams | Talk show host | OUT EP 5 |
+| 4 | Baby Alien | Mark Sanchez | Retired NFL player | OUT EP 4 |
+| 4 | Giraffe | Brian Austin Green | Actor | OUT EP 3 |
+| 4 | Gremlin | Mickey Rourke | Actor/boxer | WITHDREW EP 2 |
+| 4 | Dragon | Busta Rhymes | Rapper | OUT EP 1 |
 | 9 | Medusa | Bishop Briggs | Singer | WINNER |
 | 9 | Macaw | David Archuleta | Singer | RUNNER-UP |
 | 9 | California Roll | Pentatonix | Musical group | OUT EP 13 |
@@ -91,4 +107,5 @@ weight: 5
 * [The Masked Singer (American season 1)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_1))
 * [The Masked Singer (American season 2)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_2))
 * [The Masked Singer (American season 3)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_3))
+* [The Masked Singer (American season 4)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_4))
 * [The Masked Singer (American season 9)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_9))
