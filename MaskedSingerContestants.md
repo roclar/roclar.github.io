@@ -73,13 +73,80 @@ weight: 5
 | 4 | Broccoli | Paul Anka | Singer | OUT EP 9 |
 | 4 | Serpent | Dr. Elvis Francois | Surgeon/viral video star | OUT EP 8 |
 | 4 | Whatchamacallit | Lonzo Ball | NBA player | OUT EP 8 |
-| 4 | Snow Owls | Clint Black, Singer & Lisa Hartman Black, Actor/singer | OUT EP 7 |
+| 4 | Snow Owls | Clint Black, Lisa Hartman Black | Singer, Actor/singer | OUT EP 7 |
 | 4 | Squiggly Monster | Bob Saget | Comedian/TV host | OUT EP 6 |
 | 4 | Lips | Wendy Williams | Talk show host | OUT EP 5 |
 | 4 | Baby Alien | Mark Sanchez | Retired NFL player | OUT EP 4 |
 | 4 | Giraffe | Brian Austin Green | Actor | OUT EP 3 |
 | 4 | Gremlin | Mickey Rourke | Actor/boxer | WITHDREW EP 2 |
 | 4 | Dragon | Busta Rhymes | Rapper | OUT EP 1 |
+| 5 | Piglet | Nick Lachey | Singer | WINNER |
+| 5 | Black Swan | JoJo | Singer| 5 | RUNNER-UP |
+| 5 | Chameleon | Wiz Khalifa | Rapper | THIRD |
+| 5 | Yeti (WC) | Omarion | Singer | OUT EP 11 |
+| 5 | Russian Dolls | Hanson | Band | OUT EP 10 |
+| 5 | Robopine | Tyrese Gibson | Actor/singer | OUT EP 9 |
+| 5 | Seashell | Tamera Mowry-Housley | Actor/TV host | OUT EP 7 |
+| 5 | Crab (WC) | Bobby Brown | Singer | OUT EP 7 |
+| 5 | Orca (WC) | Mark McGrath | Singer | OUT EP 6 |
+| 5 | Bulldog (WC) | Nick Cannon | Comedian/TV presenter | OUT EP 5 |
+| 5 | Grandpa Monster | Logan Paul | Internet personality | OUT EP 4|
+| 5 | Raccoon | Danny Trejo | Actor | OUT EP 3 |
+| 5 | Phoenix | Caitlyn Jenner | Olympic gold medalist | OUT EP 2|
+| 5 | Snail | Kermit the Frog | Muppet | OUT EP 1|
+| 6 | Queen of Hearts | Jewel | Singer | WINNER |
+| 6 | Bull | Todrick Hall | Singer | RUNNER-UP |
+| 6 | Banana Split | David Foster, Katharine McPhee | Musician/composer, Singer/actor | OUT EP 11 |
+| 6 | Skunk | Faith Evans | Singer | OUT EP 10 |
+| 6 | Caterpillar (WC) | Bobby Berk | TV host | OUT EP 9 |
+| 6 | Mallard | Willie Robertson | TV personality | OUT EP 9 |
+| 6 | Pepper (WC) | Natasha Bedingfield | Singer | OUT EP 8 |
+| 6 | Jester (WC) | Johnny Rotten | Singer | OUT EP 8 |
+| 6 | Beach Ball (WC) | Honey Boo Boo, Mama June | TV personalities | OUT EP 7 |
+| 6 | Hamster (WC) | Rob Schneider | Actor/comedian | OUT EP 6 |
+| 6 | Cupcake | Ruth Pointer | Singer | OUT EP 5 |
+| 6 | Baby (WC) | Larry the Cable Guy | Comedian/actor | OUT EP 4 |
+| 6 | Dalmatian | Tyga | Rapper | OUT EP 3 |
+| 6 | Pufferfish | Toni Braxton | Singer | OUT EP 2 |
+| 6 | Mother Nature | Vivica A. Fox | Actor | OUT EP 1 |
+| 6 | Octopus | Dwight Howard | NBA player | OUT EP 1 |
+| 7 | Firefly (G) | Teyana Taylor | Singer/songwriter | WINNER |
+| 7 | Ringmaster (G) | Hayley Orrantia | Actor/singer | RUNNER-UP |
+| 7 | Prince (G) | Cheyenne Jackson | Actor/singer | THIRD |
+| 7 | Queen Cobras (B) | En Vogue | R&B group | OUT EP 9 |
+| 7 | Space Bunny (C) | Shaggy | Singer | OUT EP 9 |
+| 7 | Baby Mammoth (C) | Kirstie Alley | Actor | OUT EP 8 |
+| 7 | Jack in the Box (B) Rudy Giuliani | Politician | OUT EP 7 |
+| 7 | Miss Teddy | Jennifer Holliday | Singer/actor | OUT EP 6 |
+| 7 | Armadillo (G) | Duane Chapman | TV personality | OUT EP 6 |
+| 7 | Hydra (B) | Penn & Teller | Magicians/comedians | OUT EP 5 |
+| 7 | Lemur (C) | Christie Brinkley | Model/actor | OUT EP 4 |
+| 7 | Thingamabob (C) | Jordan Mailata | NFL player | OUT EP 3 |
+| 7 | Cyclops (B) | Jorge Garcia | Actor | OUT EP 3 |
+| 7 | Ram (B) | Joe Buck | Sportscaster | OUT EP 2 |
+| 7 | McTerrier (G) | Duff Goldman | Pastry chef | OUT EP 1 |
+| 8 | Harp | Amber Riley | Actor/singer | WINNER |
+| 8 | Lambs | Wilson Phillips | Vocal group | RUNNERS-UP |
+| 8 | Snowstorm | Nikki Glaser | Comedian/TV host | OUT EP 10 |
+| 8 | Sir Bug a Boo | Ray Parker Jr. | Singer | OUT EP 9 |
+| 8 | Scarecrow | Linda Blair | Actor/activist | WITHDREW EP 9 |
+| 8 | Avocado | Adam Carolla | Actor/comedian | OUT EP 8 |
+| 8 | Bride | Chris Jericho | Professional wrestler | OUT EP 8 |
+| 8 | Gopher | George Clinton | Singer/bandleader | OUT EP 7 |
+| 8 | Venus Fly Trap | George Foreman | Retired boxer | OUT EP 7 |
+| 8 | Milkshake | Le'Veon Bell | NFL player | OUT EP 6 |
+| 8 | Walrus | Joey Lawrence | Actor/singer | OUT EP 6 |
+| 8 | Robo Girl | Kat Graham | Actor/singer | OUT EP 5 |
+| 8 | Beetle | Jerry Springer | TV host | OUT EP 5 |
+| 8 | Mermaid | Gloria Gaynor | Singer | OUT EP 4 |
+| 8 | Maize | Mario Cantone | Actor/comedian | OUT EP 4 |
+| 8 | Fortune Teller | Daymond John | Businessman | OUT EP 3 |
+| 8 | Mummies | Mike Lookinlan, Barry Williams, Christopher Knight | Actors | OUT EP 3 |
+| 8 | Panther | Montell Jordan | Singer | OUT EP 2 |
+| 8 | Pi-Rat | Jeff Dunham | Ventriloquist/comedian | OUT EP 2 |
+| 8 | Hummingbird | Chris Kirkpatrick | Singer | OUT EP 1 |
+| 8 | Hedgehog | Eric Idle | Actor/comedian | OUT EP 1 |
+| 8 | Knight | William Shatner | Actor | OUT EP 1 |
 | 9 | Medusa | Bishop Briggs | Singer | WINNER |
 | 9 | Macaw | David Archuleta | Singer | RUNNER-UP |
 | 9 | California Roll | Pentatonix | Musical group | OUT EP 13 |
@@ -108,4 +175,8 @@ weight: 5
 * [The Masked Singer (American season 2)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_2))
 * [The Masked Singer (American season 3)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_3))
 * [The Masked Singer (American season 4)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_4))
+* [The Masked Singer (American season 5)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_5))
+* [The Masked Singer (American season 6)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_6))
+* [The Masked Singer (American season 7)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_7))
+* [The Masked Singer (American season 8)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_8))
 * [The Masked Singer (American season 9)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_9))
