@@ -38,29 +38,35 @@ In total, there are 13 story chapters in MH Now with various quests and objectiv
 
 #### Prologue 4: Reviewing the Basics
 
-Slay large monster (1)	50 HRP
-Slay monster with specified weapon type (Jagras set, Sword & Shield)	50 HRP
-Slay large monster (1)	50 HRP
-Gather items at gathering point (3)	50 HRP
-Slay monster with specified armor equipped (Kulu Set, Head)	50 HRP
-Slay monster (3)	50 HRP
-Gather items at gathering point (3)	50 HRP
-Urgent Quest: Barroth	100 HRP
+| Objectives | Rewards |
+| ---------- | ------- |
+| Slay large monster (1) | 50 HRP |
+| Slay monster with specified weapon type (Jagras set, Sword & Shield) | 50 HRP |
+| Slay large monster (1) | 50 HRP |
+| Gather items at gathering point (3) | 50 HRP |
+| Slay monster with specified armor equipped (Kulu Set, Head) | 50 HRP |
+| Slay monster (3) | 50 HRP |
+| Gather items at gathering point (3) | 50 HRP |
+| Urgent Quest: Barroth | 100 HRP |
 
 #### Prologue 5: Apprenticeship Training
 
-Slay large monster (1).	50 HRP
-Slay monster (3)	50 HRP
-Gather items at gathering point (3)	50 HRP
-Slay large monster (1)	50 HRP
-Gather items at gathering point (3)	50 HRP
-Slay large monster (3)	50 HRP
-Slay monster (5)	50 HRP
-Gather items at gathering point (5)	50 HRP
+| Objectives | Rewards |
+| ---------- | ------- |
+| Slay large monster (1) | 50 HRP |
+| Slay monster (3) | 50 HRP |
+| Gather items at gathering point (3) | 50 HRP |
+| Slay large monster (1) | 50 HRP |
+| Gather items at gathering point (3) | 50 HRP |
+| Slay large monster (3) | 50 HRP |
+| Slay monster (5) | 50 HRP |
+| Gather items at gathering point (5) | 50 HRP |
 
-Prologue 6
+#### Prologue 6
 
-Great Jagras (2) Quest	100 HRP
+| Objectives | Rewards |
+| ---------- | ------- |
+|Great Jagras (2) | 100 HRP |
 
 #### Chapter 1: Beyond the Dust Clouds
 
