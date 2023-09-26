@@ -12,14 +12,14 @@ In total, there are 13 story chapters in MH Now with various quests and objectiv
 
 ### Prologue (Tutorial)
 
-#### Prologue 1
+#### Prologue 1: The First Hunt
 
 | Objectives | Rewards |
 | ---------- | ------- |
 | Slay Monster (3) | 50 HRP |
 | Slay monster (Great Jagras) | 50 HRP |
 
-#### Prologue 2
+#### Prologue 2: Aiming for Pro
 
 | Objectives | Rewards |
 | ---------- | ------- |
@@ -28,12 +28,17 @@ In total, there are 13 story chapters in MH Now with various quests and objectiv
 | Upgrade equipment (Weapon) | 50 HRP |
 | Gather items at the gathering point | 50 HRP |
 
-#### Prologue 3
+#### Prologue 3: The Secret to Strength
 
-Gather items at gathering point (3)	50 HRP
-Slay monster (3)	50 HRP
-Urgent Quest: Pukei-Pukei	50 HRP
-Prologue 4	Slay large monster (1)	50 HRP
+| Objectives | Rewards |
+| ---------- | ------- |
+| Gather items at gathering point (3) | 50 HRP |
+| Slay monster (3) | 50 HRP |
+| Urgent Quest: Pukei-Pukei | 50 HRP |
+
+#### Prologue 4: Reviewing the Basics
+
+Slay large monster (1)	50 HRP
 Slay monster with specified weapon type (Jagras set, Sword & Shield)	50 HRP
 Slay large monster (1)	50 HRP
 Gather items at gathering point (3)	50 HRP
@@ -41,7 +46,10 @@ Slay monster with specified armor equipped (Kulu Set, Head)	50 HRP
 Slay monster (3)	50 HRP
 Gather items at gathering point (3)	50 HRP
 Urgent Quest: Barroth	100 HRP
-Prologue 5	Slay large monster (1).	50 HRP
+
+#### Prologue 5: Apprenticeship Training
+
+Slay large monster (1).	50 HRP
 Slay monster (3)	50 HRP
 Gather items at gathering point (3)	50 HRP
 Slay large monster (1)	50 HRP
@@ -49,8 +57,13 @@ Gather items at gathering point (3)	50 HRP
 Slay large monster (3)	50 HRP
 Slay monster (5)	50 HRP
 Gather items at gathering point (5)	50 HRP
-Prologue 6	 Great Jagras (2) Quest	100 HRP
-Chapter 1: Beyond the Dust Clouds
+
+Prologue 6
+
+Great Jagras (2) Quest	100 HRP
+
+#### Chapter 1: Beyond the Dust Clouds
+
 Similarly, the chapter 1 quest in Monster Hunter Now is divided into three parts with different objectives. Here are all the objectives and rewards for every part:
 
 
