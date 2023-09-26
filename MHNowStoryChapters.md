@@ -1,0 +1,188 @@
+---
+layout: page
+title: Monster Hunter Now Story
+weight: 5
+---
+
+## Monster Hunter Now Quests List
+
+Source - [Gamer Twerk - All Monster Hunter Now Quests List](https://gamertweak.com/monster-hunter-now-quests-list/)
+
+In total, there are 13 story chapters in MH Now with various quests and objectives to complete as of now. You are rewarded with HRP and various special items as you complete these quest objectives. So, here’s the list of all the quests in Monster Hunter Now:
+
+### Prologue (Tutorial)
+
+#### Prologue 1
+| Objectives | Rewards |
+|*----------*|*-------*|
+| Slay Monster (3) | 50 HRP |
+| Slay monster (Great Jagras) | 50 HRP |
+
+#### Prologue 2
+| Objectives | Rewards |
+|*----------*|*-------*|
+| Slay Monster (3) | 100 HRP |
+| Urgent Quest: Kulu-Ya-Ku | 50 HRP |
+| Upgrade equipment (Weapon) | 50 HRP |
+| Gather items at the gathering point | 50 HRP |
+
+#### Prologue 3
+
+Gather items at gathering point (3)	50 HRP
+Slay monster (3)	50 HRP
+Urgent Quest: Pukei-Pukei	50 HRP
+Prologue 4	Slay large monster (1)	50 HRP
+Slay monster with specified weapon type (Jagras set, Sword & Shield)	50 HRP
+Slay large monster (1)	50 HRP
+Gather items at gathering point (3)	50 HRP
+Slay monster with specified armor equipped (Kulu Set, Head)	50 HRP
+Slay monster (3)	50 HRP
+Gather items at gathering point (3)	50 HRP
+Urgent Quest: Barroth	100 HRP
+Prologue 5	Slay large monster (1).	50 HRP
+Slay monster (3)	50 HRP
+Gather items at gathering point (3)	50 HRP
+Slay large monster (1)	50 HRP
+Gather items at gathering point (3)	50 HRP
+Slay large monster (3)	50 HRP
+Slay monster (5)	50 HRP
+Gather items at gathering point (5)	50 HRP
+Prologue 6	 Great Jagras (2) Quest	100 HRP
+Chapter 1: Beyond the Dust Clouds
+Similarly, the chapter 1 quest in Monster Hunter Now is divided into three parts with different objectives. Here are all the objectives and rewards for every part:
+
+
+Parts	Objectives	Rewards
+Part 1	Use Special Skill (1)	100 HRP
+Gather items at gathering point (5)	100 HRP
+Part 2	Slay large monster (5)	100 HRP
+Gather items at gathering point (10)	100 HRP
+Part 3	Urgent Quest: Kulu-Ya-Ku (2)	150 HRP, Kulu-Ya-Ku Plume
+Chapter 2: Shimmering Swamp
+Here are all the Monster Hunter Now quests and rewards to complete for chapter 2:
+
+Parts	Objectives	Rewards
+Part 1	Equip the Kulu Headpiece and use Lock On	100 HRP
+Slay large Monsters	100 HRP
+Slay a monster with a Great Sword	100 HRP
+Part 2	Slay normal monsters	100 HRP
+Gather items at a Gathering Point	100 HRP
+Part 3	Great Girros (2) Quest	150 HRP, 1 Great Girros Hood
+Chapter 3: Lurker of the Forest
+Parts	Objectives	Rewards
+Part 1	Slay large Monsters	100 HRP
+Slay normal monsters	100 HRP
+Part 2	Kulu-Ya-Ku (2) Quest	150 HRP, Kulu-Ya-Ku Plume
+Part 3	Slay Great Jagras	100 HRP
+Gather items at Gathering Point	100 HRP
+Part 4	Pukei-Pukei (2) Quest	150 HRP, Pukei-Pukei Sac
+monster hunter now quest list
+Chapter 4: To Catch a Thief
+Parts	Objectives	Rewards
+Part 1	Obtain a Unique Mushroom from a Vegetation Gathering Point	100 HRP
+Slay Large Monsters	100 HRP
+Slay normal monsters	100 HRP
+Part 2	Slay Large Monsters	100 HRP
+Slay normal monsters	100 HRP
+Gather items at Gathering Points	100 HRP
+Part 3	Slay Pukei-Pukei	100 HRP
+Slay normal monsters	100 HRP
+Gather items at Gathering Points	100 HRP
+Part 4	Tobi-Kadachi (2) Quest	150 HRP, Tobi-Kadachi Membrane
+Chapter 5: A Fluffy Suspect
+Parts	Objectives	Rewards
+Part 1	Slay Large Monsters	100 HRP
+Slay normal monsters	100 HRP
+Gather items at Gathering Points	100 HRP
+Part 2	Kulu-Ya-Ku (2) Quest	150 HRP, Kulu-Ya-Ku Plume
+Part 3	Slay a monster in the Desert habitat	100 HRP
+Slay Large Monster	100 HRP
+Part 4	Gather the Felyne Food from Gathering Points	100 HRP
+Slay a Large Monster	100 HRP
+Slay normal monsters	100 HRP
+Part 5	Paolumu (3) Quest	180 HRP, 1 Paolumu Shell
+Chapter 6: The Gluttonous Mastermind
+Parts	Objectives	Rewards
+Part 1	Slay Large Monster	100 HRP
+Slay normal monster	100 HRP
+Gather items at Gathering Points	100 HRP
+Part 2	Slay a monster in the Swamp habitat	100 HRP
+Gather items at Gathering Points	100 HRP
+Part 3	Barroth (3) Quest	150 HRP, 1 Barroth Scalp
+Part 4	Slay Large Monsters	100 HRP
+Slay normal monster	100 HRP
+Gather items at Gathering Points	100 HRP
+Part 5	Jyuratodus (3) Quest	180 HRP, 1 Jyuratodus Fin
+Chapter 7: Owner of the Footprints
+Parts	Objectives	Rewards
+Part 1	Slay Large Monster	100 HRP
+Slay normal monster	100 HRP
+Gather items at Gathering Points	100 HRP
+Part 2	Slay Great Girros	100 HRP
+Slay Large Monster	100 HRP
+Gather items at Gathering Points	100 HRP
+Part 3	Pukei-Pukei (4) Quest	180 HRP, 1 Pukei-Pukei Quill
+Part 4	Gather Odd Monster Tracks from a Mining Outcrop gathering point	100 HRP
+Slay Large Monster	100 HRP
+Slay normal monster	100 HRP
+Part 5	Barroth (4) Quest	180 HRP, 1 Barroth Ridge
+Chapter 8: Raging Flames
+Parts	Objectives	Rewards
+Part 1	Slay a monster in the Forest habitat	100 HRP
+Slay Large Monster	100 HRP
+Gather items at Gathering Point	100 HRP
+Part 2	Slay a Tobi-Kadachi	100 HRP
+Slay normal monster	100 HRP
+Gather items at Gathering Points	100 HRP
+Part 3	Slay Large Monster	100 HRP
+Slay normal monster	100 HRP
+Part 4	Anjanath (4) Quest	150 HRP, 1 Anjanath Prime scale
+Chapter 9: Bright Lights and Beasts
+Parts	Objectives	Rewards
+Part 1	Slay Monsters in the designated habitat (Desert)	100 HRP
+Slay Large Monsters (5)	100 HRP
+Gather items at a Gathering Point	100 HRP
+Part 2	Anjanath Urgent Quest	100 HRP
+Part 3	Slay Large Monsters (5)	100 HRP
+Slay Monsters (10)	100 HRP
+Rathian Quest (1)	180 HRP
+Chapter 10: Glacial Gales
+Parts	Objectives	Rewards
+Part 1	Slay Large Monsters (5)	100 HRP
+Slay Monsters (10)	100 HRP
+Gather items at a gathering point (10)	100 HRP
+Paolumu Quest	180 HRP
+Part 2	Slay Anjanath (2)	100 HRP
+Slay Monsters (10)	100 HRP
+Gather items at a Gathering Point (10)	100 HRP
+Part 3	Obtain a specified item from a gathering point – Scale-like-object	100 HRP
+Slay Large Monsters (10)	100 HRP
+Legiana Quest	180 HRP
+Chapter 11: The Looming Threat
+Parts	Objectives	Rewards
+Part 1	Slay Large Monsters	100 HRP
+Slay Monsters	100 HRP
+Gather items at a gathering point	100 HRP
+Part 2	Slay Monsters in the designated habitat (Desert)	100 HRP
+Slay Monsters	100 HRP
+Part 3	Slay Large Monsters	100 HRP
+Slay Monsters	100 HRP
+Gather items at a Gathering Point	100 HRP
+Part 4	Slay Rathian (2)	100 HRP
+Slay Monsters (10)	100 HRP
+Horns of the Tyrant quest	100 HRP
+Chapter 12: The Rumbling Heavens
+Parts	Objectives	Rewards
+Part 1	Slay Large Monsters	100 HRP
+Slay Monsters	100 HRP
+Gather items at a gathering point	100 HRP
+Part 2	Slay Legiana	150 HRP
+Slay Large Monsters	100 HRP
+Gather items at a gathering point	100 HRP
+Part 3	Slay Monster in a designated habitat (Forest)	100 HRP
+Slay Large Monsters	100 HRP
+Slay Monsters	100 HRP
+Chapter 13: Sunderer of the Skies
+Parts	Objectives	Rewards
+Part 1	Rathalos, the King of Skies Quest	200 HRP
+Once you have completed all the quests in Monster Hunter Now, the story will reset to Chapter 1 giving you a New Game+ (NG+). Unlike the above objectives, you will face different quest requirements. In addition, you will also face more challenging bosses with a level cap of 10 stars.
