@@ -13,14 +13,16 @@ In total, there are 13 story chapters in MH Now with various quests and objectiv
 ### Prologue (Tutorial)
 
 #### Prologue 1
+
 | Objectives | Rewards |
-|*----------*|*-------*|
+| ---------- | ------- |
 | Slay Monster (3) | 50 HRP |
 | Slay monster (Great Jagras) | 50 HRP |
 
 #### Prologue 2
+
 | Objectives | Rewards |
-|*----------*|*-------*|
+| ---------- | ------- |
 | Slay Monster (3) | 100 HRP |
 | Urgent Quest: Kulu-Ya-Ku | 50 HRP |
 | Upgrade equipment (Weapon) | 50 HRP |
