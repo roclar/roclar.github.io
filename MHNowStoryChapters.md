@@ -122,17 +122,38 @@ Here are all the Monster Hunter Now quests and rewards to complete for chapter 2
 | ---------- | ------- |
 | Great Girros (2) | 150 HRP, 1 Great Girros Hood |
 
+**UNLOCKED BOW, HAMMER, LIGHT BOWGUN, & LONG SWORD**
+
 ### Chapter 3: Lurker of the Forest
 
-Parts	Objectives	Rewards
-Part 1	Slay large Monsters	100 HRP
-Slay normal monsters	100 HRP
-Part 2	Kulu-Ya-Ku (2) Quest	150 HRP, Kulu-Ya-Ku Plume
-Part 3	Slay Great Jagras	100 HRP
-Gather items at Gathering Point	100 HRP
-Part 4	Pukei-Pukei (2) Quest	150 HRP, Pukei-Pukei Sac
-monster hunter now quest list
-Chapter 4: To Catch a Thief
+#### Part 1
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Slay large Monsters (5) | 100 HRP |
+| Slay normal monsters (10) | 100 HRP |
+
+#### Part 2
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Kulu-Ya-Ku (2) Urgent | 150 HRP, Kulu-Ya-Ku Plume |
+
+#### Part 3
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Slay Great Jagras | 100 HRP |
+| Gather items at Gathering Point | 100 HRP |
+
+#### Part 4
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Pukei-Pukei (2) URgent | 150 HRP, Pukei-Pukei Sac |
+
+### Chapter 4: To Catch a Thief
+
 Parts	Objectives	Rewards
 Part 1	Obtain a Unique Mushroom from a Vegetation Gathering Point	100 HRP
 Slay Large Monsters	100 HRP
