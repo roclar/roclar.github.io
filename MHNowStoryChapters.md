@@ -88,6 +88,7 @@ Similarly, the chapter 1 quest in Monster Hunter Now is divided into three parts
 | Slay large monster (5) | 100 HRP |
 | Gather items at gathering point (10) | 100 HRP |
 
+
 #### Part 3
 
 | Objectives | Rewards |
@@ -104,14 +105,16 @@ Here are all the Monster Hunter Now quests and rewards to complete for chapter 2
 | ---------- | ------- |
 | Equip the Kulu Headpiece and use Lock On | 100 HRP |
 | Slay large Monsters | 100 HRP |
-| Slay a monster with a Great Sword | 100 HRP |
+
+**UNLOCKED GREAT SWORD**
 
 #### Part 2
 
 | Objectives | Rewards |
 | ---------- | ------- |
-| Slay normal monsters | 100 HRP |
-| Gather items at a Gathering Point | 100 HRP |
+| Slay a monster with a Great Sword (3) | 100 HRP |
+| Slay normal monsters (10) | 100 HRP |
+| Gather items at a Gathering Point (10) | 100 HRP |
 
 #### Part 3
 
