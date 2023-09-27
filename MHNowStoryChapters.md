@@ -120,7 +120,7 @@ Here are all the Monster Hunter Now quests and rewards to complete for chapter 2
 
 | Objectives | Rewards |
 | ---------- | ------- |
-| Great Girros (2) | 150 HRP, 1 Great Girros Hood |
+| Urgent Quest: Great Girros (2) | 150 HRP, 1 Great Girros Hood |
 
 **UNLOCKED BOW, HAMMER, LIGHT BOWGUN, & LONG SWORD**
 
@@ -137,7 +137,7 @@ Here are all the Monster Hunter Now quests and rewards to complete for chapter 2
 
 | Objectives | Rewards |
 | ---------- | ------- |
-| Kulu-Ya-Ku (2) Urgent | 150 HRP, Kulu-Ya-Ku Plume |
+| Urgent Quest: Kulu-Ya-Ku (2) | 150 HRP, Kulu-Ya-Ku Plume |
 
 #### Part 3
 
@@ -150,7 +150,7 @@ Here are all the Monster Hunter Now quests and rewards to complete for chapter 2
 
 | Objectives | Rewards |
 | ---------- | ------- |
-| Pukei-Pukei (2) URgent | 150 HRP, Pukei-Pukei Sac |
+| Urgent Quest: Pukei-Pukei (2) | 150 HRP, Pukei-Pukei Sac |
 
 ### Chapter 4: To Catch a Thief
 
