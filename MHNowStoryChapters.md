@@ -66,20 +66,34 @@ In total, there are 13 story chapters in MH Now with various quests and objectiv
 
 | Objectives | Rewards |
 | ---------- | ------- |
-|Great Jagras (2) | 100 HRP |
+| Great Jagras (2) | 100 HRP |
 
-#### Chapter 1: Beyond the Dust Clouds
+### Chapter 1: Beyond the Dust Clouds
 
 Similarly, the chapter 1 quest in Monster Hunter Now is divided into three parts with different objectives. Here are all the objectives and rewards for every part:
 
+#### Part 1
 
-Parts	Objectives	Rewards
-Part 1	Use Special Skill (1)	100 HRP
-Gather items at gathering point (5)	100 HRP
-Part 2	Slay large monster (5)	100 HRP
-Gather items at gathering point (10)	100 HRP
-Part 3	Urgent Quest: Kulu-Ya-Ku (2)	150 HRP, Kulu-Ya-Ku Plume
-Chapter 2: Shimmering Swamp
+| Objectives | Rewards |
+| ---------- | ------- |
+| Use Special Skill (1) | 100 HRP |
+| Gather items at gathering point (5) | 100 HRP |
+
+#### Part 2
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Slay large monster (5) | 100 HRP |
+| Gather items at gathering point (10) | 100 HRP |
+
+#### Part 3
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Urgent Quest: Kulu-Ya-Ku (2) | 150 HRP, Kulu-Ya-Ku Plume |
+
+### Chapter 2: Shimmering Swamp
+
 Here are all the Monster Hunter Now quests and rewards to complete for chapter 2:
 
 Parts	Objectives	Rewards
