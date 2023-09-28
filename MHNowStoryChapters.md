@@ -154,18 +154,38 @@ Here are all the Monster Hunter Now quests and rewards to complete for chapter 2
 
 ### Chapter 4: To Catch a Thief
 
-Parts	Objectives	Rewards
-Part 1	Obtain a Unique Mushroom from a Vegetation Gathering Point	100 HRP
-Slay Large Monsters	100 HRP
-Slay normal monsters	100 HRP
-Part 2	Slay Large Monsters	100 HRP
-Slay normal monsters	100 HRP
-Gather items at Gathering Points	100 HRP
-Part 3	Slay Pukei-Pukei	100 HRP
-Slay normal monsters	100 HRP
-Gather items at Gathering Points	100 HRP
-Part 4	Tobi-Kadachi (2) Quest	150 HRP, Tobi-Kadachi Membrane
-Chapter 5: A Fluffy Suspect
+#### Part 1
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Obtain a Unique Mushroom from a Vegetation Gathering Point (10) | 100 HRP |
+| Slay Large Monsters (5) | 100 HRP |
+| Slay normal monsters (10) | 100 HRP |
+
+#### Part 2
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Slay Large Monsters | 100 HRP |
+| Slay normal monsters | 100 HRP |
+| Gather items at Gathering Points | 100 HRP |
+
+#### Part 3
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Slay Pukei-Pukei | 100 HRP |
+| Slay normal monsters | 100 HRP |
+| Gather items at Gathering Points | 100 HRP |
+
+#### Part 4
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Urgent Quest: Tobi-Kadachi (2) | 150 HRP, Tobi-Kadachi Membrane |
+
+### Chapter 5: A Fluffy Suspect
+
 Parts	Objectives	Rewards
 Part 1	Slay Large Monsters	100 HRP
 Slay normal monsters	100 HRP
