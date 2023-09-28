@@ -174,9 +174,9 @@ Here are all the Monster Hunter Now quests and rewards to complete for chapter 2
 
 | Objectives | Rewards |
 | ---------- | ------- |
-| Slay Pukei-Pukei | 100 HRP |
-| Slay normal monsters | 100 HRP |
-| Gather items at Gathering Points | 100 HRP |
+| Slay Pukei-Pukei (2) | 100 HRP |
+| Slay normal monsters (10) | 100 HRP |
+| Gather items at Gathering Points (10) | 100 HRP |
 
 #### Part 4
 
@@ -184,20 +184,47 @@ Here are all the Monster Hunter Now quests and rewards to complete for chapter 2
 | ---------- | ------- |
 | Urgent Quest: Tobi-Kadachi (2) | 150 HRP, Tobi-Kadachi Membrane |
 
+**THREE STAR LARGE MONSTERS**
+
 ### Chapter 5: A Fluffy Suspect
 
-Parts	Objectives	Rewards
-Part 1	Slay Large Monsters	100 HRP
-Slay normal monsters	100 HRP
-Gather items at Gathering Points	100 HRP
-Part 2	Kulu-Ya-Ku (2) Quest	150 HRP, Kulu-Ya-Ku Plume
-Part 3	Slay a monster in the Desert habitat	100 HRP
-Slay Large Monster	100 HRP
-Part 4	Gather the Felyne Food from Gathering Points	100 HRP
-Slay a Large Monster	100 HRP
-Slay normal monsters	100 HRP
-Part 5	Paolumu (3) Quest	180 HRP, 1 Paolumu Shell
-Chapter 6: The Gluttonous Mastermind
+#### Part 1
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Slay Large Monsters (5) | 100 HRP |
+| Slay normal monsters (10) | 100 HRP |
+| Gather items at Gathering Points (10) | 100 HRP |
+
+#### Part 2
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Urgent Quest: Kulu-Ya-Ku (2) | 150 HRP, Kulu-Ya-Ku Plume |
+
+#### Part 3
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Slay a monster in the Desert habitat | 100 HRP |
+| Slay Large Monster | 100 HRP |
+
+#### Part 4
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Gather the Felyne Food from Gathering Points | 100 HRP |
+| Slay a Large Monster | 100 HRP |
+| Slay normal monsters | 100 HRP |
+
+#### Part 5
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Urgent Quest: Paolumu (3) | 180 HRP, 1 Paolumu Shell |
+
+### Chapter 6: The Gluttonous Mastermind
+
 Parts	Objectives	Rewards
 Part 1	Slay Large Monster	100 HRP
 Slay normal monster	100 HRP
