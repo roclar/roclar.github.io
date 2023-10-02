@@ -206,8 +206,8 @@ Here are all the Monster Hunter Now quests and rewards to complete for chapter 2
 
 | Objectives | Rewards |
 | ---------- | ------- |
-| Slay a monster in the Desert habitat | 100 HRP |
-| Slay Large Monster | 100 HRP |
+| Slay a monster in the Desert habitat (5) | 100 HRP |
+| Slay Large Monster (5) | 100 HRP |
 
 #### Part 4
 
@@ -225,18 +225,42 @@ Here are all the Monster Hunter Now quests and rewards to complete for chapter 2
 
 ### Chapter 6: The Gluttonous Mastermind
 
-Parts	Objectives	Rewards
-Part 1	Slay Large Monster	100 HRP
-Slay normal monster	100 HRP
-Gather items at Gathering Points	100 HRP
-Part 2	Slay a monster in the Swamp habitat	100 HRP
-Gather items at Gathering Points	100 HRP
-Part 3	Barroth (3) Quest	150 HRP, 1 Barroth Scalp
-Part 4	Slay Large Monsters	100 HRP
-Slay normal monster	100 HRP
-Gather items at Gathering Points	100 HRP
-Part 5	Jyuratodus (3) Quest	180 HRP, 1 Jyuratodus Fin
-Chapter 7: Owner of the Footprints
+#### Part 1
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Slay Large Monster (5) | 100 HRP |
+| Slay normal monster (10) | 100 HRP |
+| Gather items at Gathering Points (10) | 100 HRP |
+
+#### Part 2
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Slay a monster in the Swamp habitat | 100 HRP |
+| Gather items at Gathering Points | 100 HRP |
+
+#### Part 3
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Urgent Quest: Barroth (3) | 150 HRP, 1 Barroth Scalp |
+
+#### Part 4
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Slay Large Monsters | 100 HRP |
+| Slay normal monster | 100 HRP |
+| Gather items at Gathering Points | 100 HRP |
+
+#### Part 5
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Urgent Quest: Jyuratodus (3) Quest | 180 HRP, 1 Jyuratodus Fin |
+
+### Chapter 7: Owner of the Footprints
 Parts	Objectives	Rewards
 Part 1	Slay Large Monster	100 HRP
 Slay normal monster	100 HRP
