@@ -260,6 +260,8 @@ Here are all the Monster Hunter Now quests and rewards to complete for chapter 2
 | ---------- | ------- |
 | Urgent Quest: Jyuratodus (3) Quest | 180 HRP, 1 Jyuratodus Fin |
 
+**FOUR STAR LARGE MONSTERS**
+
 ### Chapter 7: Owner of the Footprints
 
 #### Part 1
@@ -300,17 +302,37 @@ Here are all the Monster Hunter Now quests and rewards to complete for chapter 2
 
 ### Chapter 8: Raging Flames
 
-Parts	Objectives	Rewards
-Part 1	Slay a monster in the Forest habitat	100 HRP
-Slay Large Monster	100 HRP
-Gather items at Gathering Point	100 HRP
-Part 2	Slay a Tobi-Kadachi	100 HRP
-Slay normal monster	100 HRP
-Gather items at Gathering Points	100 HRP
-Part 3	Slay Large Monster	100 HRP
-Slay normal monster	100 HRP
-Part 4	Anjanath (4) Quest	150 HRP, 1 Anjanath Prime scale
-Chapter 9: Bright Lights and Beasts
+#### Part 1
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Slay a monster in the Forest habitat | 100 HRP |
+| Slay Large Monster | 100 HRP |
+| Gather items at Gathering Point | 100 HRP |
+
+#### Part 2
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Slay a Tobi-Kadachi | 100 HRP |
+| Slay normal monster | 100 HRP |
+| Gather items at Gathering Points | 100 HRP |
+
+#### Part 3
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Slay Large Monster | 100 HRP |
+| Slay normal monster | 100 HRP |
+
+#### Part 4
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Urgent Quest: Anjanath (4) | 150 HRP, 1 Anjanath Prime scale |
+
+### Chapter 9: Bright Lights and Beasts
+
 Parts	Objectives	Rewards
 Part 1	Slay Monsters in the designated habitat (Desert)	100 HRP
 Slay Large Monsters (5)	100 HRP
