@@ -333,16 +333,37 @@ Here are all the Monster Hunter Now quests and rewards to complete for chapter 2
 
 ### Chapter 9: Bright Lights and Beasts
 
-Parts	Objectives	Rewards
-Part 1	Slay Monsters in the designated habitat (Desert)	100 HRP
-Slay Large Monsters (5)	100 HRP
-Gather items at a Gathering Point	100 HRP
-Part 2	Anjanath Urgent Quest	100 HRP
-Part 3	Slay Large Monsters (5)	100 HRP
-Slay Monsters (10)	100 HRP
-Rathian Quest (1)	180 HRP
-Chapter 10: Glacial Gales
-Parts	Objectives	Rewards
+#### Part 1
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Slay Monsters in the designated habitat (Desert) | 100 HRP |
+| Slay Large Monsters (5) | 100 HRP |
+| Gather items at a Gathering Point | 100 HRP |
+
+#### Part 2
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Urgent Quest: Anjanath | 100 HRP |
+
+#### Part 3
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Slay Large Monsters (5) | 100 HRP |
+| Slay Monsters (10) | 100 HRP |
+
+#### Part 4
+
+| Objectives | Rewards |
+| ---------- | ------- |
+| Urgent Quest: Rathian Quest (4) | 180 HRP |
+
+**FIVE STAR LARGE MONSTERS**
+
+### Chapter 10: Glacial Gales
+
 Part 1	Slay Large Monsters (5)	100 HRP
 Slay Monsters (10)	100 HRP
 Gather items at a gathering point (10)	100 HRP
@@ -353,8 +374,9 @@ Gather items at a Gathering Point (10)	100 HRP
 Part 3	Obtain a specified item from a gathering point – Scale-like-object	100 HRP
 Slay Large Monsters (10)	100 HRP
 Legiana Quest	180 HRP
-Chapter 11: The Looming Threat
-Parts	Objectives	Rewards
+
+### Chapter 11: The Looming Threat
+
 Part 1	Slay Large Monsters	100 HRP
 Slay Monsters	100 HRP
 Gather items at a gathering point	100 HRP
@@ -366,8 +388,9 @@ Gather items at a Gathering Point	100 HRP
 Part 4	Slay Rathian (2)	100 HRP
 Slay Monsters (10)	100 HRP
 Horns of the Tyrant quest	100 HRP
-Chapter 12: The Rumbling Heavens
-Parts	Objectives	Rewards
+
+### Chapter 12: The Rumbling Heavens
+
 Part 1	Slay Large Monsters	100 HRP
 Slay Monsters	100 HRP
 Gather items at a gathering point	100 HRP
@@ -377,7 +400,10 @@ Gather items at a gathering point	100 HRP
 Part 3	Slay Monster in a designated habitat (Forest)	100 HRP
 Slay Large Monsters	100 HRP
 Slay Monsters	100 HRP
-Chapter 13: Sunderer of the Skies
-Parts	Objectives	Rewards
+
+### Chapter 13: Sunderer of the Skies
+
 Part 1	Rathalos, the King of Skies Quest	200 HRP
 Once you have completed all the quests in Monster Hunter Now, the story will reset to Chapter 1 giving you a New Game+ (NG+). Unlike the above objectives, you will face different quest requirements. In addition, you will also face more challenging bosses with a level cap of 10 stars.
+
+**SIX STAR LARGE MONSTERS**
