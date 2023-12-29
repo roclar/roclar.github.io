@@ -6,7 +6,7 @@ weight: 10
 
 ## Taylor Swift Eras Tour Song List
 
-Source - [The Wrap - Here Are All the Songs in ‘Taylor Swift: The Eras Tour’ Movie](https://www.thewrap.com/taylor-swift-eras-tour-movie-setlist-all-the-songs-list/)
+Source - [The Wrap - Here Are All the Songs in ‘Taylor Swift: The Eras Tour’ Movie](https://www.thewrap.com/taylor-swift-eras-tour-movie-setlist-all-the-songs-list/) and [ComicBook Movies - Taylor Swift Eras Tour Movie's Bonus Songs Explained](https://comicbook.com/movies/news/taylor-swift-eras-tour-movies-bonus-songs-explained-digital-vod/)
 
 ### Lover
 
@@ -77,4 +77,9 @@ Source - [The Wrap - Here Are All the Songs in ‘Taylor Swift: The Eras Tour’
 * “Bejeweled”
 * “Mastermind”
 * “Karma”
-* “Long Live (Taylor’s Version) plays in the credits.
+
+### Bonus 
+
+* “Long Live (Taylor’s Version) from Speak Now plays in the credits in the theatrical release
+* "Wildest Dreams" from 1989 (Taylor's Version)
+* "The Archer" from Lover
