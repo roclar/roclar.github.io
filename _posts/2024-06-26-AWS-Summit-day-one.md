@@ -11,7 +11,11 @@ title: AWS Summit DC - Conference Day One - Washington, DC
 ## AES201-R: ICEYE uses AWS to monitor natural disasters from space ##
 9:00 am-9:30 am, Breakout Session, Shay Strong, ICEYE
 
-Takeaways
+AWS Batch?
+AWS OpenSearch Service?
+https://www.iceye.com/hubfs/Downloadables/ICEYE_Flood_Briefing_Hurricane_Iota_Honduras_2020.pdf
+https://www.iceye.com/blog/tracking-hurricane-ian-remote-sensing-sar
+https://www.iceye.com/hubfs/Downloadables/ICEYE_Flood_Briefing_Hurricane_Ian_Florida_2022.pdf
 
 
 9:30 am-10:30 am, Breakout Session, EDU201: Expanding efficiency at scale in higer education
