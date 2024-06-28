@@ -20,10 +20,10 @@ title: AWS Summit DC - Conference Day Two - Washington, DC
 
 ### EDU204 Technologies for further investigation
 
-aws migration acceleration program
-amazon eventbridge
-opentofu/terraform
-blue green switching
+[AWS Migration Acceleration Program (MAP)](https://aws.amazon.com/migration-acceleration-program/)
+[Amazon EventBridge](https://aws.amazon.com/eventbridge/)
+[OpenTofu](https://opentofu.org)
+[Blue/Green deployments](https://docs.aws.amazon.com/whitepapers/latest/overview-deployment-options/bluegreen-deployments.html)
 
 ## MAM102: AWS for VMware: Transforming people, process, and technology
 
@@ -36,9 +36,9 @@ blue green switching
 
 ### MAM102 Technologies for further investigation
 
-ec2 lift and shift rehost. replatform with containers or rds. refactor.
-
-awa lambda
+[AWS RDS refactor](https://docs.aws.amazon.com/prescriptive-guidance/latest/oracle-exadata-blueprint/performing-refactor.html)
+[AWS lift and shift](https://aws.amazon.com/products/storage/lift-and-shift/)
+[AWS Lambda](https://aws.amazon.com/pm/lambda/)
 
 ## DEV103: Embracing evolution: Behavioral insights for Python AWS upgrades
 
@@ -63,8 +63,9 @@ awa lambda
 
 ### HYB203 Technologies for further investigation
 
-aws local zones
-aws wavelength
+[AWS Outposts](https://aws.amazon.com/outposts/)
+[AWS Local Zones](https://aws.amazon.com/about-aws/global-infrastructure/localzones/)
+[AWS Wavelength](https://aws.amazon.com/wavelength/)
 
 ## DAT201: What's new with Amazon RDS?
 
@@ -77,6 +78,6 @@ aws wavelength
 
 ### DAT201 Technologies for further investigation
 
-aws rds performance insights
-amazon devops guru for rds
-skillbuilder.aws
+[AWS RDS Performance Insights](https://aws.amazon.com/rds/performance-insights/)
+[Amazon DevOps Guru for RDS](https://aws.amazon.com/devops-guru/features/devops-guru-for-rds/)
+[AWS Skill Builder](https://skillbuilder.aws)
