@@ -81,7 +81,7 @@ weight: 5
 | 4 | Gremlin | Mickey Rourke | Actor/boxer | WITHDREW EP 2 |
 | 4 | Dragon | Busta Rhymes | Rapper | OUT EP 1 |
 | 5 | Piglet | Nick Lachey | Singer | WINNER |
-| 5 | Black Swan | JoJo | Singer| 5 | RUNNER-UP |
+| 5 | Black Swan | JoJo | Singer| RUNNER-UP |
 | 5 | Chameleon | Wiz Khalifa | Rapper | THIRD |
 | 5 | Yeti (WC) | Omarion | Singer | OUT EP 11 |
 | 5 | Russian Dolls | Hanson | Band | OUT EP 10 |
@@ -116,7 +116,7 @@ weight: 5
 | 7 | Queen Cobras (B) | En Vogue | R&B group | OUT EP 9 |
 | 7 | Space Bunny (C) | Shaggy | Singer | OUT EP 9 |
 | 7 | Baby Mammoth (C) | Kirstie Alley | Actor | OUT EP 8 |
-| 7 | Jack in the Box (B) Rudy Giuliani | Politician | OUT EP 7 |
+| 7 | Jack in the Box (B) | Rudy Giuliani | Politician | OUT EP 7 |
 | 7 | Miss Teddy | Jennifer Holliday | Singer/actor | OUT EP 6 |
 | 7 | Armadillo (G) | Duane Chapman | TV personality | OUT EP 6 |
 | 7 | Hydra (B) | Penn & Teller | Magicians/comedians | OUT EP 5 |
@@ -153,7 +153,7 @@ weight: 5
 | 9 | UFO | Olivia Culpo | Model/internet personality | OUT EP 12 |
 | 9 | Gargoyle | Keenan Allen | NFL player | OUT EP 11 |
 | 9 | Mantis | Lou Diamond Phillips | Actor | OUT EP 11 |
-| 9 | Lamp | Melissa Joan Hart | OUT EP 9 |
+| 9 | Lamp | Melissa Joan Hart | Actor | OUT EP 9 |
 | 9 | Dandelion | Alicia Witt | Actor/singer | OUT EP 9 |
 | 9 | Doll | Dee Snider | Singer | OUT EP 8 |
 | 9 | Scorpio | Christine Quinn| TV personality | OUT EP 7 |
