@@ -168,6 +168,22 @@ weight: 5
 | 9 | Rock Lobster | Howie Mandel | Comedian/TV personality | OUT EP 2 |
 | 9 | Mustang | Sara Evans | Singer | OUT EP 1 |
 | 9 | Gnome | Dick Van Dyke | Actor/comedian | OUT EP 1 |
+| 10 | Goldfish | Vanessa Hudgens | Actor/singer | WINNER |
+| 10 | Gumball | Scott Porter | Actor/singer | RUNNER-UP |
+| 10 | Clock | Thelma Houston | Singer | OUT EP 12 |
+| 10 | Poodle Moth | Chrissy Metz | Actor/singer | OUT EP 10 |
+| 10 | Beets | Clay Aiken, Ruben Studdard | Singer/politician, singer | OUT EP 9 |
+| 10 | Seal | Corey Feldman | Actor | OUT EP 9 |
+| 10 | Miss Cleocatra | Jennifer Lewis | Actor/singer | OUT EP 8 |
+| 10 | Starfish | Kate Flannery | Actor | OUT EP 7 |
+| 10 | Ugly Sweater | Charlie Wilson | Singer | OUT EP 7 |
+| 10 | Koala | DeMarcus Ware | NFL Hall of Famer | OUT EP 6 |
+| 10 | Lovebird | Colton Underwood | TV personality | OUT EP 6 |
+| 10 | Lizard | Sisqó | Singer | OUT EP 5 |
+| 10 | Sir Lion | Billy Bush | Talk show host | OUT EP 4 |
+| 10 | Spaghetti & Meatballs | Joe Bastianich | Restaurateur/TV personality | OUT EP 3 |
+| 10 | Afghan Hound | Savannah Chrisley | TV personality | OUT EP 2 |
+| 10 | Book | Kevin Hart | Actor/comedian | WITHDREW EP 1 |
 
 ## Sources
 
@@ -180,3 +196,4 @@ weight: 5
 * [The Masked Singer (American season 7)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_7))
 * [The Masked Singer (American season 8)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_8))
 * [The Masked Singer (American season 9)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_9))
+* [The Masked Singer (American season 10)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_10))
