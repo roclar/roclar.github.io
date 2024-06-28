@@ -12,7 +12,8 @@ weight: 5
 | Robin Thicke | singer-songwriter | Judge |
 | Jenny McCarthy Wahlberg | television personality | Judge |
 | Ken Jeong | actor and comedian | Judge |
-| Nicole Scherzinger | recording artist | Judge |
+| Nicole Scherzinger | recording artist | Judge (season 1-10) |
+| Rita Ora | singer and actor | Judge (season 11) |
 
 ## Contestant List
 
@@ -168,22 +169,38 @@ weight: 5
 | 9 | Rock Lobster | Howie Mandel | Comedian/TV personality | OUT EP 2 |
 | 9 | Mustang | Sara Evans | Singer | OUT EP 1 |
 | 9 | Gnome | Dick Van Dyke | Actor/comedian | OUT EP 1 |
-| 10 | Goldfish | Vanessa Hudgens | Actor/singer | WINNER |
-| 10 | Gumball | Scott Porter | Actor/singer | RUNNER-UP |
-| 10 | Clock | Thelma Houston | Singer | OUT EP 12 |
-| 10 | Poodle Moth | Chrissy Metz | Actor/singer | OUT EP 10 |
-| 10 | Beets | Clay Aiken, Ruben Studdard | Singer/politician, singer | OUT EP 9 |
-| 10 | Seal | Corey Feldman | Actor | OUT EP 9 |
-| 10 | Miss Cleocatra | Jennifer Lewis | Actor/singer | OUT EP 8 |
-| 10 | Starfish | Kate Flannery | Actor | OUT EP 7 |
-| 10 | Ugly Sweater | Charlie Wilson | Singer | OUT EP 7 |
-| 10 | Koala | DeMarcus Ware | NFL Hall of Famer | OUT EP 6 |
-| 10 | Lovebird | Colton Underwood | TV personality | OUT EP 6 |
-| 10 | Lizard | Sisqó | Singer | OUT EP 5 |
-| 10 | Sir Lion | Billy Bush | Talk show host | OUT EP 4 |
-| 10 | Spaghetti & Meatballs | Joe Bastianich | Restaurateur/TV personality | OUT EP 3 |
-| 10 | Afghan Hound | Savannah Chrisley | TV personality | OUT EP 2 |
-| 10 | Book | Kevin Hart | Actor/comedian | WITHDREW EP 1 |
+| 10 | Cow | Ne-Yo | Singer | WINNER |
+| 10 | Donut | John Schneider | Actor/singer | RUNNER-UP |
+| 10 | Gazelle | Janel Parrish | Actor/singer | THIRD |
+| 10 | Sea Queen | Macy Gray | Singer | FOURTH |
+| 10 | Candelabra | Keyshia Cole | Singer | OUT EP 10 |
+| 10 | Anteater | John Oates | Musician | OUT EP 10 |
+| 10 | Tiki | Sebastian Bach | Singer | OUT EP 9 |
+| 10 | Husky | Ginuwine | Singer | OUT EP 9 |
+| 10 | S'More | Ashley Parker Angel | Musician | OUT EP 8 |
+| 10 | Cuddle Monster | Metta World Peace | Former NBA player | OUT EP 7 |
+| 10 | Hibiscus | Luann de Lesseps | Reality TV personality | OUT EP 6 |
+| 10 | Hawk | Tyler Posey | Actor/musician | OUT EP 5 |
+| 10 | Royal Hen | Billie Jean King | Former tennis player | OUT EP 4 |
+| 10 | Pickle | Michael Rapaport | Actor/comedian | OUT EP 3 |
+| 10 | Diver | Tom Sandoval | Reality TV personality | OUT EP 2 |
+| 10 | Rubber Ducky | Anthony Anderson | Actor/comedian | OUT EP 1 |
+| 11 | Goldfish | Vanessa Hudgens | Actor/singer | WINNER |
+| 11 | Gumball | Scott Porter | Actor/singer | RUNNER-UP |
+| 11 | Clock | Thelma Houston | Singer | OUT EP 12 |
+| 11 | Poodle Moth | Chrissy Metz | Actor/singer | OUT EP 10 |
+| 11 | Beets | Clay Aiken, Ruben Studdard | Singer/politician, singer | OUT EP 9 |
+| 11 | Seal | Corey Feldman | Actor | OUT EP 9 |
+| 11 | Miss Cleocatra | Jennifer Lewis | Actor/singer | OUT EP 8 |
+| 11 | Starfish | Kate Flannery | Actor | OUT EP 7 |
+| 11 | Ugly Sweater | Charlie Wilson | Singer | OUT EP 7 |
+| 11 | Koala | DeMarcus Ware | NFL Hall of Famer | OUT EP 6 |
+| 11 | Lovebird | Colton Underwood | TV personality | OUT EP 6 |
+| 11 | Lizard | Sisqó | Singer | OUT EP 5 |
+| 11 | Sir Lion | Billy Bush | Talk show host | OUT EP 4 |
+| 11 | Spaghetti & Meatballs | Joe Bastianich | Restaurateur/TV personality | OUT EP 3 |
+| 11 | Afghan Hound | Savannah Chrisley | TV personality | OUT EP 2 |
+| 11 | Book | Kevin Hart | Actor/comedian | WITHDREW EP 1 |
 
 ## Sources
 
@@ -197,3 +214,4 @@ weight: 5
 * [The Masked Singer (American season 8)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_8))
 * [The Masked Singer (American season 9)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_9))
 * [The Masked Singer (American season 10)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_10))
+* [The Masked Singer (American season 11)](https://en.wikipedia.org/wiki/The_Masked_Singer_(American_season_11))
