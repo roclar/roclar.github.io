@@ -18,7 +18,7 @@ title: AWS Summit DC - Conference Day One - Washington, DC
 * Shay Strong, [ICEYE](https://www.iceye.com/en-us/)
 * Nereida Aguera Lopez, AWS
 
-### AES 201 Technologies for further investigation
+### AES201 Technologies for further investigation
 
 * [AWS Batch](https://aws.amazon.com/batch/)
 * [AWS OpenSearch Service](https://aws.amazon.com/opensearch-service/)
