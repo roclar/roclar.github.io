@@ -21,3 +21,28 @@ title: VASCAN - Conference Day One - Williamsburg, VA
 
 * Grouping tenant workloads for isolation and cost discovery
 * [Trivy](https://trivy.dev/) for scanning containers before building
+* [xeol](https://www.xeol.io/) for end of life scanning post-build
+* [OpenBao](https://openbao.org/) - open source version of [Vault](https://www.hashicorp.com/products/vault)
+* [opencost](https://www.opencost.io/) combined with AWS tagging for billback
+
+## Welcome 
+
+### 9:40am-10:50am, Keynote
+
+### Speakers
+
+* Dr. Kira Allmann, William & Mary Global Research Institute
+
+## What Have We Been Doing?
+
+### 11:00am-12:00pm, Breakout Session
+
+### Speakers
+
+* [Randy Marchany](https://security.vt.edu/about/staff/randy-marchany/) - [Virginia Tech](https://www.vt.edu/)
+
+### Notes
+
+
+
+
