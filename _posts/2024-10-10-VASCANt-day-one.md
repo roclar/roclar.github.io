@@ -43,6 +43,25 @@ title: VASCAN - Conference Day One - Williamsburg, VA
 
 ### Notes
 
+* [Krebs on Security](https://krebsonsecurity.com/)
 
+## FBI Panel - Cyber Threats & Crime
 
+### 1:00pm-2:00pm
 
+## Modern IR Diaries - Lessons learned from a cyber attack
+
+### 2:10pm-3:10pm, Breakout Session
+
+### Speakers
+
+* Dan Han, CISO [VCU](https://www.vcu.edu/)
+* Ryan Neilson, VCU
+
+## AI Opening Experience: Managing security through a Generative AI revolution
+
+### 3:20pm-4:20pm, Breakout Session
+
+### Speakers
+
+* Dan Han, CISO [VCU](https://www.vcu.edu/)
