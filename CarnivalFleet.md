@@ -25,6 +25,9 @@ full-width: true
 | [Freedom](https://en.wikipedia.org/wiki/Carnival_Freedom) | Conquest | 2007 | 110,000 | 290.2m | 35.4m | 2,980 | 1,150 | Panama | [Kathy Ireland](https://en.wikipedia.org/wiki/Kathy_Ireland) | Port Canaveral, FL |
 | [Splendor](https://en.wikipedia.org/wiki/Carnival_Splendor) | Splendor | 2008 | 113,300 | 290m | 35.54m | 3,012 | 1,150 | Panama | [Myleene Klass](https://en.wikipedia.org/wiki/Myleene_Klass) | Sydney, NSW, Australia |
 | [Luminosa](https://en.wikipedia.org/wiki/Carnival_Luminosa) | Luminosa | 2009 | 92,600 | 293.5m | 32.3m | 2,260 | 1,050 | Bahamas | [Valentina Vezzali](https://en.wikipedia.org/wiki/Valentina_Vezzali) | Seattle, WA |
+| [Dream](https://en.wikipedia.org/wiki/Carnival_Dream) | Dream | 2009 | 128,250 | 206.02m | 37.2m | 3,646 | 1,369 | Panama | [Marcia Gay Harden](https://en.wikipedia.org/wiki/Marcia_Gay_Harden) | Galveston, TX |
+| [Magic](https://en.wikipedia.org/wiki/Carnival_Magic) | Dream | 2011 | 130,000 | 306.471m | 37.18m | 3,690 | 1,386 | Panama | Lindsey Wilkerson | Miami, FL |
+| [Breeze](https://en.wikipedia.org/wiki/Carnival_Breeze) | Dream | 2012 | 130,000 | 306.02m | 37.2m | 3,690 | 1,386 | Panama | Tracy Wilson Mourning | Galveston, TX |
 
 ## Sources
 
