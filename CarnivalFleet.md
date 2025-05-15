@@ -17,11 +17,11 @@ weight: 10
 | [Pride](https://en.wikipedia.org/wiki/Carnival_Pride) | Spirit | 2001 | 88,500 | 294m | 32m | 2,124 | 930 | Panama | [Tamara Jernigan](https://en.wikipedia.org/wiki/Tamara_E._Jernigan) | Baltimore, MD |
 | [Legend](https://en.wikipedia.org/wiki/Carnival_Legend) | Spirit | 2002 | 88,500 | 294m | 32.2m | 2,124 | 930 | Bahamas | [Dame Judi Dench](https://en.wikipedia.org/wiki/Judi_Dench) | San Fransisco, CA |
 | [Miracle](https://en.wikipedia.org/wiki/Carnival_Miracle) | Spirit | 2004 | 88,500 | 294m | 32.2m | 2,124 | 930 | Panama | [Jessica Lynch](https://en.wikipedia.org/wiki/Jessica_Lynch) | Galveston, TX |
-| [Conquest](https://en.wikipedia.org/wiki/Carnival_Conquest) | Conquest | 2002 | 110,000 | 290.5m | 35.4m | 2,980 | 1,150 | Panama | [Lindy Claiborne Boggs](https://en.wikipedia.org/wiki/Lindy_Boggs) |
-| [Glory](https://en.wikipedia.org/wiki/Carnival_Glory) | Conquest | 2003 | 110,000 | 290.2m | 35.4m | 2,980 | 1,150 | Panama | [Dr Sally Ride](https://en.wikipedia.org/wiki/Sally_Ride) |
-| [Valor](https://en.wikipedia.org/wiki/Carnival_Valor) | Conquest | 2004 | 110,000 | 290.2m | 35.4m | 2,974 | 1,180 | Panama | [Katie Couric](https://en.wikipedia.org/wiki/Katie_Couric) |
-| [Liberty](https://en.wikipedia.org/wiki/Carnival_Liberty) | Conquest | 2005 | 110,000 | 290.2m | 35.4m | 2,974 | 1,160 | Panama | [Mira Sorvino](https://en.wikipedia.org/wiki/Mira_Sorvino) |
-| [Freedom](https://en.wikipedia.org/wiki/Carnival_Freedom) | Conquest | 2007 | 110,000 | 290.2m | 35.4m | 2,980 | 1,150 | Panama | [Kathy Ireland](https://en.wikipedia.org/wiki/Kathy_Ireland) |
+| [Conquest](https://en.wikipedia.org/wiki/Carnival_Conquest) | Conquest | 2002 | 110,000 | 290.5m | 35.4m | 2,980 | 1,150 | Panama | [Lindy Claiborne Boggs](https://en.wikipedia.org/wiki/Lindy_Boggs) | Miami, FL |
+| [Glory](https://en.wikipedia.org/wiki/Carnival_Glory) | Conquest | 2003 | 110,000 | 290.2m | 35.4m | 2,980 | 1,150 | Panama | [Dr Sally Ride](https://en.wikipedia.org/wiki/Sally_Ride) | Port Canaveral, FL |
+| [Valor](https://en.wikipedia.org/wiki/Carnival_Valor) | Conquest | 2004 | 110,000 | 290.2m | 35.4m | 2,974 | 1,180 | Panama | [Katie Couric](https://en.wikipedia.org/wiki/Katie_Couric) | New Orleans, LA |
+| [Liberty](https://en.wikipedia.org/wiki/Carnival_Liberty) | Conquest | 2005 | 110,000 | 290.2m | 35.4m | 2,974 | 1,160 | Panama | [Mira Sorvino](https://en.wikipedia.org/wiki/Mira_Sorvino) | New Orleans, LA |
+| [Freedom](https://en.wikipedia.org/wiki/Carnival_Freedom) | Conquest | 2007 | 110,000 | 290.2m | 35.4m | 2,980 | 1,150 | Panama | [Kathy Ireland](https://en.wikipedia.org/wiki/Kathy_Ireland) | Port Canaveral, FL |
 
 ## Sources
 
