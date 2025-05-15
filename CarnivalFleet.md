@@ -2,6 +2,7 @@
 layout: page
 title: Carnival Cruise Fleet
 weight: 10
+full-width: true
 ---
 
 ## Current Fleet
