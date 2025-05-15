@@ -9,7 +9,7 @@ full-width: true
 
 | Ship | Class | Year | GT | Length | Beam | Capacity | Crew | Flag | Sponsor | Home Port |
 |------|-------|------|----|--------|------|----------|------|------|---------|-----------|
-| [Elation](https://en.wikipedia.org/wiki/Carnival_Elation) | Fantasy | 1998 | 71,909 | 260.6m | 31.5m | 2,190 | 900 | Panama | [Shari Arison Dorsman](https://en.wikipedia.org/wiki/Shari_Arison) | Jacksonvill, FL |
+| [Elation](https://en.wikipedia.org/wiki/Carnival_Elation) | Fantasy | 1998 | 71,909 | 260.6m | 31.5m | 2,190 | 900 | Panama | [Shari Arison Dorsman](https://en.wikipedia.org/wiki/Shari_Arison) | Jacksonville, FL |
 | [Paradise](https://en.wikipedia.org/wiki/Carnival_Paradise) | Fantasy | 1998 | 71,925 | 260.6m | 31.5m | 2,124 | 920 | Panama | [Paula Zahn](https://en.wikipedia.org/wiki/Paula_Zahn) | Tampa, FL |
 | [Sunshine](https://en.wikipedia.org/wiki/Carnival_Sunshine) | Sunshine | 2013 | 102,853 | 272.2m | 35.5m | 3,002 | 1,150 | Panama | [Lin Arison](https://en.wikipedia.org/wiki/Lin_Arison) | Norfolk, VA |
 | [Sunrise](https://en.wikipedia.org/wiki/Carnival_Sunrise) | Sunshine | 2019 | 101,509 | 272.3m | 35.5m | 2,984 | 1,108 | Bahamas | Kelly Arison | Miami, FL |
@@ -33,3 +33,4 @@ full-width: true
 
 * [Carnival Cruise Line Wiki page](https://en.wikipedia.org/wiki/Carnival_Cruise_Line)
 * [RyG's Cruise Guide Carnival Cruise Ship Godmothers and Godfathers List](http://www.embarkandaway.com/general-cruise-blog/carnival-cruise-ship-godmothers-and-godfathers-list)
+* [Carnival Cruise Director Airtable](https://airtable.com/appin6uTVeCF8mthS/shrxzucqLGHbpDmm8/tblZJCAW6us7UhDmZ)
