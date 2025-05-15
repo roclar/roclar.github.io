@@ -22,6 +22,8 @@ weight: 10
 | [Valor](https://en.wikipedia.org/wiki/Carnival_Valor) | Conquest | 2004 | 110,000 | 290.2m | 35.4m | 2,974 | 1,180 | Panama | [Katie Couric](https://en.wikipedia.org/wiki/Katie_Couric) | New Orleans, LA |
 | [Liberty](https://en.wikipedia.org/wiki/Carnival_Liberty) | Conquest | 2005 | 110,000 | 290.2m | 35.4m | 2,974 | 1,160 | Panama | [Mira Sorvino](https://en.wikipedia.org/wiki/Mira_Sorvino) | New Orleans, LA |
 | [Freedom](https://en.wikipedia.org/wiki/Carnival_Freedom) | Conquest | 2007 | 110,000 | 290.2m | 35.4m | 2,980 | 1,150 | Panama | [Kathy Ireland](https://en.wikipedia.org/wiki/Kathy_Ireland) | Port Canaveral, FL |
+| [Splendor](https://en.wikipedia.org/wiki/Carnival_Splendor) | Splendor | 2008 | 113,300 | 290m | 35.54m | 3,012 | 1,150 | Panama | [Myleene Klass](https://en.wikipedia.org/wiki/Myleene_Klass) | Sydney, NSW, Australia |
+| [Luminosa](https://en.wikipedia.org/wiki/Carnival_Luminosa) | Luminosa | 2009 | 92,600 | 293.5m | 32.3m | 2,260 | 1,050 | Bahamas | [Valentina Vezzali](https://en.wikipedia.org/wiki/Valentina_Vezzali) | Seattle, WA |
 
 ## Sources
 
