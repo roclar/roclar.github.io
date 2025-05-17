@@ -39,6 +39,16 @@ full-width: true
 | [Adventure](https://en.wikipedia.org/wiki/Carnival_Adventure) | Adventure | 2001 | 109,000 | 290m | 36m | 2,600 | 1,100 | Bahamas | [Ricki-Lee Coulter](https://en.wikipedia.org/wiki/Ricki-Lee_Coulter) | Sydney, AUS |
 | [Encounter](https://en.wikipedia.org/wiki/Carnival_Encounter) | Adventure | 2002 | 109,000 | 290m | 36m | 2,600 | 1,100 | Bahamas | Gunilla Antonini | Brisbane, AUS |
 
+## Former Fleet
+
+| Ship | Class | Year | GT | Length | Beam | Capacity | Crew | Flag | Sponsor | Notes |
+|------|-------|------|----|--------|------|----------|------|------|---------|-------|
+| [Mardi Gras](https://en.wikipedia.org/wiki/RMS_Empress_of_Canada_(1960)) | Empress | 1972 | 27,284 | 198.12m | 26.4m | 1,048 | 470 | Panama | | Originally Empress of Canada. OOCS 1995. Scrapped Alang, India 2003 |
+| [Carnivale](https://en.wikipedia.org/wiki/RMS_Empress_of_Britain_(1955)) | Empress | 1975 | 31,500 | 200m | 26m | 1,313 | 464 | Panama | [Queen Elizabeth II](https://en.wikipedia.org/wiki/Elizabeth_II) | Originally Empress of Britain. OOCS 1994. Scrapped Alang, India 2008 |
+| [Festivale](https://en.wikipedia.org/wiki/RMS_Transvaal_Castle) | Festivale | 1977 | 32,697 | 231.7m | 27.48m | 1,432 | 579 | Panama | | Originally RMS Transvaal Castle. OOCS 1996. Scrapped Alang, India 2003 |
+| [Tropicale](https://en.wikipedia.org/wiki/MS_Tropicale) | Tropicale | 1982 | 36,674 | 204.76m | 26.45m | 1,412 | 550 | Liberia | | First Carnival built ship with whale tale funnel. OOCS 2001. Scrapped in Alang, India 2021 | 
+ 
+
 ## Sources
 
 * [Carnival Cruise Line Wiki page](https://en.wikipedia.org/wiki/Carnival_Cruise_Line)
