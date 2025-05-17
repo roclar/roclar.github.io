@@ -43,10 +43,10 @@ full-width: true
 
 | Ship | Class | Year | OOCS | GT | Length | Beam | Capacity | Crew | Flag | Sponsor | Scrapped | Notes |
 |------|-------|------|------|----|--------|------|----------|------|------|---------|----------|-------|
-| [Mardi Gras](https://en.wikipedia.org/wiki/RMS_Empress_of_Canada_(1960)) | Empress | 1972 | 1995| 27,284 | 198.12m | 26.4m | 1,048 | 470 | Panama | | Alang, India 2003 | Originally Empress of Canada. |
-| [Carnivale](https://en.wikipedia.org/wiki/RMS_Empress_of_Britain_(1955)) | Empress | 1975 | 31,500 | 200m | 26m | 1,313 | 464 | Panama | [Queen Elizabeth II](https://en.wikipedia.org/wiki/Elizabeth_II) | Alang, India 2008 | Originally Empress of Britain. OOCS 1994. |
-| [Festivale](https://en.wikipedia.org/wiki/RMS_Transvaal_Castle) | Festivale | 1977 | 32,697 | 231.7m | 27.48m | 1,432 | 579 | Panama | | Alang, India 2003 | Originally RMS Transvaal Castle. OOCS 1996. |
-| [Tropicale](https://en.wikipedia.org/wiki/MS_Tropicale) | Tropicale | 1982 | 36,674 | 204.76m | 26.45m | 1,412 | 550 | Liberia | | Alang, India 2021 | First Carnival built ship with whale tale funnel. OOCS 2001. | 
+| [Mardi Gras](https://en.wikipedia.org/wiki/RMS_Empress_of_Canada_(1960)) | Empress | 1972 | 1995 | 27,284 | 198.12m | 26.4m | 1,048 | 470 | Panama | | Alang, India 2003 | Originally Empress of Canada. |
+| [Carnivale](https://en.wikipedia.org/wiki/RMS_Empress_of_Britain_(1955)) | Empress | 1975 | 1994 | 31,500 | 200m | 26m | 1,313 | 464 | Panama | [Queen Elizabeth II](https://en.wikipedia.org/wiki/Elizabeth_II) | Alang, India 2008 | Originally Empress of Britain. |
+| [Festivale](https://en.wikipedia.org/wiki/RMS_Transvaal_Castle) | Festivale | 1977 | 1996 | 2,697 | 231.7m | 27.48m | 1,432 | 579 | Panama | | Alang, India 2003 | Originally RMS Transvaal Castle. |
+| [Tropicale](https://en.wikipedia.org/wiki/MS_Tropicale) | Tropicale | 1982 | 2001 | 36,674 | 204.76m | 26.45m | 1,412 | 550 | Liberia | | Alang, India 2021 | First Carnival built ship with whale tale funnel. | 
  
 
 ## Sources
