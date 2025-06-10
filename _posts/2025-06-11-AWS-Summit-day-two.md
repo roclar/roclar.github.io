@@ -22,4 +22,15 @@ title: AWS Summit DC - Conference Day Two - Washington, DC
 
 * 
 
+## EDU203: Managing a seamless migration from VMware to AWS in education
 
+### 11:30 am-12:30 am, Breakout Session
+
+### EDU203 Speakers
+
+* Kevin Murakoshi, AWS
+* Chandra Avutu, AWS
+
+### EDU203 Technologies for further investigation
+
+* 
