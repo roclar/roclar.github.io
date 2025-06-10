@@ -56,3 +56,28 @@ title: AWS Summit DC - Conference Day One - Washington, DC
 ### KUB301 Technologies for further investigation
 
 * 
+
+## NET202: Leveraging Generative AI for building AWS networks
+
+### 3:15 pm-4:15 pm, Breakout Session
+
+### NET202 Speakers
+
+* Tushar Jagdale, AWS
+* Sohaib Tahir, AWS
+
+### NET202 Technologies for further investigation
+
+* 
+
+## EDU201: How data modernization powers educational innovation
+
+### 4:30 pm-5:00 pm, Breakout Session
+
+### EDU201 Speakers
+
+* 
+
+### EDU201 Technologies for further investigation
+
+* 
