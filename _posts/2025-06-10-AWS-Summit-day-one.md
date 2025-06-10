@@ -90,16 +90,24 @@ title: AWS Summit DC - Conference Day One - Washington, DC
 
 ### CDN301 Technologies for further investigation
 
-* 
+* [Supercell Delivers Dynamic, Low-Latency Games to Millions of Players Using AWS Edge Services](https://aws.amazon.com/solutions/case-studies/supercell-edge-services-case-study/)
+* [Routing traffic to an Amazon CloudFront distribution by using your domain name](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-to-cloudfront-distribution.html)
+* [AWS Shield](https://aws.amazon.com/shield/)
+* [AWS WAF](https://aws.amazon.com/waf/)
+* [Customize at the edge with CloudFront Functions](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/cloudfront-functions.html)
+* [Amazon CloudFront SaaS Manager](https://aws.amazon.com/cloudfront/features/saas-manager/)
 
-## EDU201: How data modernization powers educational innovation
+## NPR204: Emergency Preparedness: Mission-Critical Flood Forecasting Solutions
 
 ### 4:30 pm-5:00 pm, Breakout Session
 
-### EDU201 Speakers
+### NPR204 Speakers
 
-* 
+* Zach Cobell, [The Water Institute](https://thewaterinstitute.org)
+* Matt Bollinger, AWS
 
-### EDU201 Technologies for further investigation
+### NPR204 Technologies for further investigation
 
-* 
+* [AWS ParallelCluster](https://aws.amazon.com/hpc/parallelcluster/)
+* [Open Data on AWS](https://aws.amazon.com/opendata/)
+* [Amazon FSx for Lustre](https://aws.amazon.com/fsx/lustre/)
