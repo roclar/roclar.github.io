@@ -20,7 +20,20 @@ title: AWS Summit DC - Conference Day One - Washington, DC
 
 ### MAM202 Technologies for further investigation
 
-* 
+* [AWS Application Migration Service](https://aws.amazon.com/application-migration-service/)
+* [AWS Application Discovery Service](https://aws.amazon.com/application-discovery/)
+* [AWS What is a cloud center of excellence and why should your organization create one?](https://aws.amazon.com/blogs/publicsector/what-is-cloud-center-excellence-why-should-your-organization-create-one/)
+* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc)
+* [EC2 Image Builder](https://aws.amazon.com/image-builder/)
+* [AWS Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/)
+* [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/)
+* [AWS Systems Manager](https://aws.amazon.com/systems-manager/)
+* [AWS Compute Optimizer](https://aws.amazon.com/compute-optimizer/)
+* [AWS Config](https://aws.amazon.com/config/)
+* [Concierto](https://www.concierto.cloud) (Trianz)
+* [Cutover](https://www.cutover.com/cutover-and-aws)
+* [Matilda Cloud](https://www.matildacloud.com)
+* [modelizeIT](https://www.modelizeit.com)
 
 ## KEY001: Dave Levy Keynote
 
@@ -41,32 +54,41 @@ title: AWS Summit DC - Conference Day One - Washington, DC
 
 ### KUB303 Technologies for further investigation
 
-* 
+* [Karpenter](https://karpenter.sh/)
+* [AWS News Blog: Introducing Karpenter – An Open-Source High-Performance Kubernetes Cluster Autoscaler](https://aws.amazon.com/blogs/aws/introducing-karpenter-an-open-source-high-performance-kubernetes-cluster-autoscaler/)
+* [Install Karpenter](https://catalog.us-east-1.prod.workshops.aws/event/dashboard/en-US/workshop/install-karpenter)
+* [eks-node-viewer](https://github.com/awslabs/eks-node-viewer)
+* [k9s cli](https://k9scli.io/)
 
-## KUB301: Simplify Kubernetes workloads with Karpenter & Amazon EKS Auto Mode
+## CMP305-R1: Run containerized workloads efficiently on AWS
 
-### 2:00 pm-3:00 pm, Breakout Session
+### 2:00 pm-2:30 pm, Chalk Talk
 
-### KUB301 Speakers
+### CMP305-R1 Speakers
 
-* Rajdeep Saha, AWS
-* Sheetal Joshi, AWS
-* Nirmal Mehta, AWS
+* Anel Perez, AWS
+* Tim Jones, AWS
 
-### KUB301 Technologies for further investigation
+### CMP305-R1 Technologies for further investigation
 
-* 
+* [AWS Graviton Processor](https://aws.amazon.com/pm/ec2-graviton/)
+* [AWS Graviton Porting Advisor](https://github.com/aws/porting-advisor-for-graviton)
+* [AWS Graviton Getting Started Guide](https://github.com/aws/aws-graviton-getting-started)
+* [AWS Multi-Architecture Build Pipeline](https://github.com/aws-samples/aws-multiarch-container-build-pipeline)
+* [Efficient Compute - Hands on Workshops](https://ec2spotworkshops.com)
+* [Introducing multi-architecture container images for Amazon ECR](https://aws.amazon.com/blogs/containers/introducing-multi-architecture-container-images-for-amazon-ecr/)
+* [Pushing a multi-architecture image to an Amazon ECR private repository](https://docs.aws.amazon.com/AmazonECR/latest/userguide/docker-push-multi-architecture-image.html)
 
-## NET202: Leveraging Generative AI for building AWS networks
+## CDN301: Migration and Modernization with Amazon CloudFront
 
 ### 3:15 pm-4:15 pm, Breakout Session
 
-### NET202 Speakers
+### CDN301 Speakers
 
-* Tushar Jagdale, AWS
-* Sohaib Tahir, AWS
+* Vivek Sharma, AWS
+* Bhagirath Gaonkar, AWS
 
-### NET202 Technologies for further investigation
+### CDN301 Technologies for further investigation
 
 * 
 
