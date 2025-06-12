@@ -59,8 +59,10 @@ title: AWS Summit DC - Conference Day Two - Washington, DC
 ### SEC311 Technologies for further investigation
 
 * [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/)
+* [AWS Secrets Manager pricing](https://aws.amazon.com/secrets-manager/pricing/)
 * [What is AWS Secrets Manager?](https://docs.aws.amazon.com/secretsmanager/latest/userguide/intro.html)
 * [Infisical.com - AWS Secrets Manager vs HashiCorp Vault 2025](https://infisical.com/blog/aws-secrets-manager-vs-hashicorp-vault)
+* [aws-samples/maximizing-secrets-management-with-aws-secrets-manager](https://github.com/aws-samples/maximizing-secrets-management-with-aws-secrets-manager)
 
 ## CMP303: Compute innovation with the AWS Nitro System
 
@@ -73,14 +75,4 @@ title: AWS Summit DC - Conference Day Two - Washington, DC
 
 ### CMP303 Technologies for further investigation
 
-* 
-
-## TNC102-R6 - Self-paced Labs: Come and go as you please (REPEAT)
-
-### 3:00 pm-4:00 am, Self-paced training
-
-### TNC102-R6 Speakers
-
-### TNC102-R6 Technologies for further investigation
-
-* 
+* [AWS Nitro System](https://aws.amazon.com/ec2/nitro/)
