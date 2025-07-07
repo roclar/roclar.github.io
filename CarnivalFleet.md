@@ -46,11 +46,23 @@ full-width: true
 | [Mardi Gras](https://en.wikipedia.org/wiki/RMS_Empress_of_Canada_(1960)) | Empress | 1972 | 1995 | 27,284 | 198.12m | 26.4m | 1,048 | 470 | Panama | | Alang, India 2003 | Originally Empress of Canada. |
 | [Carnivale](https://en.wikipedia.org/wiki/RMS_Empress_of_Britain_(1955)) | Empress | 1975 | 1994 | 31,500 | 200m | 26m | 1,313 | 464 | Panama | [Queen Elizabeth II](https://en.wikipedia.org/wiki/Elizabeth_II) | Alang, India 2008 | Originally Empress of Britain. |
 | [Festivale](https://en.wikipedia.org/wiki/RMS_Transvaal_Castle) | Festivale | 1977 | 1996 | 2,697 | 231.7m | 27.48m | 1,432 | 579 | Panama | | Alang, India 2003 | Originally RMS Transvaal Castle. |
-| [Tropicale](https://en.wikipedia.org/wiki/MS_Tropicale) | Tropicale | 1982 | 2001 | 36,674 | 204.76m | 26.45m | 1,412 | 550 | Liberia | | Alang, India 2021 | First Carnival built ship with whale tale funnel. | 
- 
+| [Tropicale](https://en.wikipedia.org/wiki/MS_Tropicale) | Tropicale | 1982 | 2001 | 36,674 | 204.76m | 26.45m | 1,412 | 550 | Liberia | | Alang, India 2021 | First Carnival built ship with whale tale funnel. |
+| [Holiday](https://en.wikipedia.org/wiki/MS_Holiday) | Holiday | 1985 | 2009 | 46,051 | 222m | 32.2m | 1,452 | 660 | Bahamas | | Alang, India 2021 | |
+| [Jubilee](https://en.wikipedia.org/wiki/MS_Jubilee) | Holiday | 1986 | 2004 | 47,262 | 223.4m | 28.2m | 1,486 | 670 | Liberia | | Alang, India 2017 | |
+| [Celebration](https://en.wikipedia.org/wiki/MS_Celebration) | Holiday | 1987 | 2009 | 47,262 | 223.37m | 28.2m | 1,496 | 670 | Liberia | | Alang, India 2021 | |
+| [Fantasy](https://en.wikipedia.org/wiki/Carnival_Fantasy) | Fantasy | 1990 | 2020 | 70,367 | 261m | 31m | 2,052 | 920 | Panama | [Tellervo Koivisto](https://en.wikipedia.org/wiki/Tellervo_Koivisto) | Aliaga, Turkey 2020 | |
+| [Ecstasy](https://en.wikipedia.org/wiki/Carnival_Ecstasy) | Fantasy | 1991 | 2022 | 70,367 | 261m | 31m | 2,052 | 920 | Panama | [Kathie Lee Gifford](https://en.wikipedia.org/wiki/Kathie_Lee_Gifford) | Aliaga, Turkey 2022 | |
+| [Sensation](https://en.wikipedia.org/wiki/Carnival_Sensation) | Fantasy | 1993 | 2022 | 70,367 | 261m | 31m | 2,052 | 920 | Bahamas | Vicki L. Freed, Roberta Jacoby, Cherie Weinstein, Geri Donnelly | Aliaga, Turkey 2022 | Sponsors are CCL VPs |
+| [Fascination](https://en.wikipedia.org/wiki/Carnival_Fascination) | Fantasy | 1994 | 2020 | 70,367 | 261m | 31m | 2,056 | Panama | Jeanne Farcus | Gadani, Pakistan 2022 | |
+| [Imagination](https://en.wikipedia.org/wiki/Carnival_Imagination) | Fantasy | 1995 | 2020 | 70,367 | 261m | 31m | 2,056 | Panama | Jodi Dickinson | Aliaga, Turkey 2020 | |
+| [Inspiration](https://en.wikipedia.org/wiki/Carnival_Inspiration) | Fantasy | 1996 | 2020 | 70,367 | 261m | 31m | 2,056 | Panama | Mary Anne Shula | Aliaga, Turkey 2020 | |
+| [Destiny](https://en.wikipedia.org/wiki/Carnival_Sunshine) | Destiny | 1996 | 2013 | 102,853 | 272.2m | 35.5m | 2,642 | Bahamas | [Lin Arison](https://en.wikipedia.org/wiki/Lin_Arison) | | Became Sunshine |
+| [Triumph](https://en.wikipedia.org/wiki/Carnival_Sunrise) | Destiny | 1999 | 2019 | 101,509 | 272.3m | 35.5m | 2,642 | Bahamas | Madeline Arison | | Became Sunrise |
+| [Victory](https://en.wikipedia.org/wiki/Carnival_Radiance) | Destiny | 1997 | 2021 | 101,509 | 272m | 35m | 2,642 | Panama | Mary Frank | | Became Radiance |
 
 ## Sources
 
 * [Carnival Cruise Line Wiki page](https://en.wikipedia.org/wiki/Carnival_Cruise_Line)
 * [RyG's Cruise Guide Carnival Cruise Ship Godmothers and Godfathers List](http://www.embarkandaway.com/general-cruise-blog/carnival-cruise-ship-godmothers-and-godfathers-list)
+* [John Healds Blog (archive) - A Cycle of Godmothers](https://web.archive.org/web/20190402163111/https://johnhealdsblog.com/2012/12/03/a-cycle-of-godmothers/)
 * [Carnival Cruise Director Airtable](https://airtable.com/appin6uTVeCF8mthS/shrxzucqLGHbpDmm8/tblZJCAW6us7UhDmZ)
