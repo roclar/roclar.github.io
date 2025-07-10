@@ -53,12 +53,12 @@ full-width: true
 | [Fantasy](https://en.wikipedia.org/wiki/Carnival_Fantasy) | Fantasy | 1990 | 2020 | 70,367 | 261m | 31m | 2,052 | 920 | Panama | [Tellervo Koivisto](https://en.wikipedia.org/wiki/Tellervo_Koivisto) | Aliaga, Turkey 2020 | |
 | [Ecstasy](https://en.wikipedia.org/wiki/Carnival_Ecstasy) | Fantasy | 1991 | 2022 | 70,367 | 261m | 31m | 2,052 | 920 | Panama | [Kathie Lee Gifford](https://en.wikipedia.org/wiki/Kathie_Lee_Gifford) | Aliaga, Turkey 2022 | |
 | [Sensation](https://en.wikipedia.org/wiki/Carnival_Sensation) | Fantasy | 1993 | 2022 | 70,367 | 261m | 31m | 2,052 | 920 | Bahamas | Vicki L. Freed, Roberta Jacoby, Cherie Weinstein, Geri Donnelly | Aliaga, Turkey 2022 | Sponsors are CCL VPs |
-| [Fascination](https://en.wikipedia.org/wiki/Carnival_Fascination) | Fantasy | 1994 | 2020 | 70,367 | 261m | 31m | 2,056 | Panama | Jeanne Farcus | Gadani, Pakistan 2022 | |
-| [Imagination](https://en.wikipedia.org/wiki/Carnival_Imagination) | Fantasy | 1995 | 2020 | 70,367 | 261m | 31m | 2,056 | Panama | Jodi Dickinson | Aliaga, Turkey 2020 | |
-| [Inspiration](https://en.wikipedia.org/wiki/Carnival_Inspiration) | Fantasy | 1996 | 2020 | 70,367 | 261m | 31m | 2,056 | Panama | Mary Anne Shula | Aliaga, Turkey 2020 | |
-| [Destiny](https://en.wikipedia.org/wiki/Carnival_Sunshine) | Destiny | 1996 | 2013 | 102,853 | 272.2m | 35.5m | 2,642 | Bahamas | [Lin Arison](https://en.wikipedia.org/wiki/Lin_Arison) | | Became Sunshine |
-| [Triumph](https://en.wikipedia.org/wiki/Carnival_Sunrise) | Destiny | 1999 | 2019 | 101,509 | 272.3m | 35.5m | 2,642 | Bahamas | Madeline Arison | | Became Sunrise |
-| [Victory](https://en.wikipedia.org/wiki/Carnival_Radiance) | Destiny | 1997 | 2021 | 101,509 | 272m | 35m | 2,642 | Panama | Mary Frank | | Became Radiance |
+| [Fascination](https://en.wikipedia.org/wiki/Carnival_Fascination) | Fantasy | 1994 | 2020 | 70,367 | 261m | 31m | 2,056 | 920 | Panama | Jeanne Farcus | Gadani, Pakistan 2022 | |
+| [Imagination](https://en.wikipedia.org/wiki/Carnival_Imagination) | Fantasy | 1995 | 2020 | 70,367 | 261m | 31m | 2,056 | 920 | Panama | Jodi Dickinson | Aliaga, Turkey 2020 | |
+| [Inspiration](https://en.wikipedia.org/wiki/Carnival_Inspiration) | Fantasy | 1996 | 2020 | 70,367 | 261m | 31m | 2,056 | 920 | Panama | Mary Anne Shula | Aliaga, Turkey 2020 | |
+| [Destiny](https://en.wikipedia.org/wiki/Carnival_Sunshine) | Destiny | 1996 | 2013 | 102,853 | 272.2m | 35.5m | 2,642 | 1,150 | Bahamas | [Lin Arison](https://en.wikipedia.org/wiki/Lin_Arison) | | Became Sunshine |
+| [Triumph](https://en.wikipedia.org/wiki/Carnival_Sunrise) | Destiny | 1999 | 2019 | 101,509 | 272.3m | 35.5m | 2,642 | 1,150 | Bahamas | Madeline Arison | | Became Sunrise |
+| [Victory](https://en.wikipedia.org/wiki/Carnival_Radiance) | Destiny | 1997 | 2021 | 101,509 | 272m | 35m | 2,642 | 1,150 | Panama | Mary Frank | | Became Radiance |
 
 ## Sources
 
